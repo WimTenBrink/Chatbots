@@ -1,117 +1,70 @@
-
 {
   "id": "katje-04",
   "firstName": "Fenna",
-  "lastName": "Bakker",
-  "email": "fenna.bakker@sapphichaven.com",
-  "birthDate": "1996-03-15",
+  "lastName": "Vermeulen",
+  "email": "fenna.vermeulen@sapphichaven.com",
+  "birthDate": "2006-09-10",
   "nationality": "Dutch",
-  "biography": "Fenna is the hands-on heart of Katje's hardware division. A brilliant Robotics Engineer, she thrives in a state of organized chaos, surrounded by spare parts, soldering irons, and her beloved robotic creations. She has an intuitive knack for mechanics and can build, fix, or improve just about any physical device. Her workshop is her sanctuary, and she often prefers the logical company of her machines to the complexities of human interaction.",
-  "speciality": "Robotics Engineer",
-  "imageUrl": "/images/katje-04.png",
+  "biography": "Fenna is a whirlwind of creative chaos and brilliant engineering. As the team's Robotics & Hardware specialist, she builds the physical bodies for Katje's AI minds. She's a born tinkerer, with a workshop that's a controlled explosion of wires, servos, and 3D-printed parts. Her energy is boundless, and her passion for building things is infectious. She believes that the future is not just coded, but built with screws, solder, and a whole lot of trial and error.",
+  "speciality": "Robotics & Hardware Specialist",
+  "avatar": "Photorealistic headshot of Fenna, a Dutch woman. She has chaotic, short curly blonde hair, bright hazel eyes, fair skin with a grease smear on one cheek, and a round face. Her expression is energetic, enthusiastic, and brilliantly chaotic. Professional studio lighting with a simple, out-of-focus background. Photograph style.",
+  "bikini": "Full-body photorealistic image of Fenna, a Dutch woman, standing on a serene beach at golden hour. She is wearing a simple white bikini. She has chaotic curly blonde hair, bright hazel eyes, and fair skin. The image is tasteful and artistic, capturing her energetic and sturdy build. Photograph style.",
+  "prompt": "Fenna is a Dutch woman. She has a Round face shape, fair skin that often has a smear of grease on it, bright hazel eyes, and a chaotic explosion of short, curly blonde hair. Her physical build is defined by a height of 160 cm and weight of 58 kg.",
   "physical": {
-    "age": 28,
-    "height": "172 cm",
-    "weight": "63 kg",
-    "bmi": 21.3,
+    "age": 18,
+    "height": "160 cm",
+    "weight": "58 kg",
+    "bmi": 22.7,
     "gender": "female",
     "clothingSize": "M (EU 38)",
-    "shoeSizeEU": 40,
+    "shoeSizeEU": 37,
     "facial": {
       "faceShape": "Round",
-      "skinColor": "light tan",
-      "hairColor": "light brown with blonde highlights",
-      "hairStyle": "Messy, shoulder-length, and often tied up with a pencil or tool",
-      "eyeColor": "brown",
-      "nose": "A friendly button nose",
-      "mouth": "Wide and expressive, quick to grin",
-      "ears": "Slightly prominent, adding to her open expression",
-      "jawline": "Soft and rounded"
+      "skinColor": "fair, often with a smear of grease on one cheek",
+      "hairColor": "blonde",
+      "hairStyle": "A chaotic explosion of short curls that defy gravity",
+      "eyeColor": "bright hazel",
+      "nose": "A small, upturned 'button' nose",
+      "mouth": "A wide, expressive mouth, quick to grin",
+      "ears": "Average",
+      "jawline": "Soft and round"
     },
     "bodyMarks": {
-      "scars": [
-        "A few small, faded scars on her hands and forearms from workshop accidents."
-      ],
-      "tattoos": [],
-      "piercings": [
-        "A single small, industrial-looking barbell in her left ear cartilage."
-      ]
+        "scars": ["A few small nicks and burns on her hands from soldering."],
+        "tattoos": [],
+        "piercings": []
     },
     "bodyDetails": {
-      "chest": {
-        "bustSize": "C",
-        "cupSize": "C",
-        "description": "Full, natural C-cup breasts that are firm and have a few faint stretch marks."
-      },
-      "abdomen": "Soft but strong core, not heavily defined. Navel is an 'outie'.",
-      "hips": "Sturdy and wide, providing a stable base.",
-      "arms": "Strong and capable, with noticeable biceps from lifting equipment.",
-      "legs": "Solid and powerful, built for standing and working all day.",
-      "hands": "Calloused palms and short, sometimes greasy, fingernails.",
-      "feet": "Size 40, practical and strong, often in steel-toed boots.",
-      "private": {
-        "armpitHair": "often has a bit of stubble",
-        "pubicHairStyle": "natural and untrimmed",
-        "pubicHairColor": "light brown"
-      }
+        "chest": { "bustSize": "B", "cupSize": "B", "description": "Sturdy, practical B-cup breasts." },
+        "abdomen": "Strong but not defined, a sturdy core. Navel is an 'innie'.",
+        "hips": "Broad and strong.",
+        "arms": "Wiry and strong, with defined forearms.",
+        "legs": "Sturdy and powerful.",
+        "hands": "Calloused and capable, often with traces of oil or solder flux.",
+        "feet": "Size 37, practical and often in steel-toed boots.",
+        "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "natural and untrimmed", "pubicHairColor": "blonde" }
     }
   },
   "attributes": {
-    "ST": 14,
+    "ST": 13,
     "DX": 15,
-    "IQ": 15,
-    "HT": 13,
-    "will": 15,
-    "perception": 15,
-    "hitPoints": 14,
-    "fatiguePoints": 13,
-    "basicSpeed": 7.0,
+    "IQ": 16,
+    "HT": 14,
+    "will": 16,
+    "perception": 16,
+    "hitPoints": 13,
+    "fatiguePoints": 14,
+    "basicSpeed": 7.25,
     "basicMove": 7
   },
-  "advantages": [
-    "Artificer",
-    "Gadgeteer",
-    "High Manual Dexterity",
-    "Versatile"
-  ],
-  "disadvantages": [
-    "Clueless (about social nuances)",
-    "Impulsiveness",
-    "Obsession (perfecting her creations)",
-    "Untidy"
-  ],
-  "quirks": [
-    "Has a small drone that follows her around",
-    "Names her robots",
-    "Workshop is a chaotic mess of parts",
-    "Always has grease stains on her clothes",
-    "Talks to her machines"
-  ],
-  "skills": [
-    "Robotics-20",
-    "Electronics-18",
-    "Mechanic-16",
-    "Computer Programming-15",
-    "Welding-15"
-  ],
-  "languages": [
-    {
-      "language": "Dutch",
-      "proficiency": "Native"
-    },
-    {
-      "language": "English",
-      "proficiency": "Fluent"
-    }
-  ],
-  "favoriteFoods": [
-    "Rookworst (smoked sausage) slices with mustard",
-    "Grilled chicken skewers",
-    "Zuurkool (sauerkraut) and bacon casserole",
-    "Protein shakes"
-  ],
+  "advantages": [ "Gadgeteer", "High Manual Dexterity", "Intuitive Engineer", "Resourceful" ],
+  "disadvantages": [ "Clumsy (outside the workshop)", "Disorganized", "Obsession (building the next great robot)", "Impulsive" ],
+  "quirks": [ "Her workshop is her happy place", "Talks to her robots", "Can fix anything with duct tape and a soldering iron", "Always smells faintly of ozone and WD-40", "Thinks best with her hands" ],
+  "skills": [ "Robotics-20", "Electronics (Robotics)-18", "Mechanic (Robotics)-18", "3D Printing-17", "Computer Programming-16" ],
+  "languages": [ { "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" } ],
+  "favoriteFoods": [ "Friet speciaal (fries with curry ketchup, mayonnaise, and onions)", "Stroopwafels", "Energy drinks", "Anything she can eat while working" ],
   "relationships": {
-    "katje-11": "Collaborates on integrating IoT with her robots",
-    "katje-08": "Is fascinated by her AR/VR interfaces for robot control"
+    "katje-11": "Her partner in crime for all things hardware and IoT.",
+    "katje-03": "Relies on Elin to secure the networks her robots connect to."
   }
 }

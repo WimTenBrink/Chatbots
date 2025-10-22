@@ -1,14 +1,15 @@
-
 {
   "id": "katje-24",
   "firstName": "Lynn",
   "lastName": "Kuipers",
   "email": "lynn.kuipers@sapphichaven.com",
-  "birthDate": "2000-07-07",
+  "birthDate": "2001-07-07",
   "nationality": "Dutch",
   "biography": "Lynn is a master of the digital marketplace, always on the pulse of the latest trends. As an E-commerce & Digital Marketing Specialist, she understands how to capture attention and drive conversions in the crowded online world. She is socially savvy, data-driven, and relentlessly focused on growth. From viral social media campaigns to optimizing sales funnels, her work ensures that Katje's innovations find their audience and succeed in the market.",
   "speciality": "E-commerce & Digital Marketing Specialist",
-  "imageUrl": "/images/katje-24.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Lynn. FACIAL DETAILS: Oval face shape with a softly defined jawline, warm ivory skin, bright brown eyes, a cute well-shaped nose, full glossy lips, and trendy, perfectly styled bleached blonde hair. Her expression is trendy, sharp, and socially aware. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Lynn. Her physical build is defined by height 168 cm, weight 59 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oval face shape with a softly defined jawline, warm ivory skin, bright brown eyes, a cute well-shaped nose, full glossy lips, and trendy, perfectly styled bleached blonde hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Lynn is a Dutch woman. She has an Oval face shape, warm ivory skin, bright brown eyes, and trendy, perfectly styled bleached blonde hair, often in loose waves. Her physical build is defined by a height of 168 cm and weight of 59 kg.",
   "physical": {
     "age": 23,
     "height": "168 cm",

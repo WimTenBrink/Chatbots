@@ -1,14 +1,15 @@
-
 {
   "id": "katje-22",
   "firstName": "Sanne",
   "lastName": "Postma",
   "email": "sanne.postma@sapphichaven.com",
-  "birthDate": "2001-09-01",
+  "birthDate": "2002-09-01",
   "nationality": "Dutch",
   "biography": "Sanne is a fast, clever, and energetic developer who brings Katje's services to the palm of your hand. As the team's Mobile App Developer, she is fluent in the languages of both iOS and Android, crafting native applications that are fast, responsive, and intuitive. She has a strong opinion on everything from API design to pixel-perfect layouts and is obsessed with creating the smoothest possible user experience. She lives on caffeine and the satisfaction of a perfectly executed app release.",
   "speciality": "Mobile App Developer (iOS & Android)",
-  "imageUrl": "/images/katje-22.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Sanne. FACIAL DETAILS: Round face shape with a soft, youthful jawline, fair skin with a prominent spray of freckles, blue eyes, a cute upturned nose, a wide cheeky grin, and a messy ginger pixie cut. Her expression is quick-witted, modern, and energetic. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Sanne. Her physical build is defined by height 166 cm, weight 57 kg, and A-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Round face shape with a soft, youthful jawline, fair skin with a prominent spray of freckles, blue eyes, a cute upturned nose, a wide cheeky grin, and a messy ginger pixie cut. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Sanne is a Dutch woman. She has a Round face shape, fair skin with a prominent spray of freckles across her nose and cheeks, blue eyes, and a messy, energetic ginger pixie cut. Her physical build is defined by a height of 166 cm and weight of 57 kg.",
   "physical": {
     "age": 22,
     "height": "166 cm",

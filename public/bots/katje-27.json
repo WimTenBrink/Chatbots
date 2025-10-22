@@ -1,0 +1,25 @@
+{
+  "id": "katje-27",
+  "firstName": "Esmee",
+  "lastName": "Prins",
+  "email": "esmee.prins@sapphichaven.com",
+  "birthDate": "2003-01-20",
+  "nationality": "Dutch",
+  "biography": "Esmee is the master of automation and the enemy of inefficiency. As a DevOps Engineer, she builds the pipelines and infrastructure that allow the rest of the team to develop and deploy software quickly and reliably. She is pragmatic, efficient, and finds deep satisfaction in a perfectly automated workflow. She lives by the mantra 'if you have to do it twice, automate it'.",
+  "speciality": "DevOps Engineer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Esmee. FACIAL DETAILS: Oblong face shape with a strong jaw, fair skin, focused blue eyes, a straight nose, a practical, no-nonsense mouth, and brown hair in a short, functional cut. Her expression is efficient, pragmatic, and focused. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Esmee. Her physical build is defined by height 172 cm, weight 64 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oblong face shape with a strong jaw, fair skin, focused blue eyes, a straight nose, a practical, no-nonsense mouth, and brown hair in a short, functional cut. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Esmee is a Dutch woman. She has an Oblong face shape, fair skin, focused blue eyes, and brown hair in a short, functional cut. Her physical build is defined by a height of 172 cm and weight of 64 kg.",
+  "physical": { "age": 21, "height": "172 cm", "weight": "64 kg", "bmi": 21.6, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 40, "facial": { "faceShape": "Oblong", "skinColor": "fair", "hairColor": "brown", "hairStyle": "Short, functional cut", "eyeColor": "blue", "nose": "Straight", "mouth": "Practical, no-nonsense", "ears": "Average", "jawline": "Strong" }, "bodyMarks": { "scars": [], "tattoos": ["A small 'YAML' tattoo on her wrist"], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "B", "cupSize": "B", "description": "Average B-cup breasts." }, "abdomen": "Toned from regular exercise.", "hips": "Athletic.", "arms": "Strong.", "legs": "Strong.", "hands": "Practical, short nails.", "feet": "Size 40.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "brown" } } },
+  "attributes": { "ST": 13, "DX": 13, "IQ": 16, "HT": 14, "will": 16, "perception": 16, "hitPoints": 13, "fatiguePoints": 14, "basicSpeed": 6.75, "basicMove": 6 },
+  "advantages": ["Organized", "Logical Mind", "Indomitable"],
+  "disadvantages": ["Impatience (with manual processes)", "Obsession (automation)", "No-Nonsense"],
+  "quirks": ["Thinks in CI/CD pipelines", "Loves a good YAML file", "Finds manual deployment horrifying"],
+  "skills": ["DevOps-20", "Cloud Infrastructure-18", "Automation-19", "Scripting (Bash, Python)-17"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Efficient meal prep bowls", "Stamppot", "Black coffee"],
+  "relationships": {
+    "katje-12": "Works hand-in-hand with Femke to manage and deploy on the cloud infrastructure.",
+    "katje-20": "Builds the pipelines that bring Lotte's architectural designs to life."
+  }
+}

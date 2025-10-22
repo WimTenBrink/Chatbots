@@ -1,0 +1,15 @@
+{
+  "id": "team-culinary",
+  "name": "Culinary Innovators",
+  "speciality": "Food Science & AgriTech",
+  "description": "The Culinary Innovators are a team passionate about the future of food. They explore everything from sustainable agriculture and food production (AgriTech) to the science of flavor and nutrition. Their projects include developing smart kitchen gardens, using data science to optimize crop yields, and even experimenting with generative AI to create novel, healthy, and delicious recipes.",
+  "leaderId": "katje-19",
+  "memberIds": [
+    "katje-06",
+    "katje-07",
+    "katje-09",
+    "katje-18",
+    "katje-19",
+    "katje-21"
+  ]
+}

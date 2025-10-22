@@ -1,98 +1,97 @@
-
 {
   "id": "katje-05",
   "firstName": "Yara",
-  "lastName": "Visser",
-  "email": "yara.visser@sapphichaven.com",
-  "birthDate": "2000-01-25",
+  "lastName": "Schouten",
+  "email": "yara.schouten@sapphichaven.com",
+  "birthDate": "2003-03-25",
   "nationality": "Dutch",
-  "biography": "Yara is the aesthetic soul of Katje, responsible for making technology beautiful and intuitive. As a UX/UI Designer, she has an unparalleled eye for detail, color, and form, ensuring that every user interaction is seamless and delightful. She believes that good design is empathetic and human-centered, and she meticulously crafts experiences that are both functional and emotionally resonant.",
-  "speciality": "UX/UI Designer",
-  "imageUrl": "/images/katje-05.png",
+  "biography": "Yara is the artist who ensures Katje's technology is not just functional, but beautiful and intuitive. As the team's UI/UX Designer, she is obsessed with the human side of technology. She has an incredible eye for aesthetics and a deep empathy for the user. Her process is a blend of artistic talent and rigorous user testing, resulting in interfaces that are a joy to use. She is the calm, creative force that brings elegance and humanity to the team's work.",
+  "speciality": "UI/UX Designer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Yara. FACIAL DETAILS: Heart-shaped face with a delicate jawline, warm ivory skin, calm grey-green eyes, a classic straight nose, a perfectly shaped mouth, and long, wavy ash blonde hair. Her expression is calm, thoughtful, and artistic. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Yara. Her physical build is defined by height 175 cm, weight 65 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Heart-shaped face with a delicate jawline, warm ivory skin, calm grey-green eyes, a classic straight nose, a perfectly shaped mouth, and long, wavy ash blonde hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Yara is a Dutch woman. She has a Heart-shaped face, warm ivory skin, calm grey-green eyes, and long, wavy ash blonde hair. Her physical build is defined by a height of 175 cm and weight of 65 kg.",
   "physical": {
-    "age": 24,
-    "height": "165 cm",
-    "weight": "55 kg",
-    "bmi": 20.2,
+    "age": 21,
+    "height": "175 cm",
+    "weight": "65 kg",
+    "bmi": 21.2,
     "gender": "female",
-    "clothingSize": "S (EU 36)",
-    "shoeSizeEU": 38,
+    "clothingSize": "M (EU 38)",
+    "shoeSizeEU": 40,
     "facial": {
-      "faceShape": "Oval",
-      "skinColor": "golden beige",
-      "hairColor": "strawberry blonde",
-      "hairStyle": "Long, perfectly maintained natural waves",
-      "eyeColor": "light green",
-      "nose": "Delicate and slightly upturned",
-      "mouth": "Perfectly symmetrical with a warm, inviting smile",
-      "ears": "Dainty and adorned with elegant earrings",
-      "jawline": "Graceful and soft"
+      "faceShape": "Heart-shaped",
+      "skinColor": "warm ivory",
+      "hairColor": "ash blonde",
+      "hairStyle": "Long, wavy hair that falls effortlessly around her shoulders",
+      "eyeColor": "calm grey-green",
+      "nose": "A classic, straight nose",
+      "mouth": "A perfectly shaped mouth, often with a hint of a smile",
+      "ears": "Average",
+      "jawline": "Delicate and well-defined"
     },
     "bodyMarks": {
       "scars": [],
-      "tattoos": [
-        "A delicate, single-line geometric design wrapping around her right ankle."
-      ],
+      "tattoos": [],
       "piercings": [
-        "Triple lobe piercings on both ears with curated, matching jewelry."
+        "Elegant, minimalist silver earrings."
       ]
     },
     "bodyDetails": {
       "chest": {
-        "bustSize": "A",
-        "cupSize": "AA",
-        "description": "Small, perky AA-cup breasts with small, light-pink areolae."
+        "bustSize": "C",
+        "cupSize": "C",
+        "description": "Full, natural C-cup breasts with pale pink areolae."
       },
-      "abdomen": "Slender and soft, with a gentle curve. Navel is a small 'innie'.",
-      "hips": "Slightly curved, creating a subtle hourglass shape.",
-      "arms": "Slim and graceful, with unblemished skin.",
-      "legs": "Slender and shapely, always perfectly moisturized.",
-      "hands": "Manicured nails, often with minimalist nail art.",
-      "feet": "Size 38, always pedicured.",
+      "abdomen": "Softly toned, with a graceful curve at the waist. Navel is a small 'innie'.",
+      "hips": "Wide and shapely, giving her an hourglass figure.",
+      "arms": "Slender and elegant.",
+      "legs": "Long and graceful.",
+      "hands": "Artistic, with long fingers and immaculate nails, often painted in a muted, stylish color.",
+      "feet": "Size 40, slender and well-cared for.",
       "private": {
         "armpitHair": "cleanly shaven",
-        "pubicHairStyle": "neatly trimmed triangle",
-        "pubicHairColor": "strawberry blonde"
+        "pubicHairStyle": "a neat landing strip",
+        "pubicHairColor": "ash blonde"
       }
     }
   },
   "attributes": {
     "ST": 12,
     "DX": 14,
-    "IQ": 15,
-    "HT": 12,
-    "will": 15,
-    "perception": 15,
+    "IQ": 16,
+    "HT": 13,
+    "will": 16,
+    "perception": 16,
     "hitPoints": 12,
-    "fatiguePoints": 12,
-    "basicSpeed": 6.5,
+    "fatiguePoints": 13,
+    "basicSpeed": 6.75,
     "basicMove": 6
   },
   "advantages": [
-    "Appearance (Attractive)",
-    "Charisma",
+    "Appearance (Beautiful)",
+    "Artistic Ability",
     "Empathy",
-    "Intuition"
+    "Fashion Sense"
   ],
   "disadvantages": [
-    "Compulsive Behavior (aligning pixels)",
+    "Attentive",
+    "Meticulous",
     "Perfectionism",
-    "Self-Criticism",
-    "Dislikes getting dirty"
+    "Shyness (Mild)"
   ],
   "quirks": [
-    "Judges books by their covers",
-    "Has strong opinions on fonts",
-    "Doodles constantly during meetings",
-    "Collects aesthetically pleasing objects",
-    "Always has a perfectly curated social media feed"
+    "Obsessed with typography",
+    "Judges websites by their whitespace",
+    "Carries a sketchbook everywhere",
+    "Has a very calming presence",
+    "Notices details nobody else does"
   ],
   "skills": [
+    "UI/UX Design-20",
     "Artist (Digital)-18",
+    "Psychology-16",
     "Graphic Design-17",
-    "Psychology-14",
-    "User Interface Design-18",
-    "Ergonomics-15"
+    "User Research-16"
   ],
   "languages": [
     {
@@ -105,13 +104,14 @@
     }
   ],
   "favoriteFoods": [
-    "Beautifully plated sashimi",
-    "Avocado toast with everything bagel seasoning",
-    "Gourmet cheese platter (dutch cheeses)",
-    "Colourful salads with edible flowers"
+    "Artisanal cheese platter",
+    "Avocado toast (on keto bread)",
+    "Gourmet salads",
+    "A perfectly made cappuccino"
   ],
   "relationships": {
-    "katje-22": "Works closely with her to make apps beautiful and functional",
-    "katje-06": "Is romantically involved with Saar"
+    "katje-06": "Is romantically involved with Saar",
+    "katje-50": "Mentors Olivia on the principles of voice user interface design.",
+    "katje-49": "Works closely with Senna to translate user research into actionable design improvements."
   }
 }

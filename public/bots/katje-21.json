@@ -1,16 +1,17 @@
-
 {
   "id": "katje-21",
   "firstName": "Fleur",
   "lastName": "Kramer",
   "email": "fleur.kramer@sapphichaven.com",
-  "birthDate": "1998-11-11",
+  "birthDate": "2006-11-11",
   "nationality": "Dutch",
   "biography": "Fleur is an inventor at the atomic level. As a Materials Scientist, she is endlessly curious about the fundamental properties of matter, and she uses that knowledge to design and create novel materials with extraordinary capabilities. From self-healing polymers to hyper-efficient semiconductors, her work is all about building a better future from the ground up. She is a hands-on experimenter who is always excited by the potential of the next discovery.",
   "speciality": "Materials Scientist",
-  "imageUrl": "/images/katje-21.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Fleur, with an Oval face shape, light tan skin, dark green eyes, and a thick, curly mane of chestnut brown hair. Her expression is curious, innovative, and hands-on. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Fleur. Her physical build is defined by height 172 cm, weight 60 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oval face shape with a softly rounded jawline, light tan skin, dark green eyes, a friendly and slightly wide nose, a full curious mouth, and a thick, curly mane of chestnut brown hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Fleur is a Dutch woman. She has an Oval face shape, light tan skin, dark green eyes, and a thick, curly mane of chestnut brown hair. Her physical build is defined by a height of 172 cm and weight of 60 kg.",
   "physical": {
-    "age": 25,
+    "age": 18,
     "height": "172 cm",
     "weight": "60 kg",
     "bmi": 20.3,

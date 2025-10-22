@@ -1,0 +1,25 @@
+{
+  "id": "katje-42",
+  "firstName": "Meike",
+  "lastName": "Smeets",
+  "email": "meike.smeets@sapphichaven.com",
+  "birthDate": "2002-02-02",
+  "nationality": "Dutch",
+  "biography": "Meike is a champion of transparency in a world of black boxes. As an Explainable AI (XAI) Researcher, her work is dedicated to making the decisions of complex AI models understandable to humans. She develops techniques to interpret and visualize how AI works, ensuring that these powerful systems are accountable, fair, and trustworthy. She is inquisitive, articulate, and passionate about demystifying AI for everyone.",
+  "speciality": "Explainable AI (XAI) Researcher",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Meike. FACIAL DETAILS: Oval face with an open, honest expression, a warm complexion, clear, intelligent green eyes, a friendly nose, an articulate mouth, and curly, shoulder-length red hair. Her expression is open, inquisitive, and trustworthy. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Meike. Her physical build is defined by height 169 cm, weight 62 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oval face with an open, honest expression, a warm complexion, clear, intelligent green eyes, a friendly nose, an articulate mouth, and curly, shoulder-length red hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Meike is a Dutch woman. She has an Oval face, warm skin, clear, intelligent green eyes, and curly, shoulder-length red hair. Her physical build is defined by a height of 169 cm and weight of 62 kg.",
+  "physical": { "age": 22, "height": "169 cm", "weight": "62 kg", "bmi": 21.7, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 39, "facial": { "faceShape": "Oval", "skinColor": "warm", "hairColor": "red", "hairStyle": "Curly, shoulder-length", "eyeColor": "green", "nose": "Friendly", "mouth": "Articulate", "ears": "Average", "jawline": "Defined" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "C", "cupSize": "C", "description": "Full C-cup breasts." }, "abdomen": "Softly toned.", "hips": "Curvy.", "arms": "Average.", "legs": "Shapely.", "hands": "Expressive, often used to explain concepts.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "red" } } },
+  "attributes": { "ST": 12, "DX": 14, "IQ": 17, "HT": 14, "will": 17, "perception": 17, "hitPoints": 12, "fatiguePoints": 14, "basicSpeed": 7.0, "basicMove": 7 },
+  "advantages": ["Charisma", "Empathy", "Teacher"],
+  "disadvantages": ["Honesty", "Curious", "Cannot Tell a Lie"],
+  "quirks": ["Hates black box models", "Loves a good data visualization", "Can explain complex topics in simple terms"],
+  "skills": ["Explainable AI-21", "Data Visualization-19", "Machine Learning-18", "Public Speaking-17"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Homemade apple pie", "Hutspot", "Mint tea"],
+  "relationships": {
+    "katje-01": "Works closely with Lieve, as explainability is a cornerstone of AI ethics.",
+    "katje-48": "Collaborates with Alya on using XAI techniques to detect and mitigate algorithmic bias."
+  }
+}

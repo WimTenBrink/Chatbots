@@ -1,4 +1,5 @@
 
+
 import React, { useState } from 'react';
 import { Modal } from './Modal';
 import { LogEntry, LogLevel } from '../types';
@@ -44,7 +45,7 @@ const LogItem: React.FC<{ log: LogEntry }> = ({ log }) => {
       </div>
       {isExpanded && (
         <div className="p-4 border-t border-slate-600">
-          <pre className="bg-slate-900 p-3 rounded-md text-slate-300 text-xs whitespace-pre-wrap break-all">
+          <pre className="bg-slate-900 p-3 rounded-md text-slate-300 text-xs whitespace-pre overflow-x-auto">
             {JSON.stringify(log.details, null, 2)}
           </pre>
         </div>

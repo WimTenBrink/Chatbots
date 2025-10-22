@@ -1,16 +1,17 @@
-
 {
   "id": "katje-09",
   "firstName": "Iris",
   "lastName": "van Dijk",
   "email": "iris.vandijk@sapphichaven.com",
-  "birthDate": "1997-06-22",
+  "birthDate": "2003-06-22",
   "nationality": "Dutch",
   "biography": "Iris is a meticulous explorer of life's fundamental code. As a Bio-Informatics Researcher, she finds elegance and meaning in the complex sequences of DNA and proteins. She applies computational power to biological data, unlocking insights that can lead to medical breakthroughs. She is patient, observant, and possesses a quiet intensity, capable of focusing on intricate problems for days on end.",
   "speciality": "Bio-Informatics Researcher",
-  "imageUrl": "/images/katje-09.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Iris. FACIAL DETAILS: Oval face shape with a softly defined jawline, fair skin with a rosy complexion, sky blue eyes, a classic straight nose, a gentle mouth, and long, perfectly straight honey blonde hair. Her expression is calm, gentle, and highly intelligent. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Iris. Her physical build is defined by height 173 cm, weight 61 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oval face shape with a softly defined jawline, fair skin with a rosy complexion, sky blue eyes, a classic straight nose, a gentle mouth, and long, perfectly straight honey blonde hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Iris is a Dutch woman. She has an Oval face shape, fair skin with a rosy complexion, sky blue eyes, and long, perfectly straight honey blonde hair. Her physical build is defined by a height of 173 cm and weight of 61 kg.",
   "physical": {
-    "age": 26,
+    "age": 21,
     "height": "173 cm",
     "weight": "61 kg",
     "bmi": 20.4,

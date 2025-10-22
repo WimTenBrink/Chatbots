@@ -1,0 +1,15 @@
+{
+    "id": "team-next-gen",
+    "name": "Next-Gen Computing",
+    "speciality": "Neuromorphic, Photonic & Edge Computing",
+    "description": "This team works on the future of hardware. They explore and develop cutting-edge computing architectures that go beyond traditional silicon, including brain-inspired neuromorphic chips, light-based photonic processors, and decentralized edge computing systems. Their research aims to create computers that are faster, more efficient, and more powerful.",
+    "leaderId": "katje-38",
+    "memberIds": [
+        "katje-11",
+        "katje-21",
+        "katje-33",
+        "katje-38",
+        "katje-39",
+        "katje-41"
+    ]
+}

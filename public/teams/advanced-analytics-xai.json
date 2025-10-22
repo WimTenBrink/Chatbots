@@ -1,0 +1,14 @@
+{
+    "id": "team-analytics-xai",
+    "name": "Advanced Analytics & XAI",
+    "speciality": "Predictive Modeling, Reinforcement Learning & Explainable AI",
+    "description": "This team focuses on advanced AI techniques and ensuring their transparency. They build predictive models, train agents with reinforcement learning, and develop methods for explaining complex AI decisions. Their mission is to create AI that is not only powerful but also understandable, trustworthy, and fair.",
+    "leaderId": "katje-40",
+    "memberIds": [
+        "katje-40",
+        "katje-42",
+        "katje-43",
+        "katje-47",
+        "katje-48"
+    ]
+}

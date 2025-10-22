@@ -1,270 +1,144 @@
-import { GoogleGenAI, GenerateContentResponse, Type, HarmCategory, HarmBlockThreshold } from "@google/genai";
+import { GoogleGenAI, GenerateContentParameters, Content, Type } from "@google/genai";
 import { AppSettings, BotProfile, LogEntry, LogLevel } from "../types";
+import { generateImageForChat } from "./imagenService";
 
-let ai: GoogleGenAI | null = null;
-
-const getAi = () => {
-    if (!process.env.API_KEY) {
-        throw new Error("API_KEY environment variable not set. Please select a key.");
+interface OrchestrationResult {
+    participant: {
+        id: string;
+        reasoning: string;
+    };
+    image_request: {
+        should_generate: boolean;
+        prompt: string;
+        reasoning: string;
     }
-    // Create a new instance every time to ensure the latest key is used.
-    ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
-    return ai;
-};
+}
 
-type LogCallback = (log: Omit<LogEntry, 'id' | 'timestamp'>) => void;
+// Result from a single bot's response generation
+export interface BotResponse {
+    bot: BotProfile;
+    response: string;
+    imageUrl?: string;
+    groundingChunks?: any[];
+}
 
-// Define safety settings to be disabled for all Gemini calls
-const geminiSafetySettings = [
-    {
-        category: HarmCategory.HARM_CATEGORY_HARASSMENT,
-        threshold: HarmBlockThreshold.BLOCK_NONE,
-    },
-    {
-        category: HarmCategory.HARM_CATEGORY_HATE_SPEECH,
-        threshold: HarmBlockThreshold.BLOCK_NONE,
-    },
-    {
-        category: HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT,
-        threshold: HarmBlockThreshold.BLOCK_NONE,
-    },
-    {
-        category: HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT,
-        threshold: HarmBlockThreshold.BLOCK_NONE,
-    },
-];
-
-
-const botSelectionSchema = {
-    type: Type.OBJECT,
-    properties: {
-        bots: {
-            type: Type.ARRAY,
-            description: "Array of up to 5 bot IDs that are most suitable to answer the user's question.",
-            items: { type: Type.STRING },
-        },
-    },
-    required: ['bots'],
-};
-
-const imageGenerationDecisionSchema = {
-    type: Type.OBJECT,
-    properties: {
-        generate: {
-            type: Type.BOOLEAN,
-            description: "True if an image would significantly enhance the conversation, false otherwise."
-        },
-        prompt: {
-            type: Type.STRING,
-            description: "A detailed, creative prompt for generating the image, based on the conversation."
-        }
-    },
-    required: ['generate', 'prompt']
-};
-
-export const orchestrateGroupChat = async (
+// The main orchestration function
+export async function orchestrateGroupChat(
     settings: AppSettings,
-    allBots: BotProfile[],
-    userMessage: string,
-    messageHistory: { role: 'user' | 'model', parts: { text: string }[] }[],
-    log: LogCallback
-): Promise<Array<{ bot: BotProfile, response: string, imageUrl?: string }>> => {
-    const ai = getAi();
-    log({ level: LogLevel.INFO, title: 'Starting group chat orchestration', details: { userMessage } });
+    bots: BotProfile[],
+    userInput: string,
+    history: Content[],
+    addLog: (log: Omit<LogEntry, 'id' | 'timestamp'>) => void
+): Promise<BotResponse[]> {
 
-    // Step 1: Select the most relevant bots
-    const botProfilesForSelection = allBots.map(b => `ID: ${b.id}, Name: ${b.firstName} ${b.lastName}, Speciality: ${b.speciality}`).join('\n');
-    const selectionPrompt = `
-        Based on the following user query and the list of available bots, select up to 5 bots that are best suited to provide a comprehensive answer.
-        Return only the JSON object with the array of bot IDs.
+    const ai = new GoogleGenAI({ apiKey: process.env.API_KEY || '' });
 
-        USER QUERY: "${userMessage}"
+    // Step 1: Orchestrator call to decide who speaks
+    const botSummaries = bots.map(b => `ID: "${b.id}", Name: ${b.firstName} ${b.lastName}, Speciality: ${b.speciality}`).join('\n');
+    const orchestratorSystemInstruction = `You are the orchestrator of a group chat with AI assistants. Your role is to decide which assistant is best suited to respond to the user's query.
+You must also decide if an image should be generated based on the user's prompt.
+Respond in JSON format according to the provided schema. Only select one participant.
 
-        AVAILABLE BOTS:
-        ${botProfilesForSelection}
-    `;
+Available assistants:
+${botSummaries}`;
 
-    let selectedBotIds: string[] = [];
-    try {
-        const selectionRequest = {
-            model: settings.geminiModel,
-            contents: selectionPrompt,
-            config: { responseMimeType: 'application/json', responseSchema: botSelectionSchema },
-            safetySettings: geminiSafetySettings,
-        };
-        log({ level: LogLevel.GEMINI_REQUEST, title: 'Requesting bot selection', details: selectionRequest });
-        const selectionResult = await ai.models.generateContent(selectionRequest);
-        log({ level: LogLevel.GEMINI_RESPONSE, title: 'Received bot selection', details: selectionResult });
-        
-        const parsedSelection = JSON.parse(selectionResult.text);
-        selectedBotIds = parsedSelection.bots;
-    } catch (error: any) {
-        log({ level: LogLevel.ERROR, title: 'Failed to select bots', details: { error: error.message, stack: error.stack } });
-        // Fallback to a default bot if selection fails
-        selectedBotIds = [allBots[0].id];
-    }
+    const orchestratorPrompt = `
+Conversation History:
+${history.map(h => `${h.role}: ${h.parts.map(p => p.text).join(' ')}`).join('\n')}
+
+User's latest message: "${userInput}"
+
+Based on the user's message, the history, and the assistants' specialities, who should respond next? And should an image be generated?`;
+
+    const orchestratorRequest: GenerateContentParameters = {
+        model: settings.geminiModel,
+        contents: [{ role: 'user', parts: [{ text: orchestratorPrompt }] }],
+        config: {
+            systemInstruction: orchestratorSystemInstruction,
+            responseMimeType: 'application/json',
+            responseSchema: {
+                type: Type.OBJECT,
+                properties: {
+                    participant: {
+                        type: Type.OBJECT,
+                        properties: {
+                            id: { type: Type.STRING, description: 'The ID of the bot that should respond.' },
+                            reasoning: { type: Type.STRING, description: 'Brief reasoning for selecting this bot.' }
+                        },
+                        required: ['id', 'reasoning']
+                    },
+                    image_request: {
+                        type: Type.OBJECT,
+                        properties: {
+                            should_generate: { type: Type.BOOLEAN, description: 'Whether an image should be generated.' },
+                            prompt: { type: Type.STRING, description: 'A detailed prompt for the image generation model if an image is needed. Empty string otherwise.' },
+                            reasoning: { type: Type.STRING, description: 'Brief reasoning for generating (or not generating) an image.' }
+                        },
+                        required: ['should_generate', 'prompt', 'reasoning']
+                    }
+                }
+            }
+        },
+    };
+
+    addLog({ level: LogLevel.GEMINI_REQUEST, title: "Orchestrator Request", details: orchestratorRequest });
     
-    const selectedBots = allBots.filter(b => selectedBotIds.includes(b.id));
-    if (selectedBots.length === 0) {
-        selectedBots.push(allBots[0]); // Ensure at least one bot responds
-    }
-    log({ level: LogLevel.INFO, title: 'Selected bots for response', details: { botIds: selectedBots.map(b => b.id) } });
-
-    // Step 2: Generate chained responses from each bot
-    const conversationResponses: Array<{ bot: BotProfile, response: string }> = [];
-    let currentConversationHistory = `The user asks: "${userMessage}"`;
-
-    for (const bot of selectedBots) {
-        const responsePrompt = `
-            You are ${bot.firstName} ${bot.lastName}, a ${bot.speciality}.
-            Your personality is defined by your GURPS profile: ${JSON.stringify(bot, null, 2)}
-            
-            Given the ongoing conversation, provide a concise and helpful response in character.
-            Speak in Dutch or English, depending on the user's language.
-            Your response should build upon the previous answers if any. Do not repeat what others have said.
-            
-            CONVERSATION SO FAR:
-            ${currentConversationHistory}
-
-            Your response:
-        `;
-        
-        try {
-            const responseRequest = { 
-                model: settings.geminiModel, 
-                contents: responsePrompt,
-                safetySettings: geminiSafetySettings 
-            };
-            log({ level: LogLevel.GEMINI_REQUEST, title: `Requesting response from ${bot.firstName}`, details: responseRequest });
-            const responseResult = await ai.models.generateContent(responseRequest);
-            const botResponse = responseResult.text;
-            log({ level: LogLevel.GEMINI_RESPONSE, title: `Received response from ${bot.firstName}`, details: { response: botResponse } });
-
-            conversationResponses.push({ bot, response: botResponse });
-            currentConversationHistory += `\n\n${bot.firstName} says: "${botResponse}"`;
-
-        } catch (error: any) {
-            log({ level: LogLevel.ERROR, title: `Failed to get response from ${bot.firstName}`, details: { error: error.message, stack: error.stack } });
-            conversationResponses.push({ bot, response: "(An error occurred and I was unable to respond.)" });
-        }
-    }
-
-    // Step 3: Decide if an image should be generated for the final response
-    let finalImageUrl: string | undefined = undefined;
-    const imageDecisionPrompt = `
-        Based on the complete conversation, would an image significantly enhance the final answer?
-        Consider if the topic is visual, complex, or could be better explained with a diagram, photo, or artistic representation.
-        If yes, provide a detailed, creative prompt for generating the image.
-        
-        CONVERSATION:
-        ${currentConversationHistory}
-    `;
-
+    let orchestratorResult: OrchestrationResult;
     try {
-        const imageDecisionRequest = {
-            model: settings.geminiModel,
-            contents: imageDecisionPrompt,
-            config: { responseMimeType: 'application/json', responseSchema: imageGenerationDecisionSchema },
-            safetySettings: geminiSafetySettings,
+        const response = await ai.models.generateContent(orchestratorRequest);
+        addLog({ level: LogLevel.GEMINI_RESPONSE, title: "Orchestrator Response", details: response });
+        orchestratorResult = JSON.parse(response.text);
+    } catch (error: any) {
+        addLog({ level: LogLevel.ERROR, title: "Orchestrator Failed", details: { error: error.message } });
+        // Fallback: pick the first bot
+        const fallbackBot = bots[0];
+        orchestratorResult = {
+            participant: { id: fallbackBot.id, reasoning: 'Fallback due to orchestrator error.' },
+            image_request: { should_generate: false, prompt: '', reasoning: 'Fallback due to orchestrator error.' }
         };
-        log({ level: LogLevel.GEMINI_REQUEST, title: 'Requesting image generation decision', details: imageDecisionRequest });
-        const imageDecisionResult = await ai.models.generateContent(imageDecisionRequest);
-        log({ level: LogLevel.GEMINI_RESPONSE, title: 'Received image generation decision', details: imageDecisionResult });
-
-        const parsedDecision = JSON.parse(imageDecisionResult.text);
-        if (parsedDecision.generate && parsedDecision.prompt) {
-            log({ level: LogLevel.INFO, title: 'Decision: Generate image', details: { prompt: parsedDecision.prompt } });
-            finalImageUrl = await generateImage(settings, parsedDecision.prompt, log);
-        } else {
-             log({ level: LogLevel.INFO, title: 'Decision: Do not generate image', details: {} });
-        }
-
-    } catch (error: any) {
-         log({ level: LogLevel.ERROR, title: 'Failed to make image generation decision', details: { error: error.message, stack: error.stack } });
     }
 
-    // Attach image to the final response
-    if (finalImageUrl && conversationResponses.length > 0) {
-        const lastResponse = conversationResponses[conversationResponses.length - 1];
-        (lastResponse as any).imageUrl = finalImageUrl;
+    const selectedBot = bots.find(b => b.id === orchestratorResult.participant.id);
+    if (!selectedBot) {
+        throw new Error(`Orchestrator selected an invalid bot ID: ${orchestratorResult.participant.id}`);
     }
 
-    return conversationResponses;
-};
+    // Step 2: Generate response from the selected bot
+    const botSystemInstruction = `You are a helpful AI assistant.
+Your persona:
+${selectedBot.biography}
+---
+Engage in the conversation naturally. Adhere to your persona. Do not refer to game mechanics or GURPS.
+Your response should be in Markdown format.`;
 
-
-// Generic image generation function
-const generateImage = async (settings: AppSettings, prompt: string, log: LogCallback): Promise<string> => {
-    // FIX: Removed `safetySetting: 'BLOCK_NONE'` from this config object as it's not a valid parameter for `generateImages` according to the provided guidelines.
-    const request = {
-        model: settings.imagenModel,
-        prompt: prompt,
-        config: { 
-            numberOfImages: 1, 
-            outputMimeType: 'image/png' as const, 
-            aspectRatio: '1:1' as const,
+    const botRequest: GenerateContentParameters = {
+        model: settings.geminiModel,
+        contents: [...history, { role: 'user', parts: [{ text: userInput }] }],
+        config: {
+            systemInstruction: botSystemInstruction,
+            tools: [{ googleSearch: {} }] // Enable Google Search grounding
         },
     };
-    log({ level: LogLevel.IMAGEN_REQUEST, title: `Generate Image`, details: request });
+
+    addLog({ level: LogLevel.GEMINI_REQUEST, title: `Bot Request: ${selectedBot.firstName}`, details: botRequest });
+    const botGenResponse = await ai.models.generateContent(botRequest);
+    addLog({ level: LogLevel.GEMINI_RESPONSE, title: `Bot Response: ${selectedBot.firstName}`, details: botGenResponse });
+
+    const botTextResponse = botGenResponse.text;
+    const groundingChunks = botGenResponse.candidates?.[0]?.groundingMetadata?.groundingChunks;
     
-    try {
-        const ai = getAi();
-        const response = await ai.models.generateImages(request);
-        log({ level: LogLevel.IMAGEN_RESPONSE, title: "Imagen Response", details: { success: true } });
-
-        if (response.generatedImages && response.generatedImages.length > 0) {
-            return `data:image/png;base64,${response.generatedImages[0].image.imageBytes}`;
-        } else {
-            throw new Error("No image generated");
-        }
-    } catch (error: any) {
-        log({ level: LogLevel.ERROR, title: "Imagen API Error", details: { error: error.message, stack: error.stack } });
-        throw error;
+    // Step 3: Generate image if requested
+    let imageUrl: string | undefined = undefined;
+    if (orchestratorResult.image_request.should_generate && orchestratorResult.image_request.prompt) {
+       imageUrl = await generateImageForChat(settings, orchestratorResult.image_request.prompt, addLog);
     }
-};
 
-export const generateProfileImageBase64 = async (settings: AppSettings, prompt: string, log: LogCallback): Promise<string> => {
-    // FIX: Removed `safetySetting: 'BLOCK_NONE'` from this config object as it's not a valid parameter for `generateImages` according to the provided guidelines.
-    const request = {
-        model: settings.imagenModel,
-        prompt,
-        config: { 
-            numberOfImages: 1, 
-            outputMimeType: 'image/png', 
-            aspectRatio: '1:1' as const,
-        },
+    const finalResponse: BotResponse = {
+        bot: selectedBot,
+        response: botTextResponse,
+        imageUrl: imageUrl,
+        groundingChunks: groundingChunks,
     };
-    log({ level: LogLevel.IMAGEN_REQUEST, title: `Generate Avatar`, details: request });
-     try {
-        const ai = getAi();
-        const response = await ai.models.generateImages(request);
-        log({ level: LogLevel.IMAGEN_RESPONSE, title: "Imagen Response", details: { success: true } });
-        return response.generatedImages[0].image.imageBytes;
-    } catch (error: any) {
-        log({ level: LogLevel.ERROR, title: `Failed to generate avatar`, details: { error: error.message, stack: error.stack } });
-        throw error;
-    }
-};
-
-export const generateBikiniImageBase64 = async (settings: AppSettings, prompt: string, log: LogCallback): Promise<string> => {
-    // FIX: Removed `safetySetting: 'BLOCK_NONE'` from this config object as it's not a valid parameter for `generateImages` according to the provided guidelines.
-    const request = {
-        model: settings.imagenModel,
-        prompt,
-        config: { 
-            numberOfImages: 1, 
-            outputMimeType: 'image/png', 
-            aspectRatio: '9:16' as const,
-        },
-    };
-     log({ level: LogLevel.IMAGEN_REQUEST, title: `Generate Bikini Image`, details: request });
-     try {
-        const ai = getAi();
-        const response = await ai.models.generateImages(request);
-        log({ level: LogLevel.IMAGEN_RESPONSE, title: "Imagen Response", details: { success: true } });
-        return response.generatedImages[0].image.imageBytes;
-    } catch (error: any) {
-        log({ level: LogLevel.ERROR, title: `Failed to generate bikini image`, details: { error: error.message, stack: error.stack } });
-        throw error;
-    }
-};
+    
+    return [finalResponse];
+}

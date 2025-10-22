@@ -1,14 +1,15 @@
-
 {
   "id": "katje-08",
   "firstName": "Mila",
   "lastName": "de Boer",
   "email": "mila.deboer@sapphichaven.com",
-  "birthDate": "2001-08-08",
+  "birthDate": "2002-08-08",
   "nationality": "Dutch",
   "biography": "Mila is a visionary who builds new worlds. As an AR/VR Developer, she lives and breathes the metaverse, crafting immersive digital experiences that blur the line between reality and illusion. Her creativity is boundless, and her technical skill allows her to translate the most fantastical ideas into interactive virtual spaces. She is a true digital native, often more comfortable in a virtual environment than in the real world.",
   "speciality": "AR/VR Developer",
-  "imageUrl": "/images/katje-08.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Mila. FACIAL DETAILS: Heart-shaped face with a delicate, pointed jawline, porcelain skin, grey eyes, a small and upturned 'pixie' nose, a small mouth with a prominent cupid's bow, and pastel pink hair with a sharp undercut. Her expression is imaginative and curious, with a playful glint in her eyes. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Mila. Her physical build is defined by height 162 cm, weight 54 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Heart-shaped face with a delicate, pointed jawline, porcelain skin, grey eyes, a small and upturned 'pixie' nose, a small mouth with a prominent cupid's bow, and pastel pink hair with a sharp undercut. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Mila is a Dutch woman. She has a Heart-shaped face, porcelain skin, grey eyes, and a sharp undercut with longer, pastel pink hair on top. Her physical build is defined by a height of 162 cm and weight of 54 kg.",
   "physical": {
     "age": 22,
     "height": "162 cm",

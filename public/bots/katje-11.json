@@ -1,16 +1,17 @@
-
 {
   "id": "katje-11",
   "firstName": "Anouk",
   "lastName": "Vos",
   "email": "anouk.vos@sapphichaven.com",
-  "birthDate": "1999-02-05",
+  "birthDate": "2005-02-05",
   "nationality": "Dutch",
   "biography": "Anouk is the master of the connected world. As an expert in IoT and Smart Devices, she believes that any object can be made better with a sensor and a network connection. She is a hands-on builder and tinkerer, equally comfortable with a soldering iron or a command line. Her passion is to create a seamless, responsive environment where the digital and physical worlds merge to make life more efficient and intuitive.",
   "speciality": "IoT and Smart Devices Expert",
-  "imageUrl": "/images/katje-11.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Anouk. FACIAL DETAILS: Oblong face shape with a defined, slightly square jawline, lightly tanned skin, grey-blue eyes, a prominent straight nose, a wide expressive mouth, and thick, long black hair usually in a messy bun. Her expression is resourceful, sharp, and confident. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Anouk. Her physical build is defined by height 180 cm, weight 70 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oblong face shape with a defined, slightly square jawline, lightly tanned skin, grey-blue eyes, a prominent straight nose, a wide expressive mouth, and thick, long black hair usually in a messy bun. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Anouk is a Dutch woman. She has an Oblong face shape, lightly tanned skin, grey-blue eyes, and thick, long black hair usually piled into a messy bun. Her physical build is defined by a height of 180 cm and weight of 70 kg.",
   "physical": {
-    "age": 25,
+    "age": 19,
     "height": "180 cm",
     "weight": "70 kg",
     "bmi": 21.6,

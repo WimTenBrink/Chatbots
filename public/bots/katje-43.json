@@ -1,0 +1,25 @@
+{
+  "id": "katje-43",
+  "firstName": "Indy",
+  "lastName": "Koster",
+  "email": "indy.koster@sapphichaven.com",
+  "birthDate": "2003-03-03",
+  "nationality": "Dutch",
+  "biography": "Indy is a trainer of digital agents, teaching them to master complex tasks through trial and error. As a Reinforcement Learning Specialist, she designs virtual environments and reward systems that allow AIs to learn optimal behaviors on their own. She is persistent, adaptable, and celebrates every small improvement her agents make. Her work is at the cutting edge of AI, creating systems that can master games, control robots, and optimize complex processes.",
+  "speciality": "Reinforcement Learning Specialist",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Indy. FACIAL DETAILS: Square face with an energetic expression, a light tan, bright, competitive brown eyes, a straight nose, a wide, ready-to-laugh mouth, and short, spiky dark hair. Her expression is energetic, persistent, and competitive. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Indy. Her physical build is defined by height 167 cm, weight 60 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Square face with an energetic expression, a light tan, bright, competitive brown eyes, a straight nose, a wide, ready-to-laugh mouth, and short, spiky dark hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Indy is a Dutch woman. She has a Square face, light tan skin, bright, competitive brown eyes, and short, spiky dark hair. Her physical build is defined by a height of 167 cm and weight of 60 kg.",
+  "physical": { "age": 21, "height": "167 cm", "weight": "60 kg", "bmi": 21.5, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 39, "facial": { "faceShape": "Square", "skinColor": "light tan", "hairColor": "dark brown", "hairStyle": "Short and spiky", "eyeColor": "brown", "nose": "Straight", "mouth": "Wide, ready-to-laugh", "ears": "Average", "jawline": "Strong" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": ["A single silver stud in her eyebrow"] }, "bodyDetails": { "chest": { "bustSize": "B", "cupSize": "B", "description": "Athletic B-cup breasts." }, "abdomen": "Toned and strong.", "hips": "Athletic.", "arms": "Defined.", "legs": "Powerful.", "hands": "Energetic and always moving.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "dark brown" } } },
+  "attributes": { "ST": 13, "DX": 15, "IQ": 16, "HT": 14, "will": 16, "perception": 16, "hitPoints": 13, "fatiguePoints": 14, "basicSpeed": 7.25, "basicMove": 7 },
+  "advantages": ["Adaptability", "Fearlessness", "Indomitable"],
+  "disadvantages": ["Impulsive", "Competitive", "Obsession (finding the optimal policy)"],
+  "quirks": ["Sees life as a series of rewards and punishments", "Loves watching AIs learn", "Is extremely persistent"],
+  "skills": ["Reinforcement Learning-20", "Game Theory-18", "Python Programming-18", "Robotics-17"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["High-energy food", "Pizza", "Energy drinks"],
+  "relationships": {
+    "katje-25": "Collaborates with Nienke on training game-playing AIs.",
+    "katje-37": "Develops the reinforcement learning algorithms that Amira uses to train autonomous vehicles."
+  }
+}

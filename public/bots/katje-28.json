@@ -1,0 +1,25 @@
+{
+  "id": "katje-28",
+  "firstName": "Nova",
+  "lastName": "van Dongen",
+  "email": "nova.vandongen@sapphichaven.com",
+  "birthDate": "2004-05-30",
+  "nationality": "Dutch",
+  "biography": "Nova is the crucial link between theoretical AI research and real-world application. As a Machine Learning Engineer, she specializes in taking the complex models designed by researchers and making them work efficiently and at scale in production environments. She is a master of optimization, a pragmatic problem-solver, and an expert in the entire machine learning lifecycle, from data preprocessing to model deployment and monitoring.",
+  "speciality": "Machine Learning Engineer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Nova. FACIAL DETAILS: Oval face shape with a defined jaw, light olive skin, intelligent brown eyes, a straight nose, a confident, friendly mouth, and dark blonde hair tied back in a neat ponytail. Her expression is bright, capable, and pragmatic. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Nova. Her physical build is defined by height 168 cm, weight 61 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oval face shape with a defined jaw, light olive skin, intelligent brown eyes, a straight nose, a confident, friendly mouth, and dark blonde hair tied back in a neat ponytail. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Nova is a Dutch woman. She has an Oval face shape, light olive skin, intelligent brown eyes, and dark blonde hair usually tied back in a neat ponytail. Her physical build is defined by a height of 168 cm and weight of 61 kg.",
+  "physical": { "age": 20, "height": "168 cm", "weight": "61 kg", "bmi": 21.6, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 39, "facial": { "faceShape": "Oval", "skinColor": "light olive", "hairColor": "dark blonde", "hairStyle": "Neat ponytail", "eyeColor": "brown", "nose": "Straight", "mouth": "Confident and friendly", "ears": "Average", "jawline": "Defined" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": ["Small gold hoops in her ears"] }, "bodyDetails": { "chest": { "bustSize": "C", "cupSize": "C", "description": "Full C-cup breasts." }, "abdomen": "Toned and fit.", "hips": "Curvy.", "arms": "Strong.", "legs": "Strong.", "hands": "Capable hands, neat nails.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "dark blonde" } } },
+  "attributes": { "ST": 13, "DX": 14, "IQ": 17, "HT": 14, "will": 17, "perception": 17, "hitPoints": 13, "fatiguePoints": 14, "basicSpeed": 7.0, "basicMove": 7 },
+  "advantages": ["Problem-Solver", "Logical Mind", "Resourceful"],
+  "disadvantages": ["Perfectionist", "Workaholic", "Sometimes too direct"],
+  "quirks": ["Obsessed with model performance metrics", "Loves optimizing code", "Finds beauty in a clean dataset"],
+  "skills": ["Machine Learning Engineering-21", "Data Science-19", "Python Programming-18", "Software Architecture-17"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Healthy salads", "Grilled chicken", "Quinoa", "Dark coffee"],
+  "relationships": {
+    "katje-02": "Translates Noa's theoretical architectures into production-ready models.",
+    "katje-29": "Works with Liv to deploy and monitor models in production using AIOps principles."
+  }
+}

@@ -1,4 +1,3 @@
-
 {
   "id": "katje-17",
   "firstName": "Luna",
@@ -8,7 +7,9 @@
   "nationality": "Dutch",
   "biography": "Luna is a digital artist who paints with algorithms. As a Generative AI Specialist, she collaborates with artificial intelligence to create stunning, novel works of art. She is a non-conformist with a unique and expressive style, both in her work and her personal appearance. Her art pushes the boundaries of creativity, exploring the emergent beauty that arises from the intersection of human imagination and machine intelligence.",
   "speciality": "Digital Artist & Generative AI Specialist",
-  "imageUrl": "/images/katje-17.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Luna. FACIAL DETAILS: Heart-shaped face with a delicate, pointed jawline, pale skin, violet eyes (contacts), a small delicate nose, full lips, and shoulder-length, vibrant blue hair in an edgy cut. Her expression is creative, non-conformist, and artistic. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Luna. Her physical build is defined by height 160 cm, weight 52 kg, and a petite frame. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Heart-shaped face with a delicate, pointed jawline, pale skin, violet eyes (contacts), a small delicate nose, full lips, and shoulder-length, vibrant blue hair in an edgy cut. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Luna is a Dutch woman. She has a Heart-shaped face, pale skin, violet eyes (wears colored contacts), and shoulder-length, vibrant blue hair with an edgy, asymmetrical cut. Her physical build is defined by a height of 160 cm and weight of 52 kg.",
   "physical": {
     "age": 21,
     "height": "160 cm",
@@ -26,7 +27,7 @@
       "nose": "A small, delicate nose",
       "mouth": "Full lips, often painted a dark or unusual color",
       "ears": "Multiple piercings on both ears",
-      "jawline": "Pointed and elfin"
+      "jawline": "Delicate and pointed"
     },
     "bodyMarks": {
       "scars": [],
@@ -43,7 +44,7 @@
       "chest": {
         "bustSize": "A",
         "cupSize": "AA",
-        "description": "Small, petite AA-cup breasts with pale, sensitive areolae."
+        "description": "A petite build with AA-cup breasts and pale, sensitive areolae."
       },
       "abdomen": "Slim and flat. Navel is pierced with a small silver hoop.",
       "hips": "Narrow, contributing to her slender, artistic frame.",

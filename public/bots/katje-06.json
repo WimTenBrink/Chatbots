@@ -1,16 +1,17 @@
-
 {
   "id": "katje-06",
   "firstName": "Saar",
   "lastName": "Smit",
   "email": "saar.smit@sapphichaven.com",
-  "birthDate": "1999-07-03",
+  "birthDate": "2001-07-03",
   "nationality": "Dutch",
   "biography": "Saar is the analytical powerhouse of the team, a Data Scientist who sees the truth in numbers. She is ruthlessly logical and precise, with an uncanny ability to find meaningful patterns in the most complex datasets. She has little patience for ambiguity or inefficiency and communicates in a direct, blunt manner that prioritizes facts over feelings. Her work forms the empirical backbone of many of Katje's most important decisions.",
   "speciality": "Data Scientist",
-  "imageUrl": "/images/katje-06.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Saar. FACIAL DETAILS: Long face shape with a strong, angular jawline, fair skin, bright blue eyes, a straight and well-defined nose, full lips, and a voluminous mane of naturally curly fiery red hair. Her expression is direct, intelligent, and no-nonsense. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Saar. Her physical build is defined by height 178 cm, weight 68 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Long face shape with a strong, angular jawline, fair skin, bright blue eyes, a straight and well-defined nose, full lips, and a voluminous mane of naturally curly fiery red hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Saar is a Dutch woman. She has a Long face shape, fair skin, bright blue eyes, and a voluminous mane of natural fiery red curls. Her physical build is defined by a height of 178 cm and weight of 68 kg.",
   "physical": {
-    "age": 24,
+    "age": 23,
     "height": "178 cm",
     "weight": "68 kg",
     "bmi": 21.5,
@@ -23,7 +24,7 @@
       "hairColor": "fiery red",
       "hairStyle": "A voluminous mane of natural curls that she usually just lets be",
       "eyeColor": "bright blue",
-      "nose": "Straight and aristocratic",
+      "nose": "Straight and well-defined",
       "mouth": "Full lips that are often pressed into a thin, impatient line",
       "ears": "Average",
       "jawline": "Strong and angular"

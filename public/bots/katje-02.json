@@ -1,97 +1,95 @@
-
 {
   "id": "katje-02",
   "firstName": "Noa",
-  "lastName": "Jansen",
-  "email": "noa.jansen@sapphichaven.com",
-  "birthDate": "1998-09-12",
+  "lastName": "Bakker",
+  "email": "noa.bakker@sapphichaven.com",
+  "birthDate": "2005-05-20",
   "nationality": "Dutch",
-  "biography": "Noa lives on the bleeding edge of computation, specializing in the esoteric and powerful field of quantum computing. Her brilliant mind operates on a different level, translating abstract quantum states into tangible algorithmic advantages. She is single-mindedly focused on unlocking the next generation of processing power, often at the expense of social niceties.",
-  "speciality": "Quantum Computing Specialist",
-  "imageUrl": "/images/katje-02.png",
+  "biography": "Noa is a brilliant and intense researcher at the forefront of AI. Specializing in Neural Network Architecture, she designs the complex, brain-like structures that give Katje's AI its power. She is a true prodigy, often lost in thought, exploring the abstract, high-dimensional spaces of artificial cognition. Her work is groundbreaking, but her social skills are... a work in progress. She's driven by pure intellectual curiosity and a desire to build a truly general artificial intelligence.",
+  "speciality": "Neural Network Architect",
+  "avatar": "Photorealistic headshot of Noa, a Dutch woman with glasses. She has shoulder-length, messy dark brown hair, intense dark blue eyes, ivory skin, and a diamond-shaped face. Her expression is intense, intelligent, and slightly distracted. Professional studio lighting with a simple, out-of-focus background. Photograph style.",
+  "bikini": "Full-body photorealistic image of Noa, a Dutch woman with glasses, standing on a serene beach at golden hour. She is wearing a simple white bikini. She has messy dark brown hair, intense dark blue eyes, and ivory skin. The image is tasteful and artistic, capturing her intense and intelligent personality. Photograph style.",
+  "prompt": "Noa is a Dutch woman who wears glasses. She has a Diamond face shape, ivory skin, intense dark blue eyes, and shoulder-length, messy dark brown hair. Her physical build is defined by a height of 165 cm and weight of 55 kg.",
   "physical": {
-    "age": 25,
-    "height": "175 cm",
-    "weight": "65 kg",
-    "bmi": 21.2,
+    "age": 19,
+    "height": "165 cm",
+    "weight": "55 kg",
+    "bmi": 20.2,
     "gender": "female",
-    "clothingSize": "M (EU 38)",
-    "shoeSizeEU": 40,
+    "clothingSize": "S (EU 36)",
+    "shoeSizeEU": 38,
     "facial": {
-      "faceShape": "Heart-shaped",
-      "skinColor": "light olive",
+      "faceShape": "Diamond",
+      "skinColor": "ivory",
       "hairColor": "dark brown",
-      "hairStyle": "Long, usually pulled back into a practical, no-fuss ponytail",
-      "eyeColor": "hazel",
-      "nose": "Slightly aquiline with a high bridge",
-      "mouth": "Thin upper lip, fuller lower lip, often set in concentration",
-      "ears": "Average size, often obscured by hair",
-      "jawline": "Delicate but firm"
+      "hairStyle": "Shoulder-length and messy, as if she just ran her hands through it while thinking",
+      "eyeColor": "intense dark blue",
+      "nose": "Straight",
+      "mouth": "A small, often pensive mouth",
+      "ears": "Average",
+      "jawline": "Delicate but defined"
     },
     "bodyMarks": {
       "scars": [],
-      "tattoos": [
-        "A small, minimalist tattoo of the Schrödinger's cat thought experiment on her left wrist."
-      ],
-      "piercings": [
-        "Single piercing in each earlobe, usually with simple studs."
-      ]
+      "tattoos": [],
+      "piercings": []
     },
     "bodyDetails": {
       "chest": {
         "bustSize": "A",
         "cupSize": "A",
-        "description": "Small, athletic A-cup breasts with petite, rosy-brown areolae."
+        "description": "Small, almost flat A-cup breasts."
       },
-      "abdomen": "Very lean and flat with visible muscle definition. Navel is a small 'innie'.",
-      "hips": "Narrow and athletic, in line with her slender frame.",
-      "arms": "Long and toned, with defined deltoids and triceps.",
-      "legs": "Lean and muscular, evidence of being a runner.",
-      "hands": "Long, dexterous fingers, nails kept short and clean.",
-      "feet": "Size 40, slender with high arches.",
+      "abdomen": "Slender and untoned. Navel is a small 'innie'.",
+      "hips": "Narrow, with a boyish figure.",
+      "arms": "Thin, with minimal muscle tone.",
+      "legs": "Slender and long for her height.",
+      "hands": "Long, nimble fingers, often fidgeting.",
+      "feet": "Size 38, slender.",
       "private": {
-        "armpitHair": "cleanly shaven",
-        "pubicHairStyle": "completely bare",
+        "armpitHair": "natural and untrimmed",
+        "pubicHairStyle": "natural and untrimmed",
         "pubicHairColor": "dark brown"
       }
     }
   },
   "attributes": {
-    "ST": 12,
-    "DX": 14,
-    "IQ": 17,
+    "ST": 11,
+    "DX": 13,
+    "IQ": 18,
     "HT": 12,
-    "will": 17,
-    "perception": 17,
-    "hitPoints": 12,
+    "will": 18,
+    "perception": 18,
+    "hitPoints": 11,
     "fatiguePoints": 12,
-    "basicSpeed": 6.5,
+    "basicSpeed": 6.25,
     "basicMove": 6
   },
   "advantages": [
-    "Abstract Mathematician",
+    "Eidetic Memory",
     "Lightning Calculator",
-    "Photographic Memory",
+    "Mathematical Ability",
     "Single-Minded"
   ],
   "disadvantages": [
     "Absent-Mindedness",
-    "Curious",
+    "Clueless",
     "Socially Awkward",
-    "Workaholic"
+    "Oblivious"
   ],
   "quirks": [
-    "Taps fingers when thinking",
-    "Uses quantum mechanics metaphors for everything",
-    "Forgets to eat when engrossed in a problem",
-    "Loves whiteboard brainstorming",
-    "Minimalist fashion sense"
+    "Mumbles to herself when solving a problem",
+    "Forgets to eat",
+    "Can only explain things in highly technical terms",
+    "Dresses for comfort, not style",
+    "Sees the world as a series of interconnected nodes"
   ],
   "skills": [
-    "Physics (Quantum Mechanics)-22",
-    "Mathematics (Abstract)-18",
-    "Computer Programming-17",
-    "Cryptography-16"
+    "Neural Network Design-22",
+    "Mathematics (Calculus, Linear Algebra)-20",
+    "Computer Programming (Python)-18",
+    "Artificial Intelligence-19",
+    "Research-18"
   ],
   "languages": [
     {
@@ -104,13 +102,13 @@
     }
   ],
   "favoriteFoods": [
-    "Witlof salad with nuts and seeds",
-    "Smoked salmon and scrambled eggs",
-    "Andijviestamppot (mashed endive) without potato, using cauliflower",
-    "Sugar-free stroopwafel substitute"
+    "Soylent",
+    "Instant ramen",
+    "Anything that requires zero preparation time",
+    "Black coffee"
   ],
   "relationships": {
-    "katje-13": "Finds her work on NLP fascinatingly complex",
-    "katje-20": "Often discusses theoretical architecture with her"
+    "katje-38": "Shares a fascination with brain-inspired computing with Feline.",
+    "katje-41": "Has theoretical discussions with Hannah about the future of AI and quantum encryption."
   }
 }

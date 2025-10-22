@@ -1,16 +1,17 @@
-
 {
   "id": "katje-23",
   "firstName": "Maud",
   "lastName": "Hendriks",
   "email": "maud.hendriks@sapphichaven.com",
-  "birthDate": "1992-10-10",
+  "birthDate": "2006-10-10",
   "nationality": "Dutch",
   "biography": "Maud is a force of nature, much like the water she expertly manages. As a Water Management Engineer, she embodies the centuries-old Dutch struggle against the sea, using modern technology to design and maintain dikes, polders, and floodgates. She is immensely strong, pragmatic, and dependable, with an unshakeable resolve. Her work is critical in a country defined by its relationship with water, ensuring the safety and prosperity of the land.",
   "speciality": "Water Management Engineer",
-  "imageUrl": "/images/katje-23.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Maud, with a square face shape, ruddy skin, grey eyes, and a practical, short brown haircut. Her expression is pragmatic, strong, and reliable. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Maud. Her physical build is defined by height 175 cm, weight 67 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Square face shape with a strong jaw, ruddy skin from being outdoors, grey eyes, a strong no-nonsense nose, a straight determined mouth, and a practical, short brown haircut. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Maud is a Dutch woman. She has a Square face shape, ruddy skin from being outdoors, grey eyes, and a practical, short brown cut. Her physical build is defined by a height of 175 cm and weight of 67 kg.",
   "physical": {
-    "age": 31,
+    "age": 18,
     "height": "175 cm",
     "weight": "67 kg",
     "bmi": 21.9,

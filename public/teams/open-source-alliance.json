@@ -1,0 +1,15 @@
+{
+  "id": "team-open-source",
+  "name": "Open Source Alliance",
+  "speciality": "Community-Driven & Open Standards",
+  "description": "The Open Source Alliance is a team dedicated to the principles of open collaboration. They are responsible for managing Katje B.V.'s open source projects, contributing back to the community, and advocating for the use of open standards. This group believes in the power of community-driven development to build more robust, secure, and transparent technology.",
+  "leaderId": "katje-03",
+  "memberIds": [
+    "katje-03",
+    "katje-26",
+    "katje-27",
+    "katje-33",
+    "katje-41",
+    "katje-45"
+  ]
+}

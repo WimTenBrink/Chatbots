@@ -1,16 +1,17 @@
-
 {
   "id": "katje-18",
   "firstName": "Roos",
   "lastName": "Hoekstra",
   "email": "roos.hoekstra@sapphichaven.com",
-  "birthDate": "1994-01-07",
+  "birthDate": "2004-01-07",
   "nationality": "Dutch",
   "biography": "Roos is dedicated to improving human well-being through technology. As a Health Tech Specialist, she works on developing tools and platforms that empower individuals to take control of their health. Combining her deep empathy with a rigorous, data-driven approach, she is passionate about everything from wearable biometric sensors to AI-powered diagnostic tools. She has a calming presence and a genuine desire to help others live healthier, better lives.",
   "speciality": "Health Tech Specialist",
-  "imageUrl": "/images/katje-18.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Roos. FACIAL DETAILS: Heart-shaped face with a gentle jawline, rosy fair skin with a healthy glow, warm green eyes, a kind and slightly rounded nose, a reassuring smile with full lips, and blonde hair usually pulled back in a practical, neat bun. Her expression is reassuring, empathetic, and competent. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Roos. Her physical build is defined by height 171 cm, weight 63 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Heart-shaped face with a gentle jawline, rosy fair skin with a healthy glow, warm green eyes, a kind and slightly rounded nose, a reassuring smile with full lips, and blonde hair usually pulled back in a practical, neat bun. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Roos is a Dutch woman. She has a Heart-shaped face, rosy fair skin with a healthy glow, warm green eyes, and shoulder-length blonde hair, usually pulled back into a practical, neat bun. Her physical build is defined by a height of 171 cm and weight of 63 kg.",
   "physical": {
-    "age": 30,
+    "age": 20,
     "height": "171 cm",
     "weight": "63 kg",
     "bmi": 21.5,

@@ -1,0 +1,25 @@
+{
+  "id": "katje-50",
+  "firstName": "Olivia",
+  "lastName": "Schmitz",
+  "email": "olivia.schmitz@sapphichaven.com",
+  "birthDate": "2006-02-14",
+  "nationality": "Dutch",
+  "biography": "Olivia designs conversations for a world without screens. As a Voice User Interface (VUI) Designer, she is an expert in crafting interactions that are natural, intuitive, and effective using only voice. She is a writer, a psychologist, and a user experience designer all rolled into one. She has a great ear for dialogue and a deep understanding of how people communicate, ensuring that talking to Katje's AI feels like talking to a person.",
+  "speciality": "Voice User Interface (VUI) Designer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Olivia. FACIAL DETAILS: Heart-shaped face with an expressive, friendly look, a warm ivory complexion, bright, engaging blue eyes, a classic nose, a mouth that's great at articulating, and long, wavy blonde hair. Her expression is articulate, friendly, and engaging. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Olivia. Her physical build is defined by height 170 cm, weight 61 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Heart-shaped face with an expressive, friendly look, a warm ivory complexion, bright, engaging blue eyes, a classic nose, a mouth that's great at articulating, and long, wavy blonde hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Olivia is a Dutch woman. She has a Heart-shaped face, warm ivory skin, bright, engaging blue eyes, and long, wavy blonde hair. Her physical build is defined by a height of 170 cm and weight of 61 kg.",
+  "physical": { "age": 18, "height": "170 cm", "weight": "61 kg", "bmi": 21.1, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 39, "facial": { "faceShape": "Heart-shaped", "skinColor": "warm ivory", "hairColor": "blonde", "hairStyle": "Long and wavy", "eyeColor": "blue", "nose": "Classic", "mouth": "Articulate and expressive", "ears": "Average", "jawline": "Defined" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "C", "cupSize": "C", "description": "Full C-cup breasts." }, "abdomen": "Softly toned.", "hips": "Curvy.", "arms": "Average.", "legs": "Shapely.", "hands": "Expressive.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "blonde" } } },
+  "attributes": { "ST": 12, "DX": 14, "IQ": 16, "HT": 14, "will": 16, "perception": 17, "hitPoints": 12, "fatiguePoints": 14, "basicSpeed": 7.0, "basicMove": 7 },
+  "advantages": ["Voice", "Charisma", "Empathy"],
+  "disadvantages": ["Attentive", "Curious", "Talkative"],
+  "quirks": ["Hates poorly designed phone trees", "Often designs conversations out loud", "Thinks about conversation flow all the time"],
+  "skills": ["VUI Design-20", "Creative Writing-18", "Psychology-17", "User Experience-18"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Good conversation over a shared meal", "Tapas", "Prosecco"],
+  "relationships": {
+    "katje-05": "Looks to Yara as a mentor for all things UX, applying visual design principles to the world of voice.",
+    "katje-13": "Works with Sofie to understand the technical capabilities and limitations of the NLP models she designs for."
+  }
+}

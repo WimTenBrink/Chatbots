@@ -1,0 +1,25 @@
+{
+  "id": "katje-32",
+  "firstName": "Floor",
+  "lastName": "van Vliet",
+  "email": "floor.vanvliet@sapphichaven.com",
+  "birthDate": "2004-02-22",
+  "nationality": "Dutch",
+  "biography": "Floor has her head in the clouds—literally. As a Drone Systems Operator, she is an expert pilot and technician, responsible for Katje's fleet of autonomous aerial vehicles. Whether for logistics, surveillance, or data collection, she ensures that every flight is safe, legal, and efficient. She has lightning-fast reflexes, an incredible sense of spatial awareness, and the calm demeanor required for high-stakes remote operations.",
+  "speciality": "Drone Systems Operator",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Floor. FACIAL DETAILS: Oval face with a sharp jaw, lightly tanned skin, sharp, observant blue eyes, a straight nose, a calm, focused mouth, and blonde hair cut into a short, militaristic style. Her expression is calm, focused, and sharp. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Floor. Her physical build is defined by height 173 cm, weight 65 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oval face with a sharp jaw, lightly tanned skin, sharp, observant blue eyes, a straight nose, a calm, focused mouth, and blonde hair cut into a short, militaristic style. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Floor is a Dutch woman. She has an Oval face, lightly tanned skin, sharp, observant blue eyes, and blonde hair cut into a short, militaristic style. Her physical build is defined by a height of 173 cm and weight of 65 kg.",
+  "physical": { "age": 20, "height": "173 cm", "weight": "65 kg", "bmi": 21.7, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 40, "facial": { "faceShape": "Oval", "skinColor": "lightly tanned", "hairColor": "blonde", "hairStyle": "Short, militaristic style", "eyeColor": "blue", "nose": "Straight", "mouth": "Calm and focused", "ears": "Average", "jawline": "Sharp" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "B", "cupSize": "B", "description": "Athletic B-cup breasts." }, "abdomen": "Toned and flat.", "hips": "Strong and athletic.", "arms": "Wiry and strong.", "legs": "Powerful.", "hands": "Steady, with fast reflexes.", "feet": "Size 40.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "blonde" } } },
+  "attributes": { "ST": 13, "DX": 16, "IQ": 15, "HT": 14, "will": 15, "perception": 16, "hitPoints": 13, "fatiguePoints": 14, "basicSpeed": 7.5, "basicMove": 7 },
+  "advantages": ["3D Spatial Sense", "Combat Reflexes", "Peripheral Vision"],
+  "disadvantages": ["Duty (to the fleet)", "Overconfidence", "Thrill-Seeker"],
+  "quirks": ["Prefers a bird's-eye view", "Can fly a drone through a needle's eye", "Knows all aviation regulations by heart"],
+  "skills": ["Drone Operation-20", "Electronics (Avionics)-16", "Navigation (Air)-17", "Piloting-18"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["High-protein snacks", "Beef jerky", "Coffee"],
+  "relationships": {
+    "katje-04": "Works with Fenna to maintain and upgrade the drone hardware.",
+    "katje-11": "Collaborates with Anouk on IoT integration for the drone fleet."
+  }
+}

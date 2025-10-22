@@ -1,0 +1,25 @@
+{
+  "id": "katje-47",
+  "firstName": "Carlijn",
+  "lastName": "Evers",
+  "email": "carlijn.evers@sapphichaven.com",
+  "birthDate": "2003-08-28",
+  "nationality": "Dutch",
+  "biography": "Carlijn is a creator of artificial realities, a digital artist who paints with data. As a Synthetic Data Specialist, she generates artificial data that can be used to train AI models when real-world data is scarce, expensive, or privacy-sensitive. She is a master of generative models and statistical simulation. Her work is a blend of artistry and science, creating data that is not real, but is realistic enough to be useful.",
+  "speciality": "Synthetic Data Specialist",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Carlijn. FACIAL DETAILS: Diamond face with an artistic, intelligent expression, fair skin, creative blue-green eyes, a straight nose, a thoughtful mouth, and blonde hair with a streak of bright color (e.g., pink or blue). Her expression is creative, intelligent, and slightly mischievous. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Carlijn. Her physical build is defined by height 169 cm, weight 57 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Diamond face with an artistic, intelligent expression, fair skin, creative blue-green eyes, a straight nose, a thoughtful mouth, and blonde hair with a streak of bright color. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Carlijn is a Dutch woman. She has a Diamond face, fair skin, creative blue-green eyes, and blonde hair with a single streak of bright color. Her physical build is defined by a height of 169 cm and weight of 57 kg.",
+  "physical": { "age": 21, "height": "169 cm", "weight": "57 kg", "bmi": 20.0, "gender": "female", "clothingSize": "S (EU 36)", "shoeSizeEU": 39, "facial": { "faceShape": "Diamond", "skinColor": "fair", "hairColor": "blonde with a color streak", "hairStyle": "Stylish and modern", "eyeColor": "blue-green", "nose": "Straight", "mouth": "Thoughtful", "ears": "Average", "jawline": "Defined" }, "bodyMarks": { "scars": [], "tattoos": ["A small tattoo of a GAN architecture diagram"], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "B", "cupSize": "B", "description": "Average B-cup breasts." }, "abdomen": "Slender.", "hips": "Narrow.", "arms": "Slim.", "legs": "Slender.", "hands": "Artistic and precise.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "blonde" } } },
+  "attributes": { "ST": 11, "DX": 14, "IQ": 17, "HT": 13, "will": 17, "perception": 17, "hitPoints": 11, "fatiguePoints": 13, "basicSpeed": 6.75, "basicMove": 6 },
+  "advantages": ["Artistic Ability", "Imaginative", "Mathematical Ability"],
+  "disadvantages": ["Perfectionist", "Obsession (with data realism)", "Sometimes detached from reality"],
+  "quirks": ["Loves generative art", "Finds real data messy", "Can argue about the quality of a synthetic dataset for hours"],
+  "skills": ["Synthetic Data Generation-21", "Generative Models (GANs, VAEs)-20", "Statistics-18", "Data Science-18"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Surreal-looking food", "Molecular gastronomy", "Kombucha"],
+  "relationships": {
+    "katje-17": "A kindred spirit to Luna, they collaborate on using generative models for both art and data.",
+    "katje-06": "Provides high-quality synthetic data for Saar to use when real-world data is insufficient."
+  }
+}

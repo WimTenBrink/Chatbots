@@ -1,4 +1,3 @@
-
 {
   "id": "team-hxi-lab",
   "name": "Human-AI Interaction Lab (HXI)",
@@ -6,10 +5,14 @@
   "description": "The HXI Lab is dedicated to the art and science of the human-computer interface. Their research focuses on creating intuitive, ethical, and deeply engaging ways for people to interact with AI. Projects include developing conversational AI that can detect user sentiment, designing AR interfaces for complex data visualization, and conducting user studies to mitigate algorithmic bias.",
   "leaderId": "katje-08",
   "memberIds": [
-    "katje-08",
     "katje-01",
+    "katje-08",
     "katje-13",
+    "katje-15",
     "katje-17",
-    "katje-25"
+    "katje-25",
+    "katje-30",
+    "katje-36",
+    "katje-49"
   ]
 }

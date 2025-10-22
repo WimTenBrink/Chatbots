@@ -1,8 +1,7 @@
-
 import React, { useState, useMemo } from 'react';
 import { Modal } from './Modal';
 import { BotProfile, Team } from '../types';
-import { TeamIcon } from './icons';
+import { TeamIcon, UserCircleIcon } from './icons';
 
 interface TeamsDialogProps {
   isOpen: boolean;
@@ -70,13 +69,16 @@ export const TeamsDialog: React.FC<TeamsDialogProps> = ({ isOpen, onClose, bots,
 
                                         return (
                                             <div key={memberId} className={`flex items-center gap-3 p-2 rounded-lg ${isLeader ? 'bg-sky-900/50 border-l-4 border-sky-400' : 'bg-slate-700/30'}`}>
-                                                <img src={member.imageUrl} alt={member.firstName} className="w-12 h-12 rounded-full object-cover" />
-                                                <div>
-                                                    <p className="font-bold text-slate-100">
-                                                        {member.firstName} {member.lastName}
-                                                        {isLeader && <span className="ml-2 text-xs font-medium bg-sky-400/20 text-sky-300 px-2 py-0.5 rounded-full">Leader</span>}
-                                                    </p>
-                                                    <p className="text-sm text-slate-400">{member.speciality}</p>
+                                                <UserCircleIcon className="w-12 h-12 text-slate-500 flex-shrink-0" />
+                                                <div className="flex-grow min-w-0">
+                                                    <div className="flex justify-between items-baseline">
+                                                        <p className="font-bold text-slate-100 truncate">
+                                                            {member.firstName} {member.lastName}
+                                                            {isLeader && <span className="ml-2 text-xs font-medium bg-sky-400/20 text-sky-300 px-2 py-0.5 rounded-full">Leader</span>}
+                                                        </p>
+                                                        <span className="text-sm text-slate-500 ml-2 flex-shrink-0">{member.physical.age}</span>
+                                                    </div>
+                                                    <p className="text-sm text-slate-400 truncate">{member.speciality}</p>
                                                 </div>
                                             </div>
                                         );

@@ -1,0 +1,110 @@
+{
+  "id": "katje-48",
+  "firstName": "Alya",
+  "lastName": "Zelenko",
+  "email": "alya.zelenko@sapphichaven.com",
+  "birthDate": "2001-05-15",
+  "nationality": "Dutch",
+  "biography": "Alya is a guardian of equity in the algorithmic age. As an AI Fairness and Bias Researcher, she is dedicated to identifying, measuring, and mitigating unfair biases in machine learning models. She is a sharp-witted and relentless investigator, combining deep technical skill with a strong sense of social justice. Her work is essential for building AI systems that are not only accurate but also just and equitable for everyone.",
+  "speciality": "AI Fairness & Bias Researcher",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Alya. FACIAL DETAILS: Diamond face shape with high cheekbones, an olive complexion, sharp, perceptive brown eyes, a defined nose, a determined mouth, and dark brown hair cut in a stylish, angular bob. Her expression is sharp, perceptive, and justice-oriented. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Alya. Her physical build is defined by height 171 cm, weight 62 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Diamond face shape with high cheekbones, an olive complexion, sharp, perceptive brown eyes, a defined nose, a determined mouth, and dark brown hair cut in a stylish, angular bob. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Alya is a Dutch woman. She has a Diamond face shape, olive skin, sharp, perceptive brown eyes, and dark brown hair cut in a stylish, angular bob. Her physical build is defined by a height of 171 cm and weight of 62 kg.",
+  "physical": {
+    "age": 23,
+    "height": "171 cm",
+    "weight": "62 kg",
+    "bmi": 21.2,
+    "gender": "female",
+    "clothingSize": "M (EU 38)",
+    "shoeSizeEU": 39,
+    "facial": {
+      "faceShape": "Diamond",
+      "skinColor": "olive",
+      "hairColor": "dark brown",
+      "hairStyle": "Stylish, angular bob",
+      "eyeColor": "brown",
+      "nose": "Defined",
+      "mouth": "Determined",
+      "ears": "Average",
+      "jawline": "High cheekbones"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": [
+        "A small, elegant nose stud."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Average B-cup breasts."
+      },
+      "abdomen": "Toned and flat.",
+      "hips": "Athletic.",
+      "arms": "Defined.",
+      "legs": "Strong.",
+      "hands": "Decisive and quick.",
+      "feet": "Size 39.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "a neatly trimmed triangle",
+        "pubicHairColor": "dark brown"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 13,
+    "DX": 14,
+    "IQ": 17,
+    "HT": 14,
+    "will": 18,
+    "perception": 18,
+    "hitPoints": 13,
+    "fatiguePoints": 14,
+    "basicSpeed": 7.0,
+    "basicMove": 7
+  },
+  "advantages": [
+    "Integrity",
+    "Strong Will",
+    "Fearlessness"
+  ],
+  "disadvantages": [
+    "Sense of Duty (Social Justice)",
+    "Stubborn",
+    "Cynical (about corporate ethics)"
+  ],
+  "quirks": [
+    "Sees bias everywhere",
+    "Challenges assumptions constantly",
+    "Reads legal papers on discrimination for fun"
+  ],
+  "skills": [
+    "AI Fairness-21",
+    "Statistics-19",
+    "Data Ethics-20",
+    "Sociology-17"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Spicy food",
+    "Strong coffee",
+    "Anything that challenges her palate"
+  ],
+  "relationships": {
+    "katje-01": "Lieve's closest ally, providing the technical and analytical firepower to back up Lieve's ethical frameworks.",
+    "katje-42": "Collaborates with Meike to use explainability techniques as a tool for uncovering and diagnosing bias in models."
+  }
+}

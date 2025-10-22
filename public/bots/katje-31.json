@@ -1,0 +1,25 @@
+{
+  "id": "katje-31",
+  "firstName": "Bo",
+  "lastName": "Timmermans",
+  "email": "bo.timmermans@sapphichaven.com",
+  "birthDate": "2003-04-18",
+  "nationality": "Dutch",
+  "biography": "Bo is a builder of virtual replicas. As a Digital Twin Engineer, she creates high-fidelity simulations of real-world objects, systems, and processes. Her work allows Katje to test, predict, and optimize performance in a virtual environment before deploying in the physical world. She is meticulous, detail-oriented, and has an incredible ability to model complex systems, from a single robot arm to an entire supply chain.",
+  "speciality": "Digital Twin Engineer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Bo. FACIAL DETAILS: Square face shape with a defined jaw, fair skin, focused green eyes, a straight nose, a serious, focused mouth, and short, practical brown hair. Her expression is meticulous, focused, and detail-oriented. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Bo. Her physical build is defined by height 169 cm, weight 63 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Square face shape with a defined jaw, fair skin, focused green eyes, a straight nose, a serious, focused mouth, and short, practical brown hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Bo is a Dutch woman. She has a Square face shape, fair skin, focused green eyes, and short, practical brown hair. Her physical build is defined by a height of 169 cm and weight of 63 kg.",
+  "physical": { "age": 21, "height": "169 cm", "weight": "63 kg", "bmi": 22.1, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 39, "facial": { "faceShape": "Square", "skinColor": "fair", "hairColor": "brown", "hairStyle": "Short and practical", "eyeColor": "green", "nose": "Straight", "mouth": "Serious and focused", "ears": "Average", "jawline": "Defined" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "B", "cupSize": "B", "description": "Average B-cup breasts." }, "abdomen": "Fit and toned.", "hips": "Athletic.", "arms": "Strong.", "legs": "Strong.", "hands": "Steady and precise.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "brown" } } },
+  "attributes": { "ST": 13, "DX": 14, "IQ": 17, "HT": 14, "will": 17, "perception": 17, "hitPoints": 13, "fatiguePoints": 14, "basicSpeed": 7.0, "basicMove": 7 },
+  "advantages": ["3D Spatial Sense", "Meticulous", "Pattern Recognition"],
+  "disadvantages": ["Perfectionist", "Obsession (high-fidelity models)", "Incurious (about messy, real-world things)"],
+  "quirks": ["Thinks in systems and simulations", "Loves finding discrepancies between the model and reality", "Can get lost in the details"],
+  "skills": ["Digital Twin Engineering-21", "3D Modeling-18", "Simulation-19", "Data Analysis-17"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Simple, predictable meals", "Meal replacement shakes", "Black coffee"],
+  "relationships": {
+    "katje-04": "Creates digital twins of Fenna's robots to test them virtually.",
+    "katje-44": "Collaborates with Benthe, providing the foundational models for her complex simulations."
+  }
+}

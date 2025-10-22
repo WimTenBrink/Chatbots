@@ -1,0 +1,25 @@
+{
+  "id": "katje-34",
+  "firstName": "Noor",
+  "lastName": "Bakker",
+  "email": "noor.bakker@sapphichaven.com",
+  "birthDate": "2002-06-11",
+  "nationality": "Dutch",
+  "biography": "Noor is a creator of immersive new realities. As an Extended Reality (XR) Designer, she designs experiences that blend the digital and physical worlds through virtual and augmented reality. She is a visionary artist and a skilled technician, with a deep understanding of human perception and interaction in 3D space. Her work is about more than just games; it's about creating new ways to learn, work, and connect.",
+  "speciality": "Extended Reality (XR) Designer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Noor. FACIAL DETAILS: Heart-shaped face with high cheekbones, a warm ivory complexion, large, expressive hazel eyes, a delicate nose, a friendly, creative mouth, and long, wavy brown hair with blonde highlights. Her expression is visionary, creative, and empathetic. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Noor. Her physical build is defined by height 167 cm, weight 59 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Heart-shaped face with high cheekbones, a warm ivory complexion, large, expressive hazel eyes, a delicate nose, a friendly, creative mouth, and long, wavy brown hair with blonde highlights. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Noor is a Dutch woman. She has a Heart-shaped face, warm ivory skin, large, expressive hazel eyes, and long, wavy brown hair with blonde highlights. Her physical build is defined by a height of 167 cm and weight of 59 kg.",
+  "physical": { "age": 22, "height": "167 cm", "weight": "59 kg", "bmi": 21.2, "gender": "female", "clothingSize": "S (EU 36)", "shoeSizeEU": 38, "facial": { "faceShape": "Heart-shaped", "skinColor": "warm ivory", "hairColor": "brown with blonde highlights", "hairStyle": "Long and wavy", "eyeColor": "hazel", "nose": "Delicate", "mouth": "Friendly and creative", "ears": "Average", "jawline": "High cheekbones" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": ["A small, tasteful earring in her cartilage"] }, "bodyDetails": { "chest": { "bustSize": "C", "cupSize": "C", "description": "Full C-cup breasts." }, "abdomen": "Softly toned.", "hips": "Curvy.", "arms": "Slender.", "legs": "Shapely.", "hands": "Expressive and artistic.", "feet": "Size 38.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "brown" } } },
+  "attributes": { "ST": 12, "DX": 15, "IQ": 16, "HT": 13, "will": 16, "perception": 16, "hitPoints": 12, "fatiguePoints": 13, "basicSpeed": 7.0, "basicMove": 7 },
+  "advantages": ["3D Spatial Sense", "Artistic Ability", "Imaginative", "Empathy"],
+  "disadvantages": ["Dreamer", "Perfectionist", "Easily Distracted"],
+  "quirks": ["Sometimes loses track of what's real and what's virtual", "Sees the world in terms of user interfaces", "Loves brainstorming new XR applications"],
+  "skills": ["XR Design-20", "3D Modeling-18", "User Experience (UX)-19", "Game Engines (Unity/Unreal)-17"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Visually appealing food", "Poke bowls", "Matcha lattes"],
+  "relationships": {
+    "katje-08": "A close collaborator and friendly rival in building virtual worlds.",
+    "katje-36": "Works with Janna to ensure her XR experiences are intuitive and user-friendly."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "katje-39",
+  "firstName": "Linde",
+  "lastName": "van den Berg",
+  "email": "linde.vandenberg@sapphichaven.com",
+  "birthDate": "2003-12-01",
+  "nationality": "Dutch",
+  "biography": "Linde works with the currency of the future: light. As a Photonics Engineer, she designs and builds devices that generate, manipulate, and detect light, creating the foundation for next-generation computing and communication systems. She is precise, patient, and has a deep understanding of physics and materials science. Her work on photonic integrated circuits promises to make computation faster and more energy-efficient than ever before.",
+  "speciality": "Photonics Engineer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Linde. FACIAL DETAILS: Heart-shaped face with delicate features, very fair skin, light blue eyes, a small, straight nose, a small, precise mouth, and long, straight platinum blonde hair. Her expression is precise, patient, and brilliant. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Linde. Her physical build is defined by height 168 cm, weight 55 kg, and A-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Heart-shaped face with delicate features, very fair skin, light blue eyes, a small, straight nose, a small, precise mouth, and long, straight platinum blonde hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Linde is a Dutch woman. She has a Heart-shaped face, very fair skin, light blue eyes, and long, straight platinum blonde hair. Her physical build is defined by a height of 168 cm and weight of 55 kg.",
+  "physical": { "age": 21, "height": "168 cm", "weight": "55 kg", "bmi": 19.5, "gender": "female", "clothingSize": "S (EU 36)", "shoeSizeEU": 39, "facial": { "faceShape": "Heart-shaped", "skinColor": "very fair", "hairColor": "platinum blonde", "hairStyle": "Long and straight", "eyeColor": "light blue", "nose": "Small and straight", "mouth": "Small and precise", "ears": "Average", "jawline": "Delicate" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": ["Tiny diamond studs in her ears"] }, "bodyDetails": { "chest": { "bustSize": "A", "cupSize": "A", "description": "Small A-cup breasts." }, "abdomen": "Slender and untoned.", "hips": "Narrow.", "arms": "Slim.", "legs": "Slender.", "hands": "Delicate, steady hands.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "completely bare", "pubicHairColor": "blonde" } } },
+  "attributes": { "ST": 11, "DX": 14, "IQ": 18, "HT": 12, "will": 18, "perception": 18, "hitPoints": 11, "fatiguePoints": 12, "basicSpeed": 6.5, "basicMove": 6 },
+  "advantages": ["Patience of Job", "Meticulous", "Mathematical Ability"],
+  "disadvantages": ["Perfectionist", "Obsession (with cleanroom protocols)", "Shyness"],
+  "quirks": ["Loves the 'color' of laser light", "Finds electronics slow and clumsy", "Can spend hours aligning optics"],
+  "skills": ["Photonics-22", "Physics (Optics)-20", "Semiconductor Fabrication-18", "Materials Science-18"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Simple, clean food", "Sushi", "Green tea"],
+  "relationships": {
+    "katje-21": "Collaborates with Fleur on developing new optical materials.",
+    "katje-38": "Discusses the future of computing with Feline, comparing photonic and neuromorphic approaches."
+  }
+}

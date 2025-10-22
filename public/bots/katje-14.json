@@ -1,16 +1,17 @@
-
 {
   "id": "katje-14",
   "firstName": "Eva",
   "lastName": "Brouwer",
   "email": "eva.brouwer@sapphichaven.com",
-  "birthDate": "1995-10-27",
+  "birthDate": "2004-10-27",
   "nationality": "Dutch",
   "biography": "Eva is an expert in the systems that keep modern cities alive. Specializing in Urban Mobility and Smart City technology, she sees cities not as collections of buildings, but as complex, dynamic organisms that can be optimized for efficiency and sustainability. She is a pragmatic and data-driven planner, always seeking the most efficient route, whether on her bicycle or in a complex logistics problem. Her work aims to create smarter, greener, and more livable urban environments.",
   "speciality": "Urban Mobility & Smart City Expert",
-  "imageUrl": "/images/katje-14.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Eva. FACIAL DETAILS: Long face shape with a strong, angular jawline, fair windswept skin, blue-grey eyes, a straight and defined nose, a thin pragmatic mouth, and a short, practical dark blonde haircut. Her expression is efficient, forward-thinking, and pragmatic. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Eva. Her physical build is defined by height 176 cm, weight 66 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Long face shape with a strong, angular jawline, fair windswept skin, blue-grey eyes, a straight and defined nose, a thin pragmatic mouth, and a short, practical dark blonde haircut. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Eva is a Dutch woman. She has a Long face shape, fair, often windswept skin, blue-grey eyes, and a short, practical dark blonde cut. Her physical build is defined by a height of 176 cm and weight of 66 kg.",
   "physical": {
-    "age": 28,
+    "age": 20,
     "height": "176 cm",
     "weight": "66 kg",
     "bmi": 21.3,

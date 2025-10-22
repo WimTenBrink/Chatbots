@@ -1,51 +1,8 @@
-
-// types.ts
-
-export interface FacialDetails {
-  faceShape: string;
-  skinColor: string;
-  hairColor: string;
-  hairStyle: string;
-  eyeColor: string;
-  nose: string;
-  mouth: string;
-  ears: string;
-  jawline: string;
-}
-
-export interface BodyMarks {
-  scars: string[];
-  tattoos: string[];
-  piercings: string[];
-}
-
-export interface ChestDetails {
-  bustSize: string;
-  cupSize: string;
-  description: string;
-}
-
-export interface PrivateDetails {
-  armpitHair: string;
-  pubicHairStyle: string;
-  pubicHairColor: string;
-}
-
-export interface BodyDetails {
-  chest: ChestDetails;
-  abdomen: string;
-  hips: string;
-  arms: string;
-  legs: string;
-  hands: string;
-  feet: string;
-  private: PrivateDetails;
-}
-
-
-export interface AppSettings {
-  geminiModel: 'gemini-flash-latest' | 'gemini-2.5-pro';
-  imagenModel: 'imagen-4.0-generate-001';
+// Fix: Added definitions for MessageAuthor, LogLevel, LogEntry, AppSettings, BotProfile, and Team.
+export enum MessageAuthor {
+  USER = 'user',
+  BOT = 'bot',
+  SYSTEM = 'system',
 }
 
 export enum LogLevel {
@@ -66,56 +23,80 @@ export interface LogEntry {
   details: any;
 }
 
-export interface GURPSAttributes {
-  ST: number;
-  DX: number;
-  IQ: number;
-  HT: number;
-  will: number;
-  perception: number;
-  hitPoints: number;
-  fatiguePoints: number;
-  basicSpeed: number;
-  basicMove: number;
-}
-
-export interface PhysicalDetails {
-  age: number;
-  height: string;
-  weight: string;
-  bmi: number;
-  gender: 'female';
-  clothingSize: string;
-  shoeSizeEU: number;
-  facial: FacialDetails;
-  bodyMarks: BodyMarks;
-  bodyDetails: BodyDetails;
-}
-
-export interface Language {
-  language: string;
-  proficiency: 'Native' | 'Fluent' | 'Conversational' | 'Basic';
+export interface AppSettings {
+  geminiModel: 'gemini-flash-latest' | 'gemini-2.5-pro';
+  imagenModel: 'imagen-4.0-generate-001';
 }
 
 export interface BotProfile {
   id: string;
+  email: string;
   firstName: string;
   lastName: string;
-  email: string;
-  birthDate: string;
-  nationality: string;
-  biography: string;
   speciality: string;
-  imageUrl: string;
-  physical: PhysicalDetails;
-  attributes: GURPSAttributes;
+  nationality: string;
+  birthDate: string;
+  biography: string;
+  avatar: string;
+  bikini: string;
+  prompt: string;
+  physical: {
+    age: number;
+    height: string;
+    weight: string;
+    bmi: number;
+    clothingSize: string;
+    shoeSizeEU: number;
+    facial: {
+      faceShape: string;
+      skinColor: string;
+      hairColor: string;
+      hairStyle: string;
+      eyeColor: string;
+      nose: string;
+      mouth: string;
+      ears: string;
+      jawline: string;
+    };
+    bodyDetails: {
+      chest: { description: string; };
+      abdomen: string;
+      hips: string;
+      arms: string;
+      legs: string;
+      hands: string;
+      feet: string;
+      private: {
+        armpitHair: string;
+        pubicHairStyle: string;
+        pubicHairColor: string;
+      };
+    };
+    bodyMarks: {
+      scars: string[];
+      tattoos: string[];
+      piercings: string[];
+    };
+  };
+  attributes: {
+    ST: number;
+    DX: number;
+    IQ: number;
+    HT: number;
+    will: number;
+    perception: number;
+    hitPoints: number;
+    fatiguePoints: number;
+    basicSpeed: number;
+    basicMove: number;
+  };
   advantages: string[];
   disadvantages: string[];
   quirks: string[];
   skills: string[];
-  languages: Language[];
+  languages: { language: string; proficiency: string }[];
   favoriteFoods: string[];
-  relationships: { [botId: string]: string };
+  relationships?: Record<string, string>;
 }
 
 export interface Team {
@@ -127,17 +108,25 @@ export interface Team {
     memberIds: string[];
 }
 
-
-export enum MessageAuthor {
-  USER = 'user',
-  BOT = 'bot',
-  SYSTEM = 'system',
-}
-
 export interface ChatMessage {
   id: string;
   author: MessageAuthor;
   text: string;
   imageUrl?: string;
+  videoUrl?: string;
   botProfile?: BotProfile;
+  groundingChunks?: any[];
+}
+// FIX: Moved AIStudio interface definition inside `declare global` to resolve type conflicts.
+declare global {
+    interface AIStudio {
+        hasSelectedApiKey: () => Promise<boolean>;
+        openSelectKey: () => Promise<void>;
+    }
+
+    interface Window {
+        // FIX: Made aistudio optional to resolve modifier conflict and accurately reflect
+        // that it may not be present in all environments.
+        aistudio?: AIStudio;
+    }
 }

@@ -1,0 +1,15 @@
+{
+    "id": "team-ml-ops",
+    "name": "ML Operations & Automation",
+    "speciality": "Deployment, Scaling & Maintenance of AI Systems",
+    "description": "The ML Ops & Automation team is responsible for the entire lifecycle of machine learning models in production. They build robust pipelines for data processing, model training, deployment, and monitoring. They are experts in automation, ensuring that Katje's AI systems are scalable, reliable, and efficient.",
+    "leaderId": "katje-28",
+    "memberIds": [
+        "katje-27",
+        "katje-28",
+        "katje-29",
+        "katje-31",
+        "katje-37",
+        "katje-44"
+    ]
+}

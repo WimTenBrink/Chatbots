@@ -1,15 +1,16 @@
-
 {
-    "id": "team-core-research",
+    "id": "team-core-ai",
     "name": "Core AI Research",
-    "speciality": "Foundational AI & Theoretical Science",
-    "description": "This team operates at the bleeding edge of artificial intelligence and theoretical science. Their mission is to explore and develop the foundational models and technologies that will power the next generation of AI. Projects include quantum algorithm development, advanced natural language understanding, and researching novel neural network architectures.",
+    "speciality": "Fundamental AI Research & Development",
+    "description": "This team is focused on pushing the boundaries of artificial intelligence. They work on the foundational theories and models that power all of Katje's technologies, from developing novel neural network architectures to pioneering new methods in natural language understanding. Their work is less about immediate products and more about long-term, groundbreaking innovation.",
     "leaderId": "katje-02",
     "memberIds": [
         "katje-02",
         "katje-09",
         "katje-13",
-        "katje-20",
-        "katje-21"
+        "katje-28",
+        "katje-30",
+        "katje-35",
+        "katje-38"
     ]
 }

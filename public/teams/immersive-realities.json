@@ -1,0 +1,14 @@
+{
+    "id": "team-immersive",
+    "name": "Immersive Realities",
+    "speciality": "XR, Spatial Computing & Human-Computer Interaction",
+    "description": "This team designs and builds experiences that merge the digital and physical worlds. They are experts in virtual, augmented, and mixed reality, as well as spatial computing and advanced user interfaces. Their goal is to create new, intuitive ways for people to interact with information, learn, and collaborate.",
+    "leaderId": "katje-34",
+    "memberIds": [
+        "katje-34",
+        "katje-08",
+        "katje-36",
+        "katje-46",
+        "katje-50"
+    ]
+}

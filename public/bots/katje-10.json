@@ -1,16 +1,17 @@
-
 {
   "id": "katje-10",
   "firstName": "Romy",
   "lastName": "Bos",
   "email": "romy.bos@sapphichaven.com",
-  "birthDate": "1992-04-10",
+  "birthDate": "2004-04-10",
   "nationality": "Dutch",
   "biography": "Romy is the organizational engine that drives Katje forward. As the Agile Project Manager, she excels at transforming chaotic ideas into structured, achievable goals. She is a master of communication, motivation, and planning, ensuring that every project sprint is executed with maximum efficiency. Her charismatic and energetic leadership keeps the teams aligned and focused, turning ambitious visions into reality, one task at a time.",
   "speciality": "Agile Project Manager",
-  "imageUrl": "/images/katje-10.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Romy. FACIAL DETAILS: Square face shape with a strong, defined jawline, medium tan skin, dark brown eyes, a well-defined and straight nose, a confident smile often with red lipstick, and perfectly styled, shoulder-length dark espresso hair. Her expression is confident, organized, and charismatic. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Romy. Her physical build is defined by height 166 cm, weight 60 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Square face shape with a strong, defined jawline, medium tan skin, dark brown eyes, a well-defined and straight nose, a confident smile, and perfectly styled, shoulder-length dark espresso hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Romy is a Dutch woman. She has a Square face shape, medium tan skin, dark brown eyes, and shoulder-length dark espresso hair, always perfectly styled. Her physical build is defined by a height of 166 cm and weight of 60 kg.",
   "physical": {
-    "age": 32,
+    "age": 20,
     "height": "166 cm",
     "weight": "60 kg",
     "bmi": 21.8,
@@ -23,10 +24,10 @@
       "hairColor": "dark espresso",
       "hairStyle": "Shoulder-length, always perfectly styled in a professional manner",
       "eyeColor": "dark brown",
-      "nose": "Authoritative and straight",
+      "nose": "Well-defined and straight",
       "mouth": "A confident, charismatic smile; she wears red lipstick.",
       "ears": "Adorned with tasteful, professional earrings.",
-      "jawline": "Strong and commanding"
+      "jawline": "Strong and defined"
     },
     "bodyMarks": {
       "scars": [],

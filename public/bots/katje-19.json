@@ -1,16 +1,17 @@
-
 {
   "id": "katje-19",
   "firstName": "Lieke",
   "lastName": "van der Linden",
   "email": "lieke.vanderlinden@sapphichaven.com",
-  "birthDate": "1997-04-29",
+  "birthDate": "2005-04-29",
   "nationality": "Dutch",
   "biography": "Lieke is a pragmatic innovator with deep roots in the earth. As an AgriTech Specialist, she combines generations of farming wisdom with cutting-edge technology to create sustainable and efficient agricultural solutions. She's strong, down-to-earth, and has a profound respect for the land. Whether she's analyzing soil sensor data or calibrating an autonomous tractor, her goal is to ensure the future of food is both productive and responsible.",
   "speciality": "AgriTech Specialist",
-  "imageUrl": "/images/katje-19.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Lieke. FACIAL DETAILS: Square face shape with a strong jawline, sun-kissed and freckled skin, hazel eyes, a strong straight nose, a wide genuine smile, and long, thick brown hair with sun-bleached streaks, often in a loose braid. Her expression is pragmatic, hard-working, and down-to-earth. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Lieke. Her physical build is defined by height 179 cm, weight 69 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Square face shape with a strong jawline, sun-kissed and freckled skin, hazel eyes, a strong straight nose, a wide genuine smile, and long, thick brown hair with sun-bleached streaks, often in a loose braid. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Lieke is a Dutch woman. She has a Square face shape, sun-kissed and freckled skin, hazel eyes, and long and thick brown hair with natural sun-bleached streaks, often worn in a loose, practical braid. Her physical build is defined by a height of 179 cm and weight of 69 kg.",
   "physical": {
-    "age": 27,
+    "age": 19,
     "height": "179 cm",
     "weight": "69 kg",
     "bmi": 21.5,

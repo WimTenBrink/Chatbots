@@ -1,0 +1,14 @@
+{
+  "id": "team-gaming-guild",
+  "name": "Katje Gaming Guild",
+  "speciality": "Game Development & Interactive Entertainment",
+  "description": "More than just a team, the Gaming Guild is a passionate community of developers and designers dedicated to creating fun and engaging interactive experiences. They work on everything from mobile games to complex VR simulations. This team also researches the application of advanced AI in gaming, such as reinforcement learning for NPCs and procedural content generation.",
+  "leaderId": "katje-25",
+  "memberIds": [
+    "katje-08",
+    "katje-17",
+    "katje-22",
+    "katje-25",
+    "katje-43"
+  ]
+}

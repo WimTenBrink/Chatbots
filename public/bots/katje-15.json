@@ -1,16 +1,17 @@
-
 {
   "id": "katje-15",
   "firstName": "Isa",
   "lastName": "de Wit",
   "email": "isa.dewit@sapphichaven.com",
-  "birthDate": "1996-08-19",
+  "birthDate": "2005-08-19",
   "nationality": "Dutch",
   "biography": "Isa is a passionate advocate for the power of technology to transform learning. As an EdTech Innovator, she designs engaging and accessible educational tools that make learning fun and effective. She is a born teacher with infectious enthusiasm, always looking for creative ways to explain complex topics. Her idealism and empathy drive her to build a future where everyone has access to a quality education.",
   "speciality": "EdTech Innovator",
-  "imageUrl": "/images/katje-15.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Isa. FACIAL DETAILS: Round face shape with a soft jawline, warm beige skin, warm brown eyes sparkling with enthusiasm, a soft rounded nose, a very expressive mouth, and friendly, shoulder-length brown hair with caramel highlights. Her expression is enthusiastic, hopeful, and inspiring. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Isa. Her physical build is defined by height 164 cm, weight 58 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Round face shape with a soft jawline, warm beige skin, warm brown eyes sparkling with enthusiasm, a soft rounded nose, a very expressive mouth, and friendly, shoulder-length brown hair with caramel highlights. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Isa is a Dutch woman. She has a Round face shape, warm beige skin, warm brown eyes, and friendly, shoulder-length brown hair with a gentle wave and caramel highlights. Her physical build is defined by a height of 164 cm and weight of 58 kg.",
   "physical": {
-    "age": 27,
+    "age": 19,
     "height": "164 cm",
     "weight": "58 kg",
     "bmi": 21.6,

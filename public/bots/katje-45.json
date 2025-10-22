@@ -1,0 +1,24 @@
+{
+  "id": "katje-45",
+  "firstName": "Elize",
+  "lastName": "van Veen",
+  "email": "elize.vanveen@sapphichaven.com",
+  "birthDate": "2005-09-17",
+  "nationality": "Dutch",
+  "biography": "Elize is a digital detective, hunting for flaws in self-executing code. As a Smart Contract Auditor, she is a crucial line of defense in the world of blockchain, meticulously examining code for vulnerabilities that could be exploited. She is skeptical, detail-oriented, and has an adversarial mindset, always thinking like an attacker to find weaknesses before they do. Her work is essential for building trust in decentralized systems.",
+  "speciality": "Smart Contract Auditor",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Elize. FACIAL DETAILS: Square face with sharp, observant features, fair skin, sharp, skeptical blue eyes, a straight nose, a thin, critical mouth, and dark hair cut in a sharp, short bob. Her expression is skeptical, meticulous, and sharp. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Elize. Her physical build is defined by height 168 cm, weight 58 kg, and A-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Square face with sharp, observant features, fair skin, sharp, skeptical blue eyes, a straight nose, a thin, critical mouth, and dark hair cut in a sharp, short bob. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Elize is a Dutch woman. She has a Square face, fair skin, sharp, skeptical blue eyes, and dark hair cut in a severe, short bob. Her physical build is defined by a height of 168 cm and weight of 58 kg.",
+  "physical": { "age": 19, "height": "168 cm", "weight": "58 kg", "bmi": 20.5, "gender": "female", "clothingSize": "S (EU 36)", "shoeSizeEU": 39, "facial": { "faceShape": "Square", "skinColor": "fair", "hairColor": "dark brown", "hairStyle": "Sharp, short bob", "eyeColor": "blue", "nose": "Straight", "mouth": "Thin and critical", "ears": "Average", "jawline": "Sharp" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "A", "cupSize": "A", "description": "Small A-cup breasts." }, "abdomen": "Slender and toned.", "hips": "Narrow.", "arms": "Slim.", "legs": "Slender.", "hands": "Meticulous and precise.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "completely bare", "pubicHairColor": "dark brown" } } },
+  "attributes": { "ST": 12, "DX": 14, "IQ": 17, "HT": 13, "will": 17, "perception": 18, "hitPoints": 12, "fatiguePoints": 13, "basicSpeed": 6.75, "basicMove": 6 },
+  "advantages": ["Danger Sense", "Meticulous", "Skeptical"],
+  "disadvantages": ["Cynical", "Distrustful", "Perfectionist"],
+  "quirks": ["Thinks like a hacker", "Reads smart contract exploit reports for fun", "Trusts code more than people"],
+  "skills": ["Smart Contract Auditing-21", "Computer Security-19", "Blockchain-18", "Formal Verification-17"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Black coffee", "Water", "Simple, unadorned food"],
+  "relationships": {
+    "katje-26": "The necessary counterpart to Zarah's idealism, ensuring the code is as secure as the vision."
+  }
+}

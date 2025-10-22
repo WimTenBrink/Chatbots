@@ -1,0 +1,25 @@
+{
+  "id": "katje-29",
+  "firstName": "Liv",
+  "lastName": "Groen",
+  "email": "liv.groen@sapphichaven.com",
+  "birthDate": "2005-08-15",
+  "nationality": "Dutch",
+  "biography": "Liv is the watchful guardian of Katje's complex IT systems, using AI to predict and prevent problems before they happen. As an AIOps Specialist, she applies machine learning to IT operations, automating tasks, detecting anomalies, and ensuring that everything runs smoothly. She is calm, observant, and methodical, finding a quiet satisfaction in building self-healing, intelligent systems.",
+  "speciality": "AIOps Specialist",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Liv. FACIAL DETAILS: Round face with soft features, fair skin, calm green eyes, a small nose, a gentle, quiet mouth, and straight, shoulder-length light brown hair. Her expression is calm, observant, and serene. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Liv. Her physical build is defined by height 167 cm, weight 58 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Round face with soft features, fair skin, calm green eyes, a small nose, a gentle, quiet mouth, and straight, shoulder-length light brown hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Liv is a Dutch woman. She has a Round face, fair skin, calm green eyes, and straight, shoulder-length light brown hair. Her physical build is defined by a height of 167 cm and weight of 58 kg.",
+  "physical": { "age": 19, "height": "167 cm", "weight": "58 kg", "bmi": 20.8, "gender": "female", "clothingSize": "S (EU 36)", "shoeSizeEU": 39, "facial": { "faceShape": "Round", "skinColor": "fair", "hairColor": "light brown", "hairStyle": "Straight, shoulder-length", "eyeColor": "green", "nose": "Small", "mouth": "Gentle and quiet", "ears": "Average", "jawline": "Soft" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "B", "cupSize": "B", "description": "Average B-cup breasts." }, "abdomen": "Soft and untoned.", "hips": "Gently curved.", "arms": "Slender.", "legs": "Average.", "hands": "Delicate, with neat nails.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "light brown" } } },
+  "attributes": { "ST": 12, "DX": 13, "IQ": 17, "HT": 13, "will": 17, "perception": 17, "hitPoints": 12, "fatiguePoints": 13, "basicSpeed": 6.5, "basicMove": 6 },
+  "advantages": ["Patience of Job", "Intuition", "Calm"],
+  "disadvantages": ["Shyness", "Quiet", "Perfectionist"],
+  "quirks": ["Finds noisy alerts stressful", "Loves watching monitoring dashboards", "Can predict a server failure by its logs"],
+  "skills": ["AIOps-21", "Machine Learning-18", "Data Analysis-18", "System Administration-17"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Soothing soups", "Herbal tea", "Risotto", "Oatmeal"],
+  "relationships": {
+    "katje-12": "Provides the AI-driven monitoring that helps Femke ensure system reliability.",
+    "katje-28": "Takes the models Nova engineers and applies them to the operational side of the business."
+  }
+}

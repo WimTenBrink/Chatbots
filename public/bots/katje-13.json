@@ -1,14 +1,15 @@
-
 {
   "id": "katje-13",
   "firstName": "Sofie",
   "lastName": "Dekker",
   "email": "sofie.dekker@sapphichaven.com",
-  "birthDate": "2002-12-01",
+  "birthDate": "2003-12-01",
   "nationality": "Dutch",
   "biography": "Sofie is a prodigy in the art of conversation, albeit with machines. As a Natural Language Processing Specialist, she deconstructs language into its fundamental components, teaching AI to understand and generate human speech with all its nuance and complexity. She is intensely analytical and literal-minded, finding beauty in grammatical structures and semantic patterns. Her work allows Katje's AI to communicate in a way that is natural, intelligent, and human-like.",
   "speciality": "Natural Language Processing Specialist",
-  "imageUrl": "/images/katje-13.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Sofie. FACIAL DETAILS: Round face shape with a soft jawline, ivory skin, bright blue eyes behind stylish glasses, a small button nose, a small mouth, and pin-straight, shoulder-length platinum blonde hair. Her expression is analytical, curious, and precise. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Sofie. Her physical build is defined by height 167 cm, weight 56 kg, and A-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Round face shape with a soft jawline, ivory skin, bright blue eyes behind stylish glasses, a small button nose, a small mouth, and pin-straight, shoulder-length platinum blonde hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Sofie is a Dutch woman who wears stylish glasses. She has a Round face shape, ivory skin, bright blue eyes, and shoulder-length, pin-straight, platinum blonde hair. Her physical build is defined by a height of 167 cm and weight of 56 kg.",
   "physical": {
     "age": 21,
     "height": "167 cm",

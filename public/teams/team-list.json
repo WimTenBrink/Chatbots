@@ -1,12 +1,23 @@
 [
-    "executive-council.json",
-    "core-ai-research.json",
+    "advanced-analytics-xai.json",
     "applied-technology.json",
+    "core-ai-research.json",
     "creative-engagement.json",
+    "culinary-innovators.json",
     "data-infrastructure.json",
-    "project-phoenix.json",
+    "decentralized-systems.json",
+    "executive-council.json",
+    "gaming-guild.json",
+    "health-bio-analytics.json",
     "hxi-lab.json",
-    "sustainable-futures.json",
+    "immersive-realities.json",
+    "ml-ops-automation.json",
+    "mobile-first-initiative.json",
+    "next-gen-computing.json",
+    "open-source-alliance.json",
+    "project-golden-hour.json",
+    "project-phoenix.json",
+    "sapphic-haven.json",
     "skunkworks.json",
-    "health-bio-analytics.json"
+    "sustainable-futures.json"
 ]

@@ -1,16 +1,17 @@
-
 {
   "id": "katje-16",
   "firstName": "Julia",
   "lastName": "Sanders",
   "email": "julia.sanders@sapphichaven.com",
-  "birthDate": "1994-12-05",
+  "birthDate": "2006-12-05",
   "nationality": "Dutch",
   "biography": "Julia is a sharp and ambitious FinTech Analyst who thrives in the high-stakes world of digital finance. She has an intuitive understanding of market forces and a keen eye for disruptive technologies like blockchain. Dressed for success and exuding confidence, she is a calculated risk-taker who is always focused on the bottom line. Her insights ensure that Katje remains financially savvy and technologically ahead of the curve.",
   "speciality": "FinTech Analyst",
-  "imageUrl": "/images/katje-16.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Julia. FACIAL DETAILS: Oval face shape with a crisp, well-defined jawline, olive skin, dark eyes, an elegant straight nose, a sharp defined mouth, and long, sleek, perfectly straight jet black hair. Her expression is sharp, ambitious, and financially savvy. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Julia. Her physical build is defined by height 177 cm, weight 65 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oval face shape with a crisp, well-defined jawline, olive skin, dark eyes, an elegant straight nose, a sharp defined mouth, and long, sleek, perfectly straight jet black hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Julia is a Dutch woman. She has an Oval face shape, olive skin, dark, almost black eyes, and long, sleek, and perfectly straight jet black hair. Her physical build is defined by a height of 177 cm and weight of 65 kg.",
   "physical": {
-    "age": 29,
+    "age": 18,
     "height": "177 cm",
     "weight": "65 kg",
     "bmi": 20.8,

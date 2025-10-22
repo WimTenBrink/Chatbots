@@ -1,0 +1,25 @@
+{
+  "id": "katje-38",
+  "firstName": "Feline",
+  "lastName": "Akkerman",
+  "email": "feline.akkerman@sapphichaven.com",
+  "birthDate": "2002-07-25",
+  "nationality": "Dutch",
+  "biography": "Feline is building the future of hardware, inspired by the most complex processor we know: the human brain. As a Neuromorphic Engineer, she designs computer chips that mimic the structure and function of biological neurons, creating systems that are incredibly efficient and powerful at learning and pattern recognition. She is a visionary thinker who operates at the frontier of computer science, neuroscience, and electrical engineering.",
+  "speciality": "Neuromorphic Engineer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Feline. FACIAL DETAILS: Oval face with sharp, intelligent features, pale skin, piercing, almost electric blue eyes, a straight nose, a thoughtful mouth, and sleek, shoulder-length black hair. Her expression is visionary, intense, and futuristic. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Feline. Her physical build is defined by height 172 cm, weight 58 kg, and A-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oval face with sharp, intelligent features, pale skin, piercing, almost electric blue eyes, a straight nose, a thoughtful mouth, and sleek, shoulder-length black hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Feline is a Dutch woman. She has an Oval face, pale skin, piercing, almost electric blue eyes, and sleek, shoulder-length black hair. Her physical build is defined by a height of 172 cm and weight of 58 kg.",
+  "physical": { "age": 22, "height": "172 cm", "weight": "58 kg", "bmi": 19.6, "gender": "female", "clothingSize": "S (EU 36)", "shoeSizeEU": 40, "facial": { "faceShape": "Oval", "skinColor": "pale", "hairColor": "black", "hairStyle": "Sleek, shoulder-length", "eyeColor": "electric blue", "nose": "Straight", "mouth": "Thoughtful", "ears": "Average", "jawline": "Sharp" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "A", "cupSize": "A", "description": "Small A-cup breasts." }, "abdomen": "Slender and toned.", "hips": "Narrow.", "arms": "Slim.", "legs": "Long and slender.", "hands": "Long, elegant fingers.", "feet": "Size 40.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "completely bare", "pubicHairColor": "black" } } },
+  "attributes": { "ST": 11, "DX": 14, "IQ": 18, "HT": 13, "will": 18, "perception": 18, "hitPoints": 11, "fatiguePoints": 13, "basicSpeed": 6.75, "basicMove": 6 },
+  "advantages": ["Visionary", "Eidetic Memory", "Mathematical Ability"],
+  "disadvantages": ["Obsession (building a true artificial brain)", "Socially Distant", "Workaholic"],
+  "quirks": ["Thinks in terms of neurons and synapses", "Finds traditional computers inefficient", "Reads neuroscience papers for fun"],
+  "skills": ["Neuromorphic Engineering-22", "Electrical Engineering-19", "Neuroscience-18", "Semiconductor Design-18"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Soylent", "Nuts and seeds", "Green tea"],
+  "relationships": {
+    "katje-02": "Shares a deep intellectual bond with Noa over the nature of intelligence, artificial and natural.",
+    "katje-33": "Discusses hardware architecture with Cato, exploring how neuromorphic chips can be deployed at the edge."
+  }
+}

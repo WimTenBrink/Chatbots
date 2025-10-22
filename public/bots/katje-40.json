@@ -1,0 +1,25 @@
+{
+  "id": "katje-40",
+  "firstName": "Jasmijn",
+  "lastName": "van der Wal",
+  "email": "jasmijn.vanderwal@sapphichaven.com",
+  "birthDate": "2004-04-14",
+  "nationality": "Dutch",
+  "biography": "Jasmijn is a digital soothsayer, using data to forecast the future. As a Predictive Analytics Specialist, she builds models that identify trends, predict outcomes, and help Katje make smarter, data-driven decisions. She is analytical, intuitive, and has a knack for seeing the signal in the noise. Her work is a blend of statistical rigor and creative insight, helping the team anticipate challenges and opportunities before they arise.",
+  "speciality": "Predictive Analytics Specialist",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Jasmijn. FACIAL DETAILS: Oval face with a defined jaw, a warm ivory complexion, intelligent, knowing green eyes, a classic nose, a confident, knowing smile, and shoulder-length brown hair in soft waves. Her expression is confident, intuitive, and analytical. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Jasmijn. Her physical build is defined by height 171 cm, weight 63 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oval face with a defined jaw, a warm ivory complexion, intelligent, knowing green eyes, a classic nose, a confident, knowing smile, and shoulder-length brown hair in soft waves. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Jasmijn is a Dutch woman. She has an Oval face, warm ivory skin, intelligent, knowing green eyes, and shoulder-length brown hair in soft waves. Her physical build is defined by a height of 171 cm and weight of 63 kg.",
+  "physical": { "age": 20, "height": "171 cm", "weight": "63 kg", "bmi": 21.5, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 39, "facial": { "faceShape": "Oval", "skinColor": "warm ivory", "hairColor": "brown", "hairStyle": "Shoulder-length soft waves", "eyeColor": "green", "nose": "Classic", "mouth": "Confident, knowing smile", "ears": "Average", "jawline": "Defined" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": ["Tasteful silver earrings"] }, "bodyDetails": { "chest": { "bustSize": "C", "cupSize": "C", "description": "Full C-cup breasts." }, "abdomen": "Toned and fit.", "hips": "Curvy.", "arms": "Strong.", "legs": "Shapely.", "hands": "Elegant and capable.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "brown" } } },
+  "attributes": { "ST": 12, "DX": 14, "IQ": 17, "HT": 14, "will": 17, "perception": 18, "hitPoints": 12, "fatiguePoints": 14, "basicSpeed": 7.0, "basicMove": 7 },
+  "advantages": ["Intuition", "Pattern Recognition", "Common Sense"],
+  "disadvantages": ["Curious", "Overconfident", "On the Edge (of new data)"],
+  "quirks": ["Loves a good forecast", "Thinks in probabilities", "Is surprisingly good at guessing what people will do next"],
+  "skills": ["Predictive Analytics-21", "Statistics-19", "Data Science-19", "Machine Learning-18"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Gourmet food", "Fine wine (in a few years)", "Cheese platters"],
+  "relationships": {
+    "katje-06": "A friendly rival to Saar, they often debate the best modeling techniques.",
+    "katje-16": "Provides market forecasts that inform Julia's financial analysis."
+  }
+}

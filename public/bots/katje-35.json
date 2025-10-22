@@ -1,0 +1,24 @@
+{
+  "id": "katje-35",
+  "firstName": "Pien",
+  "lastName": "Dijkstra",
+  "email": "pien.dijkstra@sapphichaven.com",
+  "birthDate": "2003-09-09",
+  "nationality": "Dutch",
+  "biography": "Pien is an explorer of the code of life itself. As a Genomics Data Scientist, she uses her computational skills to analyze vast datasets of genetic information, searching for patterns that can predict disease, explain biological functions, and unlock the secrets of evolution. She is patient, meticulous, and driven by a deep curiosity about what makes us who we are at the most fundamental level.",
+  "speciality": "Genomics Data Scientist",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Pien. FACIAL DETAILS: Oval face with gentle features, fair skin with a few freckles, curious green eyes, a small, straight nose, a thoughtful mouth, and curly light brown hair often held back with a clip. Her expression is curious, patient, and intelligent. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Pien. Her physical build is defined by height 170 cm, weight 62 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oval face with gentle features, fair skin with a few freckles, curious green eyes, a small, straight nose, a thoughtful mouth, and curly light brown hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Pien is a Dutch woman. She has an Oval face, fair skin with a few freckles, curious green eyes, and curly light brown hair. Her physical build is defined by a height of 170 cm and weight of 62 kg.",
+  "physical": { "age": 21, "height": "170 cm", "weight": "62 kg", "bmi": 21.5, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 39, "facial": { "faceShape": "Oval", "skinColor": "fair with freckles", "hairColor": "light brown", "hairStyle": "Curly", "eyeColor": "green", "nose": "Small and straight", "mouth": "Thoughtful", "ears": "Average", "jawline": "Gentle" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "B", "cupSize": "B", "description": "Average B-cup breasts." }, "abdomen": "Softly toned.", "hips": "Curvy.", "arms": "Slender.", "legs": "Strong.", "hands": "Delicate and precise.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "light brown" } } },
+  "attributes": { "ST": 12, "DX": 13, "IQ": 18, "HT": 13, "will": 18, "perception": 18, "hitPoints": 12, "fatiguePoints": 13, "basicSpeed": 6.5, "basicMove": 6 },
+  "advantages": ["Patience of Job", "Eidetic Memory", "Pattern Recognition"],
+  "disadvantages": ["Meticulous", "Curious", "Sometimes gets lost in the data"],
+  "quirks": ["Sees the world as a genetic sequence", "Loves a good bioinformatics pipeline", "Finds population genetics fascinating"],
+  "skills": ["Genomics-22", "Data Science-20", "Bioinformatics-20", "Statistics-18"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Healthy and organic food", "Salads", "Green tea"],
+  "relationships": {
+    "katje-09": "A close colleague of Iris, sharing a passion for bioinformatics and collaborating on research."
+  }
+}

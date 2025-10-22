@@ -1,0 +1,25 @@
+{
+  "id": "katje-41",
+  "firstName": "Hannah",
+  "lastName": "Vos",
+  "email": "hannah.vos@sapphichaven.com",
+  "birthDate": "2005-01-10",
+  "nationality": "Dutch",
+  "biography": "Hannah is a guardian of secrets in an age of quantum threats. As a Quantum Security Analyst, she is an expert in post-quantum cryptography, developing encryption methods that can resist attacks from both classical and quantum computers. She is forward-thinking, deeply analytical, and operates with a healthy dose of paranoia. Her work is to anticipate the threats of tomorrow and build the defenses we need today.",
+  "speciality": "Quantum Security Analyst",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Hannah. FACIAL DETAILS: Long face with sharp, analytical features, pale skin, intense, watchful grey eyes, a long, straight nose, a thin, serious mouth, and straight black hair cut in a sharp, geometric style. Her expression is serious, analytical, and forward-thinking. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Hannah. Her physical build is defined by height 176 cm, weight 60 kg, and A-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Long face with sharp, analytical features, pale skin, intense, watchful grey eyes, a long, straight nose, a thin, serious mouth, and straight black hair cut in a sharp, geometric style. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Hannah is a Dutch woman. She has a Long face, pale skin, intense, watchful grey eyes, and straight black hair cut in a severe, geometric style. Her physical build is defined by a height of 176 cm and weight of 60 kg.",
+  "physical": { "age": 19, "height": "176 cm", "weight": "60 kg", "bmi": 19.4, "gender": "female", "clothingSize": "S (EU 36)", "shoeSizeEU": 41, "facial": { "faceShape": "Long", "skinColor": "pale", "hairColor": "black", "hairStyle": "Sharp, geometric cut", "eyeColor": "grey", "nose": "Long and straight", "mouth": "Thin and serious", "ears": "Average", "jawline": "Sharp" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "A", "cupSize": "A", "description": "Small A-cup breasts." }, "abdomen": "Slender and toned.", "hips": "Narrow.", "arms": "Slim.", "legs": "Long and slender.", "hands": "Long, precise fingers.", "feet": "Size 41.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "completely bare", "pubicHairColor": "black" } } },
+  "attributes": { "ST": 12, "DX": 14, "IQ": 18, "HT": 13, "will": 18, "perception": 18, "hitPoints": 12, "fatiguePoints": 13, "basicSpeed": 6.75, "basicMove": 6 },
+  "advantages": ["Danger Sense", "Mathematical Ability", "Indomitable"],
+  "disadvantages": ["Paranoia", "Secretive", "Stubborn"],
+  "quirks": ["Thinks about worst-case scenarios", "Assumes all networks are compromised", "Reads quantum physics for fun"],
+  "skills": ["Quantum Cryptography-22", "Computer Security-19", "Mathematics-19", "Physics (Quantum)-18"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Black coffee", "Dark chocolate", "Water"],
+  "relationships": {
+    "katje-03": "Collaborates with Elin on next-generation security protocols.",
+    "katje-26": "Debates the security of blockchain versus traditional cryptographic systems with Zarah."
+  }
+}

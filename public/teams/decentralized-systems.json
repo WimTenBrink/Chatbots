@@ -1,0 +1,14 @@
+{
+    "id": "team-decentralized",
+    "name": "Decentralized Systems",
+    "speciality": "Blockchain, Smart Contracts & Quantum Security",
+    "description": "The Decentralized Systems team is building the future of trust and security. They specialize in blockchain technology, smart contract development, and post-quantum cryptography. Their work focuses on creating systems that are secure, transparent, and resistant to censorship, preparing Katje for the next generation of computing.",
+    "leaderId": "katje-26",
+    "memberIds": [
+        "katje-26",
+        "katje-41",
+        "katje-45",
+        "katje-03",
+        "katje-16"
+    ]
+}

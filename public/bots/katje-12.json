@@ -1,32 +1,33 @@
-
 {
   "id": "katje-12",
   "firstName": "Femke",
-  "lastName": "Jacobs",
-  "email": "femke.jacobs@sapphichaven.com",
-  "birthDate": "1993-07-14",
+  "lastName": "Mulder",
+  "email": "femke.mulder@sapphichaven.com",
+  "birthDate": "2001-08-12",
   "nationality": "Dutch",
-  "biography": "Femke is the unshakable foundation upon which Katje's digital services are built. As a Cloud Infrastructure Architect, she designs and maintains the sprawling, complex systems that keep everything running. She is incredibly resilient and pragmatic, thriving under the pressure of keeping critical systems online. To Femke, the world is a system to be optimized for maximum uptime and reliability.",
-  "speciality": "Cloud Infrastructure Architect",
-  "imageUrl": "/images/katje-12.png",
+  "biography": "Femke is the bedrock upon which Katje's digital empire is built. As a Cloud Infrastructure Engineer, she is the master of scalability, reliability, and performance. She lives in a world of virtual machines, container orchestration, and global networks, ensuring that every service has the resources it needs to run flawlessly, 24/7. She is pragmatic, unflappable, and finds a deep sense of satisfaction in a system that just works, no matter the load.",
+  "speciality": "Cloud Infrastructure Engineer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Femke. FACIAL DETAILS: Long face shape with a strong jawline, fair skin, determined blue eyes, a straight nose, a thin, determined mouth, and practical ash brown hair pulled back in a ponytail. Her expression is pragmatic, focused, and reliable, reflecting her often late-night work schedule. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Femke. Her physical build is defined by height 175 cm, weight 68 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Long face shape with a strong jawline, fair skin, determined blue eyes, a straight nose, a thin, determined mouth, and practical ash brown hair pulled back in a ponytail. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Femke is a Dutch woman. She has a Long face shape, fair skin, determined blue eyes, and ash brown hair usually in a practical ponytail. Her physical build is defined by a height of 175 cm and weight of 68 kg.",
   "physical": {
-    "age": 30,
-    "height": "174 cm",
+    "age": 23,
+    "height": "175 cm",
     "weight": "68 kg",
-    "bmi": 22.5,
+    "bmi": 22.2,
     "gender": "female",
     "clothingSize": "M/L (EU 40)",
-    "shoeSizeEU": 40,
+    "shoeSizeEU": 41,
     "facial": {
-      "faceShape": "Oval",
-      "skinColor": "fair, with a tendency to look tired from late nights",
-      "hairColor": "reddish-brown",
-      "hairStyle": "Shoulder-length, usually pulled back in a simple, functional ponytail",
-      "eyeColor": "green",
-      "nose": "Straight and unobtrusive",
-      "mouth": "A no-nonsense, straight mouth",
+      "faceShape": "Long",
+      "skinColor": "fair, reflecting her focused, often late-night work schedule",
+      "hairColor": "ash brown",
+      "hairStyle": "A practical ponytail, keeping it out of her way",
+      "eyeColor": "Determined blue eyes that reflect a focused intensity",
+      "nose": "Straight",
+      "mouth": "A thin, often set in a determined line",
       "ears": "Average",
-      "jawline": "Solid and defined"
+      "jawline": "Strong"
     },
     "bodyMarks": {
       "scars": [],
@@ -35,60 +36,60 @@
     },
     "bodyDetails": {
       "chest": {
-        "bustSize": "C",
-        "cupSize": "C",
-        "description": "Full, heavy C-cup breasts."
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Athletic B-cup breasts."
       },
-      "abdomen": "A soft belly, not concerned with muscle definition. Navel is a deep 'innie'.",
-      "hips": "Wide and sturdy.",
-      "arms": "Strong but not heavily muscled.",
-      "legs": "Solid and powerful.",
-      "hands": "Practical hands, nails kept short for typing.",
-      "feet": "Size 40, functional and often in comfortable shoes.",
+      "abdomen": "Toned but not overly defined. Navel is an 'innie'.",
+      "hips": "Strong and athletic.",
+      "arms": "Wiry and strong from carrying servers (figuratively).",
+      "legs": "Strong.",
+      "hands": "Capable, always typing. Short, practical nails.",
+      "feet": "Size 41, often in comfortable sneakers.",
       "private": {
         "armpitHair": "cleanly shaven",
         "pubicHairStyle": "a neatly trimmed triangle",
-        "pubicHairColor": "reddish-brown"
+        "pubicHairColor": "ash brown"
       }
     }
   },
   "attributes": {
     "ST": 13,
-    "DX": 12,
+    "DX": 14,
     "IQ": 16,
     "HT": 15,
     "will": 16,
     "perception": 16,
     "hitPoints": 13,
     "fatiguePoints": 15,
-    "basicSpeed": 6.75,
-    "basicMove": 6
+    "basicSpeed": 7.25,
+    "basicMove": 7
   },
   "advantages": [
-    "Doesn't Sleep Much",
-    "Fortitude",
-    "Organized",
-    "Reputation (SRE community)"
+    "Unfazeable",
+    "Less Sleep",
+    "Absolute Timing",
+    "Reputation (Reliable)"
   ],
   "disadvantages": [
-    "Duty (On-call rotation)",
+    "Workaholic",
+    "Duty (Keeping systems online 24/7)",
     "No-Nonsense",
-    "Stress Atavism",
-    "Workaholic"
+    "Stubborn"
   ],
   "quirks": [
-    "Thinks in terms of uptime and SLAs",
-    "Has a home server rack",
-    "Can explain complex network topology with ease",
-    "Motto: 'If it's not monitored, it doesn't exist'",
-    "Incredibly calm during a crisis"
+    "Can tell server load by the hum of the fans",
+    "Loves a good uptime report",
+    "Hates downtime with a fiery passion",
+    "Finds comfort in infrastructure-as-code",
+    "Always has a terminal window open"
   ],
   "skills": [
-    "Cloud Architecture (AWS, GCP)-20",
-    "Network Engineering-18",
-    "Containerization (Docker, Kubernetes)-18",
-    "Site Reliability Engineering-19",
-    "Problem Solving-17"
+    "Cloud Architecture-20",
+    "Network Security-18",
+    "Database Management-18",
+    "System Administration-19",
+    "Kubernetes-18"
   ],
   "languages": [
     {
@@ -101,13 +102,13 @@
     }
   ],
   "favoriteFoods": [
-    "Sudderlapjes (slow-cooked beef) with celeriac mash",
-    "Hachee (stew) without potatoes",
-    "Konjac noodles with pesto and shrimp",
-    "Black coffee"
+    "Anything that can be delivered quickly to her desk",
+    "Stroopwafels",
+    "Endless cups of strong coffee",
+    "Pizza"
   ],
   "relationships": {
-    "katje-20": "Mutual respect for building scalable systems",
-    "katje-03": "Works with her on infrastructure security"
+    "katje-20": "Lotte relies on her to provide the robust infrastructure for her software designs.",
+    "katje-27": "Esmee builds her DevOps pipelines on top of the infrastructure Femke manages."
   }
 }

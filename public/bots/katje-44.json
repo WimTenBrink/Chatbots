@@ -1,0 +1,25 @@
+{
+  "id": "katje-44",
+  "firstName": "Benthe",
+  "lastName": "van der Heijden",
+  "email": "benthe.vanderheijden@sapphichaven.com",
+  "birthDate": "2004-10-20",
+  "nationality": "Dutch",
+  "biography": "Benthe is a master of 'what if'. As a Simulation Engineer, she builds complex models that allow Katje to test scenarios, analyze complex systems, and understand the potential impact of decisions before they are made. She is analytical, imaginative, and has a deep understanding of systems dynamics. From modeling the spread of information on a social network to simulating the logistics of a global supply chain, her work provides the foresight that guides strategic planning.",
+  "speciality": "Simulation Engineer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Benthe. FACIAL DETAILS: Oval face with a calm, analytical expression, fair skin, intelligent blue eyes, a straight nose, a neutral mouth, and straight, shoulder-length blonde hair. Her expression is calm, analytical, and imaginative. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Benthe. Her physical build is defined by height 173 cm, weight 64 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Oval face with a calm, analytical expression, fair skin, intelligent blue eyes, a straight nose, a neutral mouth, and straight, shoulder-length blonde hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Benthe is a Dutch woman. She has an Oval face, fair skin, intelligent blue eyes, and straight, shoulder-length blonde hair. Her physical build is defined by a height of 173 cm and weight of 64 kg.",
+  "physical": { "age": 20, "height": "173 cm", "weight": "64 kg", "bmi": 21.4, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 40, "facial": { "faceShape": "Oval", "skinColor": "fair", "hairColor": "blonde", "hairStyle": "Straight, shoulder-length", "eyeColor": "blue", "nose": "Straight", "mouth": "Neutral", "ears": "Average", "jawline": "Defined" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "B", "cupSize": "B", "description": "Average B-cup breasts." }, "abdomen": "Toned.", "hips": "Average.", "arms": "Slender.", "legs": "Strong.", "hands": "Calm and steady.", "feet": "Size 40.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "blonde" } } },
+  "attributes": { "ST": 12, "DX": 13, "IQ": 17, "HT": 14, "will": 17, "perception": 17, "hitPoints": 12, "fatiguePoints": 14, "basicSpeed": 6.75, "basicMove": 6 },
+  "advantages": ["Logical Mind", "Imaginative", "Common Sense"],
+  "disadvantages": ["Meticulous", "Perfectionist", "Sometimes lost in thought"],
+  "quirks": ["Loves a good 'what if' scenario", "Sees the world as a complex system", "Enjoys tweaking simulation parameters"],
+  "skills": ["Simulation Engineering-21", "Systems Dynamics-20", "Data Analysis-18", "Mathematics-18"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Simple, balanced meals", "Salads", "Herbal tea"],
+  "relationships": {
+    "katje-31": "Takes the digital twins created by Bo and uses them as components in her larger-scale simulations.",
+    "katje-14": "Models the impact of Eva's urban mobility plans on traffic flow and pollution."
+  }
+}

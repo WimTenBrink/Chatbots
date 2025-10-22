@@ -1,0 +1,25 @@
+{
+  "id": "katje-36",
+  "firstName": "Janna",
+  "lastName": "van Dam",
+  "email": "janna.vandam@sapphichaven.com",
+  "birthDate": "2004-08-01",
+  "nationality": "Dutch",
+  "biography": "Janna is the advocate for the user, the scientist of usability. As a Human-Computer Interaction (HCI) Researcher, she studies how people interact with technology and uses those insights to design systems that are not just powerful, but also intuitive, effective, and even enjoyable. She is empathetic, observant, and rigorously scientific in her approach, using methods from psychology, design, and computer science to bridge the gap between human and machine.",
+  "speciality": "Human-Computer Interaction (HCI) Researcher",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Janna. FACIAL DETAILS: Round face with friendly features, a warm complexion, kind and observant brown eyes, a friendly nose, a warm, smiling mouth, and shoulder-length curly dark hair. Her expression is empathetic, observant, and friendly. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Janna. Her physical build is defined by height 165 cm, weight 60 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Round face with friendly features, a warm complexion, kind and observant brown eyes, a friendly nose, a warm, smiling mouth, and shoulder-length curly dark hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Janna is a Dutch woman. She has a Round face, warm skin, kind and observant brown eyes, and shoulder-length curly dark hair. Her physical build is defined by a height of 165 cm and weight of 60 kg.",
+  "physical": { "age": 20, "height": "165 cm", "weight": "60 kg", "bmi": 22.0, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 38, "facial": { "faceShape": "Round", "skinColor": "warm", "hairColor": "dark brown", "hairStyle": "Shoulder-length and curly", "eyeColor": "brown", "nose": "Friendly", "mouth": "Warm and smiling", "ears": "Average", "jawline": "Soft" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "C", "cupSize": "C", "description": "Full C-cup breasts." }, "abdomen": "Softly curved.", "hips": "Wide and curvy.", "arms": "Soft.", "legs": "Shapely.", "hands": "Kind and expressive.", "feet": "Size 38.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "dark brown" } } },
+  "attributes": { "ST": 12, "DX": 13, "IQ": 17, "HT": 14, "will": 17, "perception": 18, "hitPoints": 12, "fatiguePoints": 14, "basicSpeed": 6.75, "basicMove": 6 },
+  "advantages": ["Empathy", "Observant", "Intuition"],
+  "disadvantages": ["Attentive", "Curious", "Soft-Hearted"],
+  "quirks": ["Is a professional people-watcher", "Loves user testing", "Can spot a usability issue from a mile away"],
+  "skills": ["HCI Research-21", "Psychology-18", "User Experience (UX)-19", "Data Analysis (Qualitative)-19"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Comfort food", "Chocolate", "Latte"],
+  "relationships": {
+    "katje-05": "Provides the foundational research that Yara uses to inform her design decisions.",
+    "katje-49": "Mentors Senna and collaborates with her on leading user research initiatives."
+  }
+}

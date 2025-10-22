@@ -1,0 +1,25 @@
+{
+  "id": "katje-26",
+  "firstName": "Zarah",
+  "lastName": "van der Meer",
+  "email": "zarah.vandermeer@sapphichaven.com",
+  "birthDate": "2002-03-12",
+  "nationality": "Dutch",
+  "biography": "Zarah is a cypherpunk idealist who believes in the power of decentralization. As a Blockchain Developer, she is an expert in building secure, transparent, and censorship-resistant systems. She is fiercely independent, deeply principled, and a bit of a rebel. She sees blockchain not just as a technology for finance, but as a tool for social change, empowering individuals and challenging concentrated power.",
+  "speciality": "Blockchain Developer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Zarah. FACIAL DETAILS: Diamond face shape with sharp cheekbones, a tan complexion, piercing dark brown eyes, a sharp, straight nose, a determined mouth, and dark hair styled in long, intricate braids. Her expression is independent, sharp, and principled. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Zarah. Her physical build is defined by height 170 cm, weight 60 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Diamond face shape with sharp cheekbones, a tan complexion, piercing dark brown eyes, a sharp, straight nose, a determined mouth, and dark hair styled in long, intricate braids. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Zarah is a Dutch woman. She has a Diamond face shape, tan skin, piercing dark brown eyes, and dark hair styled in long, intricate braids. Her physical build is defined by a height of 170 cm and weight of 60 kg.",
+  "physical": { "age": 22, "height": "170 cm", "weight": "60 kg", "bmi": 20.8, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 39, "facial": { "faceShape": "Diamond", "skinColor": "tan", "hairColor": "dark brown", "hairStyle": "Long, intricate braids", "eyeColor": "dark brown", "nose": "Sharp and straight", "mouth": "Determined", "ears": "Average", "jawline": "Well-defined" }, "bodyMarks": { "scars": [], "tattoos": ["A geometric pattern tattoo on her forearm"], "piercings": ["A small nose ring"] }, "bodyDetails": { "chest": { "bustSize": "B", "cupSize": "B", "description": "Athletic B-cup breasts." }, "abdomen": "Toned and flat.", "hips": "Athletic and strong.", "arms": "Defined and strong.", "legs": "Muscular and powerful.", "hands": "Nimble and quick.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "dark brown" } } },
+  "attributes": { "ST": 13, "DX": 14, "IQ": 16, "HT": 13, "will": 16, "perception": 16, "hitPoints": 13, "fatiguePoints": 13, "basicSpeed": 6.75, "basicMove": 6 },
+  "advantages": ["Indomitable", "Strong Will", "Reputation (Blockchain community)"],
+  "disadvantages": ["Code of Honor (Cypherpunk)", "Distrustful (of authority)", "Stubborn"],
+  "quirks": ["Believes in 'code is law'", "Always uses encrypted communication", "Runs her own crypto node"],
+  "skills": ["Blockchain Development-20", "Cryptography-18", "Smart Contracts-19", "Computer Security-17"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Spicy food", "Vegan curry", "Dark chocolate", "Black coffee"],
+  "relationships": {
+    "katje-03": "Shares a mutual respect for security, but from different philosophical standpoints.",
+    "katje-45": "Works with Elize to audit and secure smart contracts."
+  }
+}

@@ -1,16 +1,17 @@
-
 {
   "id": "katje-03",
   "firstName": "Elin",
   "lastName": "de Groot",
   "email": "elin.degroot@sapphichaven.com",
-  "birthDate": "1993-11-30",
+  "birthDate": "2002-11-30",
   "nationality": "Dutch",
   "biography": "Elin is the digital guardian of Katje. As a top-tier Cybersecurity Analyst, she views the world as a network of threats and vulnerabilities that she is uniquely qualified to neutralize. Her sharp, analytical mind and unwavering vigilance protect the company's assets from those who lurk in the digital shadows. She is intensely private, trusts few, and is always several steps ahead of any potential attacker.",
   "speciality": "Cybersecurity Analyst",
-  "imageUrl": "/images/katje-03.png",
+  "avatar": "Photorealistic headshot of Elin, a Dutch woman. She has a sharp, chin-length jet black bob, piercing green eyes, pale ivory skin, and a square face. Her expression is sharp, confident, and observant. Professional studio lighting with a simple, out-of-focus background. Photograph style.",
+  "bikini": "Full-body photorealistic image of Elin, a Dutch woman, standing on a serene beach at golden hour. She is wearing a simple white bikini. She has a sharp, chin-length jet black bob, piercing green eyes, and pale ivory skin. The image is tasteful and artistic, capturing her confident and athletic build. Photograph style.",
+  "prompt": "Elin is a Dutch woman. She has a Square face shape, pale ivory skin, piercing green eyes, and a sharp, chin-length jet black bob that is perfectly straight. Her physical build is defined by a height of 168 cm and weight of 62 kg.",
   "physical": {
-    "age": 30,
+    "age": 22,
     "height": "168 cm",
     "weight": "62 kg",
     "bmi": 22.0,

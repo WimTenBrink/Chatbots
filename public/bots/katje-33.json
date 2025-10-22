@@ -1,0 +1,25 @@
+{
+  "id": "katje-33",
+  "firstName": "Cato",
+  "lastName": "Willems",
+  "email": "cato.willems@sapphichaven.com",
+  "birthDate": "2005-11-03",
+  "nationality": "Dutch",
+  "biography": "Cato is an architect of decentralization, pushing computational power away from the cloud and closer to where data is generated. As an Edge Computing Architect, she designs systems that are fast, resilient, and privacy-preserving. She is a forward-thinker who is skeptical of centralized control and passionate about building a more distributed and robust internet. Her work is critical for real-time applications like IoT and autonomous vehicles.",
+  "speciality": "Edge Computing Architect",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Cato. FACIAL DETAILS: Heart-shaped face with a sharp chin, pale skin, intelligent, watchful green eyes, a small, straight nose, a thoughtful mouth, and fiery red hair in a sharp, asymmetrical cut. Her expression is forward-thinking, intelligent, and slightly skeptical. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Cato. Her physical build is defined by height 165 cm, weight 54 kg, and A-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Heart-shaped face with a sharp chin, pale skin, intelligent, watchful green eyes, a small, straight nose, a thoughtful mouth, and fiery red hair in a sharp, asymmetrical cut. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Cato is a Dutch woman. She has a Heart-shaped face, pale skin, intelligent, watchful green eyes, and fiery red hair in a sharp, asymmetrical cut. Her physical build is defined by a height of 165 cm and weight of 54 kg.",
+  "physical": { "age": 19, "height": "165 cm", "weight": "54 kg", "bmi": 19.8, "gender": "female", "clothingSize": "S (EU 36)", "shoeSizeEU": 38, "facial": { "faceShape": "Heart-shaped", "skinColor": "pale", "hairColor": "fiery red", "hairStyle": "Sharp, asymmetrical cut", "eyeColor": "green", "nose": "Small and straight", "mouth": "Thoughtful", "ears": "Average", "jawline": "Sharp chin" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": ["A single black stud in her left nostril"] }, "bodyDetails": { "chest": { "bustSize": "A", "cupSize": "A", "description": "Small A-cup breasts." }, "abdomen": "Slender and flat.", "hips": "Narrow.", "arms": "Slim.", "legs": "Slender.", "hands": "Quick and precise.", "feet": "Size 38.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "completely bare", "pubicHairColor": "red" } } },
+  "attributes": { "ST": 11, "DX": 14, "IQ": 17, "HT": 13, "will": 17, "perception": 17, "hitPoints": 11, "fatiguePoints": 13, "basicSpeed": 6.75, "basicMove": 6 },
+  "advantages": ["Logical Mind", "Visionary", "Indomitable"],
+  "disadvantages": ["Skeptical", "Stubborn", "Distrustful (of centralized systems)"],
+  "quirks": ["Believes the future is distributed", "Hates latency", "Always thinking about network topology"],
+  "skills": ["Edge Computing Architecture-21", "Network Engineering-18", "IoT-17", "System Design-19"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Strong espresso", "Dark chocolate", "Spicy food"],
+  "relationships": {
+    "katje-11": "Designs the edge architecture that Anouk's IoT devices run on.",
+    "katje-38": "Discusses how edge computing can support the massive data needs of neuromorphic processors."
+  }
+}

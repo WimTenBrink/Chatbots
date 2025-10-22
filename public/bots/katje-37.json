@@ -1,0 +1,25 @@
+{
+  "id": "katje-37",
+  "firstName": "Amira",
+  "lastName": "Scholten",
+  "email": "amira.scholten@sapphichaven.com",
+  "birthDate": "2005-03-21",
+  "nationality": "Dutch",
+  "biography": "Amira designs intelligence that moves. As an Autonomous Systems Engineer, she develops the software that allows vehicles, drones, and robots to perceive their environment, make decisions, and navigate complex spaces without human intervention. She is a master of sensor fusion, pathfinding algorithms, and control theory. She is calm under pressure, rigorously logical, and dedicated to building safe and reliable autonomous machines.",
+  "speciality": "Autonomous Systems Engineer",
+  "avatar": "A photorealistic, professional 8k headshot of a woman named Amira. FACIAL DETAILS: Square face with a strong jawline, a medium-dark complexion, focused, intelligent dark eyes, a strong, straight nose, a determined mouth, and black hair pulled back tightly. Her expression is calm, focused, and intensely logical. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a woman named Amira. Her physical build is defined by height 174 cm, weight 66 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Square face with a strong jawline, a medium-dark complexion, focused, intelligent dark eyes, a strong, straight nose, a determined mouth, and black hair pulled back tightly. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Amira is a woman with a medium-dark complexion. She has a Square face, focused, intelligent dark eyes, and black hair always pulled back tightly. Her physical build is defined by a height of 174 cm and weight of 66 kg.",
+  "physical": { "age": 19, "height": "174 cm", "weight": "66 kg", "bmi": 21.8, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 40, "facial": { "faceShape": "Square", "skinColor": "medium-dark", "hairColor": "black", "hairStyle": "Pulled back tightly", "eyeColor": "dark", "nose": "Strong and straight", "mouth": "Determined", "ears": "Average", "jawline": "Strong" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "B", "cupSize": "B", "description": "Athletic B-cup breasts." }, "abdomen": "Strong and toned.", "hips": "Athletic.", "arms": "Defined.", "legs": "Powerful.", "hands": "Steady and precise.", "feet": "Size 40.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "black" } } },
+  "attributes": { "ST": 13, "DX": 15, "IQ": 17, "HT": 14, "will": 17, "perception": 17, "hitPoints": 13, "fatiguePoints": 14, "basicSpeed": 7.25, "basicMove": 7 },
+  "advantages": ["3D Spatial Sense", "Logical Mind", "Calm", "Indomitable"],
+  "disadvantages": ["Code of Honor (Safety Critical)", "Perfectionist", "No-Nonsense"],
+  "quirks": ["Thinks in terms of state machines and sensor inputs", "Loves a good pathfinding algorithm", "Can mentally map any room she enters"],
+  "skills": ["Autonomous Systems-21", "Robotics-19", "Computer Vision-18", "Control Theory-18"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Simple, efficient meals", "Protein bars", "Black coffee"],
+  "relationships": {
+    "katje-04": "Designs the software that brings Fenna's robotic creations to life.",
+    "katje-32": "Develops the autonomous flight control systems for Floor's drones."
+  }
+}

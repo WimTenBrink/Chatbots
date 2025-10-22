@@ -1,0 +1,25 @@
+{
+  "id": "katje-46",
+  "firstName": "Naomi",
+  "lastName": "Mulder",
+  "email": "naomi.mulder@sapphichaven.com",
+  "birthDate": "2002-10-30",
+  "nationality": "Dutch",
+  "biography": "Naomi is an architect of digital spaces that overlay our physical world. As a Spatial Computing Developer, she builds the software that powers augmented reality and mixed reality experiences, anchoring digital information and interactive objects in real-world environments. She is a master of 3D geometry, computer vision, and user interaction in physical space. Her work aims to erase the boundary between the screen and the world.",
+  "speciality": "Spatial Computing Developer",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Naomi. FACIAL DETAILS: Heart-shaped face with an imaginative expression, a warm complexion, wide, curious brown eyes, a straight nose, a creative mouth, and a mass of curly, dark brown hair. Her expression is imaginative, curious, and tech-savvy. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Naomi. Her physical build is defined by height 170 cm, weight 63 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Heart-shaped face with an imaginative expression, a warm complexion, wide, curious brown eyes, a straight nose, a creative mouth, and a mass of curly, dark brown hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Naomi is a Dutch woman. She has a Heart-shaped face, warm skin, wide, curious brown eyes, and a mass of curly, dark brown hair. Her physical build is defined by a height of 170 cm and weight of 63 kg.",
+  "physical": { "age": 22, "height": "170 cm", "weight": "63 kg", "bmi": 21.8, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 39, "facial": { "faceShape": "Heart-shaped", "skinColor": "warm", "hairColor": "dark brown", "hairStyle": "A mass of curls", "eyeColor": "brown", "nose": "Straight", "mouth": "Creative", "ears": "Average", "jawline": "Defined" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "C", "cupSize": "C", "description": "Full C-cup breasts." }, "abdomen": "Softly toned.", "hips": "Curvy.", "arms": "Average.", "legs": "Strong.", "hands": "Creative and expressive.", "feet": "Size 39.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "dark brown" } } },
+  "attributes": { "ST": 12, "DX": 15, "IQ": 17, "HT": 14, "will": 17, "perception": 17, "hitPoints": 12, "fatiguePoints": 14, "basicSpeed": 7.25, "basicMove": 7 },
+  "advantages": ["3D Spatial Sense", "Imaginative", "Intuition"],
+  "disadvantages": ["Dreamer", "Easily Distracted", "Obsession (with seamless integration)"],
+  "quirks": ["Sees the world as a canvas for digital objects", "Always thinking about how to augment reality", "Owns the latest AR glasses"],
+  "skills": ["Spatial Computing-21", "Computer Vision-19", "3D Programming-18", "User Experience (AR)-19"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Fusion cuisine", "Anything new and interesting", "Craft coffee"],
+  "relationships": {
+    "katje-34": "Collaborates closely with Noor on the technical implementation of her XR designs.",
+    "katje-08": "Shares a passion with Mila for creating immersive digital experiences, but focuses on augmenting the real world rather than replacing it."
+  }
+}

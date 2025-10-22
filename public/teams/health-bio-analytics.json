@@ -1,4 +1,3 @@
-
 {
   "id": "team-health-bio",
   "name": "Health & Bio-Analytics Taskforce",
@@ -6,10 +5,11 @@
   "description": "This taskforce is dedicated to the intersection of health, biology, and data science. Their mission is to develop technologies that improve human well-being. This includes creating AI-powered diagnostic tools to assist doctors, analyzing genomic data to identify disease markers, and building personalized wellness applications based on biometric sensor data.",
   "leaderId": "katje-18",
   "memberIds": [
-    "katje-18",
     "katje-09",
+    "katje-14",
     "katje-15",
     "katje-16",
-    "katje-14"
+    "katje-18",
+    "katje-35"
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "id": "team-mobile-first",
+  "name": "Mobile First Initiative",
+  "speciality": "Native App Development (iOS & Android)",
+  "description": "This team is laser-focused on the mobile experience. They are responsible for designing, developing, and maintaining Katje B.V.'s native applications for both iOS and Android platforms. Their priority is creating fast, responsive, and intuitive apps that deliver the full power of Katje's services to the palm of the user's hand, with a strong emphasis on platform-specific UI/UX and performance.",
+  "leaderId": "katje-22",
+  "memberIds": [
+    "katje-05",
+    "katje-12",
+    "katje-22",
+    "katje-24",
+    "katje-49",
+    "katje-50"
+  ]
+}

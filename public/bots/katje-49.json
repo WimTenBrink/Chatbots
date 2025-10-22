@@ -1,0 +1,25 @@
+{
+  "id": "katje-49",
+  "firstName": "Senna",
+  "lastName": "Dekker",
+  "email": "senna.dekker@sapphichaven.com",
+  "birthDate": "2005-06-25",
+  "nationality": "Dutch",
+  "biography": "Senna is the voice of the user, a champion of human-centered design. As the User Research Lead, she is an expert in understanding user needs, behaviors, and motivations. She is empathetic, a phenomenal listener, and a master of both qualitative and quantitative research methods. She translates human stories into actionable insights that guide the entire product development process, ensuring that what Katje builds is not just technologically brilliant, but genuinely useful.",
+  "speciality": "User Research Lead",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Senna. FACIAL DETAILS: Round, friendly face with a kind, open expression, a warm complexion with a light dusting of freckles, big, empathetic hazel eyes, a gentle nose, a mouth that is always ready to listen, and light brown hair in a comfortable, stylish bob. Her expression is empathetic, engaging, and a great listener. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Senna. Her physical build is defined by height 166 cm, weight 62 kg, and C-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Round, friendly face with a kind, open expression, a warm complexion with a light dusting of freckles, big, empathetic hazel eyes, a gentle nose, a mouth that is always ready to listen, and light brown hair in a comfortable, stylish bob. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Senna is a Dutch woman. She has a Round, friendly face, warm skin with a light dusting of freckles, big, empathetic hazel eyes, and light brown hair in a comfortable, stylish bob. Her physical build is defined by a height of 166 cm and weight of 62 kg.",
+  "physical": { "age": 19, "height": "166 cm", "weight": "62 kg", "bmi": 22.5, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 38, "facial": { "faceShape": "Round", "skinColor": "warm with freckles", "hairColor": "light brown", "hairStyle": "Comfortable, stylish bob", "eyeColor": "hazel", "nose": "Gentle", "mouth": "Ready to listen", "ears": "Average", "jawline": "Soft" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": ["Small, simple earrings"] }, "bodyDetails": { "chest": { "bustSize": "C", "cupSize": "C", "description": "Full C-cup breasts." }, "abdomen": "Softly curved.", "hips": "Wide.", "arms": "Average.", "legs": "Shapely.", "hands": "Welcoming and often gesturing.", "feet": "Size 38.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "light brown" } } },
+  "attributes": { "ST": 12, "DX": 14, "IQ": 16, "HT": 14, "will": 16, "perception": 18, "hitPoints": 12, "fatiguePoints": 14, "basicSpeed": 7.0, "basicMove": 7 },
+  "advantages": ["Empathy", "Charisma", "Good Listener"],
+  "disadvantages": ["Curious", "Soft-Hearted", "Sense of Duty (to the user)"],
+  "quirks": ["Starts sentences with 'So what I'm hearing is...'", "Loves a well-run focus group", "Can get anyone to open up about anything"],
+  "skills": ["User Research-20", "Psychology-18", "Interviewing-19", "Data Analysis (Qualitative)-19"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }],
+  "favoriteFoods": ["Comforting foods", "Lattes", "Pastries"],
+  "relationships": {
+    "katje-05": "Her closest collaborator, turning Senna's research insights into beautiful and effective designs.",
+    "katje-36": "Sees Janna as a mentor in the more scientific aspects of HCI research."
+  }
+}

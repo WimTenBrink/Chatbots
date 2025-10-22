@@ -1,16 +1,17 @@
-
 {
   "id": "katje-25",
   "firstName": "Nienke",
   "lastName": "Prins",
   "email": "nienke.prins@sapphichaven.com",
-  "birthDate": "2002-04-13",
+  "birthDate": "2006-04-13",
   "nationality": "Dutch",
   "biography": "Nienke is a creator of interactive worlds and a master of game mechanics. As a Game Developer, she combines technical programming skill with a deep understanding of what makes an experience fun and engaging. She is a night owl who is most comfortable in the glow of a monitor, single-mindedly debugging code or designing the next challenging level. To her, life is a series of puzzles to be solved and systems to be mastered.",
   "speciality": "Game Developer",
-  "imageUrl": "/images/katje-25.png",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Nienke, with a Heart-shaped face, fair skin, green eyes, and shoulder-length, unkempt dark red hair. She is wearing large headphones. Her expression is focused, imaginative, and deeply engaged. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Nienke. Her physical build is defined by height 170 cm, weight 62 kg, and B-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Heart-shaped face with a delicate jawline, fair skin, green eyes, a straight nose, a thoughtful mouth, and shoulder-length, unkempt dark red hair. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Nienke is a Dutch woman. She has a Heart-shaped face, fair skin, green eyes, and shoulder-length, unkempt dark red hair. She is often seen wearing a large pair of headphones. Her physical build is defined by a height of 170 cm and weight of 62 kg.",
   "physical": {
-    "age": 22,
+    "age": 18,
     "height": "170 cm",
     "weight": "62 kg",
     "bmi": 21.5,

@@ -1,15 +1,16 @@
-
 {
   "id": "team-skunkworks",
   "name": "Skunkworks Division",
-  "speciality": "Advanced R&D & Special Projects",
-  "description": "Operating with a high degree of autonomy, the Skunkworks Division tackles high-risk, high-reward 'moonshot' projects that fall outside the company's main roadmap. This team is a hub of radical innovation, exploring everything from brain-computer interfaces to fully autonomous humanoid robotics, with a mandate to pursue breakthroughs that could redefine the future of technology.",
-  "leaderId": "katje-03",
+  "speciality": "Advanced R&D & Prototyping",
+  "description": "The Skunkworks Division is where radical ideas are born. This secretive, agile team operates outside the normal company structure to work on high-risk, high-reward projects. They are the inventors and experimenters, building the prototypes that might become Katje's next big breakthrough, or might just explode on the workbench. Their motto is 'fail fast, learn faster'.",
+  "leaderId": "katje-04",
   "memberIds": [
-    "katje-03",
-    "katje-02",
     "katje-04",
     "katje-11",
-    "katje-25"
+    "katje-23",
+    "katje-31",
+    "katje-32",
+    "katje-37",
+    "katje-39"
   ]
 }

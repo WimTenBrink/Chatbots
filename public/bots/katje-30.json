@@ -1,0 +1,24 @@
+{
+  "id": "katje-30",
+  "firstName": "Zoë",
+  "lastName": "van Leeuwen",
+  "email": "zoe.vanleeuwen@sapphichaven.com",
+  "birthDate": "2002-10-05",
+  "nationality": "Dutch",
+  "biography": "Zoë is a student of language in its purest form. As a Computational Linguist, she sits at the intersection of linguistics and computer science, modeling the formal structures of human language. She is more theoretical than her NLP colleagues, focusing on grammars, syntax, and semantics. She is precise, academic, and fascinated by the deep, elegant rules that govern how we communicate.",
+  "speciality": "Computational Linguist",
+  "avatar": "A photorealistic, professional 8k headshot of a Dutch woman named Zoë. FACIAL DETAILS: Long face shape with thoughtful features, pale skin, intelligent grey eyes behind wire-rimmed glasses, a long, straight nose, a precise mouth, and dark brown hair pulled into a neat bun. Her expression is academic, precise, and thoughtful. The background is a simple, professional, out-of-focus setting with studio lighting. CRITICAL: The image must be a headshot only. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "bikini": "A full-body, photorealistic image of a Dutch woman named Zoë. Her physical build is defined by height 175 cm, weight 62 kg, and A-cup breasts. She is standing barefoot in a tasteful, attractive, and natural pose on a beautiful, serene beach at golden hour. She is wearing a simple, elegant white bikini. FACIAL DETAILS: Long face shape with thoughtful features, pale skin, intelligent grey eyes behind wire-rimmed glasses, a long, straight nose, a precise mouth, and dark brown hair pulled into a neat bun. The image is high-resolution and artistic. CRITICAL: The image must not contain any text, letters, or watermarks. This is a photograph, not an illustration.",
+  "prompt": "Zoë is a Dutch woman who wears wire-rimmed glasses. She has a Long face shape, pale skin, intelligent grey eyes, and dark brown hair always pulled back in a severe bun. Her physical build is defined by a height of 175 cm and weight of 62 kg.",
+  "physical": { "age": 22, "height": "175 cm", "weight": "62 kg", "bmi": 20.2, "gender": "female", "clothingSize": "M (EU 38)", "shoeSizeEU": 41, "facial": { "faceShape": "Long", "skinColor": "pale", "hairColor": "dark brown", "hairStyle": "Neat bun", "eyeColor": "grey", "nose": "Long and straight", "mouth": "Precise", "ears": "Average", "jawline": "Defined" }, "bodyMarks": { "scars": [], "tattoos": [], "piercings": [] }, "bodyDetails": { "chest": { "bustSize": "A", "cupSize": "A", "description": "Small A-cup breasts." }, "abdomen": "Slender and untoned.", "hips": "Narrow.", "arms": "Slim.", "legs": "Long and slender.", "hands": "Long fingers, nails kept short.", "feet": "Size 41.", "private": { "armpitHair": "cleanly shaven", "pubicHairStyle": "a neatly trimmed triangle", "pubicHairColor": "dark brown" } } },
+  "attributes": { "ST": 11, "DX": 13, "IQ": 18, "HT": 13, "will": 18, "perception": 18, "hitPoints": 11, "fatiguePoints": 13, "basicSpeed": 6.5, "basicMove": 6 },
+  "advantages": ["Linguist", "Eidetic Memory", "Pattern Recognition"],
+  "disadvantages": ["Literal-Minded", "Honesty", "Socially Inept"],
+  "quirks": ["Loves syntax trees", "Corrects people's grammar", "Finds ambiguity fascinating"],
+  "skills": ["Linguistics-22", "Computational Linguistics-20", "Formal Logic-18", "Research-18"],
+  "languages": [{ "language": "Dutch", "proficiency": "Native" }, { "language": "English", "proficiency": "Fluent" }, { "language": "Latin", "proficiency": "Scholarly" }],
+  "favoriteFoods": ["Plain crackers", "Clear soup", "Unsweetened tea", "Water"],
+  "relationships": {
+    "katje-13": "Provides the theoretical linguistic models that Sofie implements in her NLP work."
+  }
+}

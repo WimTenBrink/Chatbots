@@ -1,4 +1,3 @@
-
 {
   "id": "team-sustainability",
   "name": "Sustainable Futures Initiative",
@@ -6,10 +5,12 @@
   "description": "This initiative is focused on leveraging Katje's technological prowess to solve critical environmental and societal challenges. The team works on projects related to climate change modeling, sustainable agriculture, renewable energy, and smart city planning. Their goal is to create a more sustainable and resilient future through technological innovation.",
   "leaderId": "katje-07",
   "memberIds": [
+    "katje-04",
     "katje-07",
     "katje-14",
     "katje-19",
     "katje-21",
-    "katje-23"
+    "katje-23",
+    "katje-32"
   ]
 }
