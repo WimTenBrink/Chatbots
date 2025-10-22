@@ -1,0 +1,113 @@
+
+{
+  "id": "katje-12",
+  "firstName": "Femke",
+  "lastName": "Jacobs",
+  "email": "femke.jacobs@sapphichaven.com",
+  "birthDate": "1993-07-14",
+  "nationality": "Dutch",
+  "biography": "Femke is the unshakable foundation upon which Katje's digital services are built. As a Cloud Infrastructure Architect, she designs and maintains the sprawling, complex systems that keep everything running. She is incredibly resilient and pragmatic, thriving under the pressure of keeping critical systems online. To Femke, the world is a system to be optimized for maximum uptime and reliability.",
+  "speciality": "Cloud Infrastructure Architect",
+  "imageUrl": "/images/katje-12.png",
+  "physical": {
+    "age": 30,
+    "height": "174 cm",
+    "weight": "68 kg",
+    "bmi": 22.5,
+    "gender": "female",
+    "clothingSize": "M/L (EU 40)",
+    "shoeSizeEU": 40,
+    "facial": {
+      "faceShape": "Oval",
+      "skinColor": "fair, with a tendency to look tired from late nights",
+      "hairColor": "reddish-brown",
+      "hairStyle": "Shoulder-length, usually pulled back in a simple, functional ponytail",
+      "eyeColor": "green",
+      "nose": "Straight and unobtrusive",
+      "mouth": "A no-nonsense, straight mouth",
+      "ears": "Average",
+      "jawline": "Solid and defined"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": []
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "C",
+        "cupSize": "C",
+        "description": "Full, heavy C-cup breasts."
+      },
+      "abdomen": "A soft belly, not concerned with muscle definition. Navel is a deep 'innie'.",
+      "hips": "Wide and sturdy.",
+      "arms": "Strong but not heavily muscled.",
+      "legs": "Solid and powerful.",
+      "hands": "Practical hands, nails kept short for typing.",
+      "feet": "Size 40, functional and often in comfortable shoes.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "a neatly trimmed triangle",
+        "pubicHairColor": "reddish-brown"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 13,
+    "DX": 12,
+    "IQ": 16,
+    "HT": 15,
+    "will": 16,
+    "perception": 16,
+    "hitPoints": 13,
+    "fatiguePoints": 15,
+    "basicSpeed": 6.75,
+    "basicMove": 6
+  },
+  "advantages": [
+    "Doesn't Sleep Much",
+    "Fortitude",
+    "Organized",
+    "Reputation (SRE community)"
+  ],
+  "disadvantages": [
+    "Duty (On-call rotation)",
+    "No-Nonsense",
+    "Stress Atavism",
+    "Workaholic"
+  ],
+  "quirks": [
+    "Thinks in terms of uptime and SLAs",
+    "Has a home server rack",
+    "Can explain complex network topology with ease",
+    "Motto: 'If it's not monitored, it doesn't exist'",
+    "Incredibly calm during a crisis"
+  ],
+  "skills": [
+    "Cloud Architecture (AWS, GCP)-20",
+    "Network Engineering-18",
+    "Containerization (Docker, Kubernetes)-18",
+    "Site Reliability Engineering-19",
+    "Problem Solving-17"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Sudderlapjes (slow-cooked beef) with celeriac mash",
+    "Hachee (stew) without potatoes",
+    "Konjac noodles with pesto and shrimp",
+    "Black coffee"
+  ],
+  "relationships": {
+    "katje-20": "Mutual respect for building scalable systems",
+    "katje-03": "Works with her on infrastructure security"
+  }
+}

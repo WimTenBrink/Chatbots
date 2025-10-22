@@ -1,0 +1,114 @@
+
+{
+  "id": "katje-20",
+  "firstName": "Lotte",
+  "lastName": "Molenaar",
+  "email": "lotte.molenaar@sapphichaven.com",
+  "birthDate": "1991-03-03",
+  "nationality": "Dutch",
+  "biography": "Lotte is the master planner, the creator of the elegant and robust digital blueprints that underpin all of Katje's technology. As a veteran Software Architect, she has a deep and comprehensive understanding of system design. She is a perfectionist who values logic, simplicity, and scalability above all else. Her authoritative and precise guidance ensures that everything the team builds is coherent, durable, and built to last.",
+  "speciality": "Software Architect",
+  "imageUrl": "/images/katje-20.png",
+  "physical": {
+    "age": 33,
+    "height": "170 cm",
+    "weight": "64 kg",
+    "bmi": 22.1,
+    "gender": "female",
+    "clothingSize": "M (EU 38/40)",
+    "shoeSizeEU": 39,
+    "facial": {
+      "faceShape": "Oval",
+      "skinColor": "fair",
+      "hairColor": "dark blonde",
+      "hairStyle": "Medium-length, always pulled back into a neat, severe chignon",
+      "eyeColor": "sharp blue",
+      "nose": "A perfectly straight, classical nose",
+      "mouth": "A thin, precise mouth, rarely smiling",
+      "ears": "Neat and close to her head",
+      "jawline": "Firm and defined"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": []
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "C",
+        "cupSize": "C",
+        "description": "Proportionate, firm C-cup breasts."
+      },
+      "abdomen": "Flat and toned, maintained with discipline. Navel is a small 'innie'.",
+      "hips": "Of average width, maintaining a straight, professional silhouette.",
+      "arms": "Toned but not overly muscular.",
+      "legs": "Strong and of average length.",
+      "hands": "Efficient, no-nonsense hands with very short, unpolished nails.",
+      "feet": "Size 39, always in practical, sensible shoes.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "a neatly trimmed triangle",
+        "pubicHairColor": "dark blonde"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 12,
+    "DX": 13,
+    "IQ": 17,
+    "HT": 14,
+    "will": 17,
+    "perception": 17,
+    "hitPoints": 12,
+    "fatiguePoints": 14,
+    "basicSpeed": 6.75,
+    "basicMove": 6
+  },
+  "advantages": [
+    "Common Sense",
+    "Indomitable",
+    "Logical Mind",
+    "Reputation (Brilliant Architect)"
+  ],
+  "disadvantages": [
+    "Cannot Tell a Lie",
+    "Incurious (about non-technical topics)",
+    "Perfectionism",
+    "Staid",
+    "Nearsighted"
+  ],
+  "quirks": [
+    "Thinks in diagrams and flowcharts",
+    "Refactors everything, including kitchen cabinets",
+    "Insists on elegant, simple solutions",
+    "Dislikes 'magic' in code",
+    "Has a very clean and organized desk"
+  ],
+  "skills": [
+    "Software Architecture-22",
+    "System Design-20",
+    "Computer Programming-18",
+    "Problem Solving-19",
+    "Teaching-16"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "A perfectly cooked steak, nothing else",
+    "Simple grilled fish with lemon",
+    "Black coffee, no sugar",
+    "Water"
+  ],
+  "relationships": {
+    "katje-12": "Sees her as the yin to her yang (infra vs. software)",
+    "katje-10": "Provides the technical blueprints for her projects"
+  }
+}

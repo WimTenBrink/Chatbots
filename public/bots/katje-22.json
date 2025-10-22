@@ -1,0 +1,115 @@
+
+{
+  "id": "katje-22",
+  "firstName": "Sanne",
+  "lastName": "Postma",
+  "email": "sanne.postma@sapphichaven.com",
+  "birthDate": "2001-09-01",
+  "nationality": "Dutch",
+  "biography": "Sanne is a fast, clever, and energetic developer who brings Katje's services to the palm of your hand. As the team's Mobile App Developer, she is fluent in the languages of both iOS and Android, crafting native applications that are fast, responsive, and intuitive. She has a strong opinion on everything from API design to pixel-perfect layouts and is obsessed with creating the smoothest possible user experience. She lives on caffeine and the satisfaction of a perfectly executed app release.",
+  "speciality": "Mobile App Developer (iOS & Android)",
+  "imageUrl": "/images/katje-22.png",
+  "physical": {
+    "age": 22,
+    "height": "166 cm",
+    "weight": "57 kg",
+    "bmi": 20.7,
+    "gender": "female",
+    "clothingSize": "S (EU 36)",
+    "shoeSizeEU": 38,
+    "facial": {
+      "faceShape": "Round",
+      "skinColor": "fair, with a prominent spray of freckles across her nose and cheeks",
+      "hairColor": "ginger",
+      "hairStyle": "A messy, energetic pixie cut",
+      "eyeColor": "blue",
+      "nose": "A cute, slightly upturned nose",
+      "mouth": "A wide, cheeky grin",
+      "ears": "Average",
+      "jawline": "Soft and youthful"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": [
+        "A small silver ring on the right side of her lip."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "A",
+        "cupSize": "A",
+        "description": "Small, perky A-cup breasts with pale areolae."
+      },
+      "abdomen": "Slender and flat. Navel is a small 'innie'.",
+      "hips": "Narrow and boyish.",
+      "arms": "Slim, with a constellation of light freckles.",
+      "legs": "Slender, also freckled.",
+      "hands": "Nimble fingers, always moving. Nails are often bitten.",
+      "feet": "Size 38.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "a small, neat triangle",
+        "pubicHairColor": "ginger"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 12,
+    "DX": 15,
+    "IQ": 15,
+    "HT": 13,
+    "will": 15,
+    "perception": 15,
+    "hitPoints": 12,
+    "fatiguePoints": 13,
+    "basicSpeed": 7.0,
+    "basicMove": 7
+  },
+  "advantages": [
+    "Ambidexterity (for typing)",
+    "Lightning Calculator",
+    "Less Sleep",
+    "Talent (Intuitive Coder)"
+  ],
+  "disadvantages": [
+    "Addiction (Caffeine)",
+    "Chronic Hipsterism",
+    "Fanaticism (Native app development is superior)",
+    "Hates waiting for code to compile"
+  ],
+  "quirks": [
+    "Has strong opinions about mobile OS design",
+    "Fluent in emoji",
+    "Can type surprisingly fast on her phone",
+    "Tests her apps in real-world scenarios constantly",
+    "Probably has the latest smartphone model"
+  ],
+  "skills": [
+    "Mobile App Development-19",
+    "Computer Programming (Swift, Kotlin)-18",
+    "UI/UX Design principles-14",
+    "Problem Solving-16",
+    "Fast Typing-16"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "The most instagrammable food available",
+    "Deconstructed Dutch classics",
+    "Trendy health foods (like acai bowls)",
+    "Champagne"
+  ],
+  "relationships": {
+    "katje-05": "Her indispensable partner in app design",
+    "katje-10": "Relies on her to manage app release schedules"
+  }
+}

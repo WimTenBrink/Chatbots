@@ -1,0 +1,13 @@
+
+{
+  "id": "team-core-ai",
+  "name": "Core AI Research",
+  "speciality": "Foundational AI Model Development",
+  "description": "This team is dedicated to pushing the boundaries of artificial intelligence. They work on the most abstract and complex challenges, from developing quantum algorithms to advancing natural language understanding and exploring the frontiers of bioinformatics.",
+  "leaderId": "katje-02",
+  "memberIds": [
+    "katje-02",
+    "katje-13",
+    "katje-09"
+  ]
+}

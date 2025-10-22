@@ -1,0 +1,115 @@
+
+{
+  "id": "katje-19",
+  "firstName": "Lieke",
+  "lastName": "van der Linden",
+  "email": "lieke.vanderlinden@sapphichaven.com",
+  "birthDate": "1997-04-29",
+  "nationality": "Dutch",
+  "biography": "Lieke is a pragmatic innovator with deep roots in the earth. As an AgriTech Specialist, she combines generations of farming wisdom with cutting-edge technology to create sustainable and efficient agricultural solutions. She's strong, down-to-earth, and has a profound respect for the land. Whether she's analyzing soil sensor data or calibrating an autonomous tractor, her goal is to ensure the future of food is both productive and responsible.",
+  "speciality": "AgriTech Specialist",
+  "imageUrl": "/images/katje-19.png",
+  "physical": {
+    "age": 27,
+    "height": "179 cm",
+    "weight": "69 kg",
+    "bmi": 21.5,
+    "gender": "female",
+    "clothingSize": "M/L (EU 40)",
+    "shoeSizeEU": 41,
+    "facial": {
+      "faceShape": "Square",
+      "skinColor": "sun-kissed and freckled",
+      "hairColor": "brown, with natural sun-bleached streaks",
+      "hairStyle": "Long and thick, often worn in a loose, practical braid",
+      "eyeColor": "hazel",
+      "nose": "A strong, straight nose",
+      "mouth": "A wide, genuine smile",
+      "ears": "Average",
+      "jawline": "Strong and square"
+    },
+    "bodyMarks": {
+      "scars": [
+        "A few faint scratches on her arms from working with plants."
+      ],
+      "tattoos": [],
+      "piercings": []
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Athletic, wide-set B-cup breasts, fitting her strong frame."
+      },
+      "abdomen": "A very strong, solid core. Not ripped, but powerful. Navel is a simple 'innie'.",
+      "hips": "Broad and powerful, a testament to a life of physical work.",
+      "arms": "Very strong and tanned, with defined muscles.",
+      "legs": "Long, tanned, and very muscular.",
+      "hands": "Calloused and strong, with dirt under the nails no matter how much she scrubs.",
+      "feet": "Size 41, tough and used to being in boots.",
+      "private": {
+        "armpitHair": "natural and untrimmed",
+        "pubicHairStyle": "natural and untrimmed",
+        "pubicHairColor": "brown"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 15,
+    "DX": 14,
+    "IQ": 15,
+    "HT": 15,
+    "will": 15,
+    "perception": 15,
+    "hitPoints": 15,
+    "fatiguePoints": 15,
+    "basicSpeed": 7.25,
+    "basicMove": 7
+  },
+  "advantages": [
+    "Animal Empathy",
+    "Fit",
+    "Green Thumb",
+    "Less Sleep"
+  ],
+  "disadvantages": [
+    "Code of Honor (Farmer's)",
+    "Dislikes Cities",
+    "Stubborn",
+    "Truthful"
+  ],
+  "quirks": [
+    "Wakes up at sunrise, no matter what",
+    "Can tell the weather by looking at the sky",
+    "Hands are always a bit calloused",
+    "Prefers the company of plants to people sometimes",
+    "Very pragmatic and down-to-earth"
+  ],
+  "skills": [
+    "Agronomy-19",
+    "Agricultural Technology-18",
+    "Botany-16",
+    "Animal Handling-15",
+    "Mechanic (Farm Equipment)-14"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Freshly harvested produce",
+    "Scrambled eggs from her own (hypothetical) chickens",
+    "Hearty beef stew",
+    "Boerenkaas (farmer's cheese)"
+  ],
+  "relationships": {
+    "katje-07": "Shares a passion for sustainability",
+    "katje-21": "Discusses new materials for vertical farming with her"
+  }
+}

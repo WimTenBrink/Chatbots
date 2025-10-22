@@ -1,0 +1,119 @@
+
+{
+  "id": "katje-11",
+  "firstName": "Anouk",
+  "lastName": "Vos",
+  "email": "anouk.vos@sapphichaven.com",
+  "birthDate": "1999-02-05",
+  "nationality": "Dutch",
+  "biography": "Anouk is the master of the connected world. As an expert in IoT and Smart Devices, she believes that any object can be made better with a sensor and a network connection. She is a hands-on builder and tinkerer, equally comfortable with a soldering iron or a command line. Her passion is to create a seamless, responsive environment where the digital and physical worlds merge to make life more efficient and intuitive.",
+  "speciality": "IoT and Smart Devices Expert",
+  "imageUrl": "/images/katje-11.png",
+  "physical": {
+    "age": 25,
+    "height": "180 cm",
+    "weight": "70 kg",
+    "bmi": 21.6,
+    "gender": "female",
+    "clothingSize": "L (EU 40/42)",
+    "shoeSizeEU": 42,
+    "facial": {
+      "faceShape": "Oblong",
+      "skinColor": "lightly tanned",
+      "hairColor": "black",
+      "hairStyle": "Thick, long hair usually piled into a messy bun held by a clip",
+      "eyeColor": "grey-blue",
+      "nose": "A prominent, straight nose",
+      "mouth": "A wide, expressive mouth that's quick to smirk",
+      "ears": "Average",
+      "jawline": "Defined and slightly square"
+    },
+    "bodyMarks": {
+      "scars": [
+        "A small, circular burn mark on her left thumb from a soldering iron."
+      ],
+      "tattoos": [
+        "A circuit board pattern tattoo running up her right forearm."
+      ],
+      "piercings": [
+        "A silver ring in her right nostril."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Wide-set, athletic B-cup breasts."
+      },
+      "abdomen": "Strong core, but not visibly defined; a 'sturdy' build. Navel is an 'innie'.",
+      "hips": "Broad and strong.",
+      "arms": "Long and powerful, with defined biceps.",
+      "legs": "Tall and strong, built for an active lifestyle.",
+      "hands": "Large and very capable, with short, clean nails.",
+      "feet": "Size 42, strong and practical.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "natural and untrimmed",
+        "pubicHairColor": "black"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 14,
+    "DX": 15,
+    "IQ": 15,
+    "HT": 14,
+    "will": 15,
+    "perception": 15,
+    "hitPoints": 14,
+    "fatiguePoints": 14,
+    "basicSpeed": 7.25,
+    "basicMove": 7
+  },
+  "advantages": [
+    "Gadgeteer",
+    "Manual Dexterity",
+    "Resourceful",
+    "Security Clearance (for her own network)"
+  ],
+  "disadvantages": [
+    "Curious",
+    "Dislikes large crowds",
+    "Lecherousness (for new tech)",
+    "Overconfident"
+  ],
+  "quirks": [
+    "Her apartment is a fully automated smart home",
+    "Talks to her smart speaker like a person",
+    "Can't resist taking apart new gadgets",
+    "Wears a smartwatch and a smart ring",
+    "Believes everything can be improved with a sensor"
+  ],
+  "skills": [
+    "Electronics (IoT)-19",
+    "Computer Programming (Microcontrollers)-17",
+    "Network Engineering-16",
+    "Electrician-15",
+    "Soldering-16"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Loaded cauliflower bake",
+    "Chicken satay with low-carb peanut sauce",
+    "Ossenworst",
+    "Protein-rich kwark"
+  ],
+  "relationships": {
+    "katje-04": "Best friend and collaborator",
+    "katje-12": "Relies on her for the cloud backend of her devices"
+  }
+}

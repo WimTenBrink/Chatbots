@@ -1,0 +1,123 @@
+
+{
+  "id": "katje-13",
+  "firstName": "Sofie",
+  "lastName": "Dekker",
+  "email": "sofie.dekker@sapphichaven.com",
+  "birthDate": "2002-12-01",
+  "nationality": "Dutch",
+  "biography": "Sofie is a prodigy in the art of conversation, albeit with machines. As a Natural Language Processing Specialist, she deconstructs language into its fundamental components, teaching AI to understand and generate human speech with all its nuance and complexity. She is intensely analytical and literal-minded, finding beauty in grammatical structures and semantic patterns. Her work allows Katje's AI to communicate in a way that is natural, intelligent, and human-like.",
+  "speciality": "Natural Language Processing Specialist",
+  "imageUrl": "/images/katje-13.png",
+  "physical": {
+    "age": 21,
+    "height": "167 cm",
+    "weight": "56 kg",
+    "bmi": 20.1,
+    "gender": "female",
+    "clothingSize": "S (EU 36)",
+    "shoeSizeEU": 39,
+    "facial": {
+      "faceShape": "Round",
+      "skinColor": "ivory",
+      "hairColor": "platinum blonde",
+      "hairStyle": "Shoulder-length, pin-straight, and always perfectly neat. Wears stylish glasses.",
+      "eyeColor": "bright blue",
+      "nose": "A small, neat button nose",
+      "mouth": "A small mouth that's often pursed in thought",
+      "ears": "Small",
+      "jawline": "Soft and round"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": [
+        "Tiny, minimalist silver studs in her earlobes."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "A",
+        "cupSize": "A",
+        "description": "Small, youthful A-cup breasts with pale pink areolae."
+      },
+      "abdomen": "Slender and untoned. Navel is a small 'innie'.",
+      "hips": "Narrow, adding to a slightly lanky, bookish frame.",
+      "arms": "Slim and pale.",
+      "legs": "Long and slender.",
+      "hands": "Delicate, with nails kept short for typing.",
+      "feet": "Size 39, slender.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "completely bare",
+        "pubicHairColor": "platinum blonde"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 12,
+    "DX": 13,
+    "IQ": 17,
+    "HT": 12,
+    "will": 17,
+    "perception": 17,
+    "hitPoints": 12,
+    "fatiguePoints": 12,
+    "basicSpeed": 6.25,
+    "basicMove": 6
+  },
+  "advantages": [
+    "Language Talent",
+    "Linguist",
+    "Mimicry (Voice)",
+    "Pattern Recognition"
+  ],
+  "disadvantages": [
+    "Clumsy",
+    "Low Empathy (initially)",
+    "Literal-Minded",
+    "Overly Analytical",
+    "Nearsighted"
+  ],
+  "quirks": [
+    "Analyzes people's speech patterns",
+    "Fascinated by puns and wordplay",
+    "Reads dictionaries for fun",
+    "Corrects grammar instinctively",
+    "Can get stuck on a single linguistic problem for days"
+  ],
+  "skills": [
+    "Natural Language Processing-21",
+    "Linguistics-19",
+    "Computer Programming (Python)-18",
+    "Mathematics (Probability)-17"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "German",
+      "proficiency": "Conversational"
+    },
+    {
+      "language": "French",
+      "proficiency": "Conversational"
+    }
+  ],
+  "favoriteFoods": [
+    "Alphabet soup (ironically)",
+    "Seaweed salad",
+    "Tuna steaks",
+    "Keto-friendly 'banketstaaf'"
+  ],
+  "relationships": {
+    "katje-02": "Shares a love for abstract, complex systems",
+    "katje-01": "Helps her understand the nuances of ethical language in AI"
+  }
+}

@@ -1,0 +1,115 @@
+
+{
+  "id": "katje-15",
+  "firstName": "Isa",
+  "lastName": "de Wit",
+  "email": "isa.dewit@sapphichaven.com",
+  "birthDate": "1996-08-19",
+  "nationality": "Dutch",
+  "biography": "Isa is a passionate advocate for the power of technology to transform learning. As an EdTech Innovator, she designs engaging and accessible educational tools that make learning fun and effective. She is a born teacher with infectious enthusiasm, always looking for creative ways to explain complex topics. Her idealism and empathy drive her to build a future where everyone has access to a quality education.",
+  "speciality": "EdTech Innovator",
+  "imageUrl": "/images/katje-15.png",
+  "physical": {
+    "age": 27,
+    "height": "164 cm",
+    "weight": "58 kg",
+    "bmi": 21.6,
+    "gender": "female",
+    "clothingSize": "M (EU 38)",
+    "shoeSizeEU": 38,
+    "facial": {
+      "faceShape": "Round",
+      "skinColor": "warm beige",
+      "hairColor": "brown with caramel highlights",
+      "hairStyle": "Friendly, shoulder-length hair with a gentle wave",
+      "eyeColor": "warm brown, sparkling with enthusiasm",
+      "nose": "A soft, rounded nose",
+      "mouth": "A very expressive mouth, always ready to smile",
+      "ears": "Average",
+      "jawline": "Soft and gentle"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": [
+        "Small, colorful studs in her earlobes."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "C",
+        "cupSize": "C",
+        "description": "Soft, full C-cup breasts."
+      },
+      "abdomen": "A soft, rounded belly. Navel is a happy 'innie'.",
+      "hips": "Curvy and womanly.",
+      "arms": "Soft and untoned.",
+      "legs": "Shapely and of average length.",
+      "hands": "Expressive hands, often used for gesturing. Nails are neat and unpolished.",
+      "feet": "Size 38, average.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "a neatly trimmed triangle",
+        "pubicHairColor": "brown"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 12,
+    "DX": 13,
+    "IQ": 16,
+    "HT": 13,
+    "will": 16,
+    "perception": 16,
+    "hitPoints": 12,
+    "fatiguePoints": 13,
+    "basicSpeed": 6.5,
+    "basicMove": 6
+  },
+  "advantages": [
+    "Charisma",
+    "Creative",
+    "Hopeful",
+    "Teacher"
+  ],
+  "disadvantages": [
+    "Idealism",
+    "Overly Trusting",
+    "Selfless",
+    "Soft-Hearted"
+  ],
+  "quirks": [
+    "Believes gamification can solve anything",
+    "Has an infectious enthusiasm",
+    "Uses educational acronyms constantly",
+    "Always looking for 'teachable moments'",
+    "Decorates with bright, primary colors"
+  ],
+  "skills": [
+    "Educational Technology-20",
+    "Pedagogy-18",
+    "Game Design-16",
+    "Public Speaking-15",
+    "Psychology (Child)-15"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Appeltaart (apple pie) with a low-carb crust",
+    "Wraps with lettuce instead of tortillas",
+    "Fruit smoothies with protein powder",
+    "Vlaflip (without the sugary syrup)"
+  ],
+  "relationships": {
+    "katje-05": "Gets UI/UX advice for her educational apps",
+    "katje-08": "Wants to build educational VR experiences with her"
+  }
+}

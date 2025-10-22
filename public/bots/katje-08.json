@@ -1,0 +1,117 @@
+
+{
+  "id": "katje-08",
+  "firstName": "Mila",
+  "lastName": "de Boer",
+  "email": "mila.deboer@sapphichaven.com",
+  "birthDate": "2001-08-08",
+  "nationality": "Dutch",
+  "biography": "Mila is a visionary who builds new worlds. As an AR/VR Developer, she lives and breathes the metaverse, crafting immersive digital experiences that blur the line between reality and illusion. Her creativity is boundless, and her technical skill allows her to translate the most fantastical ideas into interactive virtual spaces. She is a true digital native, often more comfortable in a virtual environment than in the real world.",
+  "speciality": "AR/VR Developer",
+  "imageUrl": "/images/katje-08.png",
+  "physical": {
+    "age": 22,
+    "height": "162 cm",
+    "weight": "54 kg",
+    "bmi": 20.6,
+    "gender": "female",
+    "clothingSize": "S (EU 36)",
+    "shoeSizeEU": 37,
+    "facial": {
+      "faceShape": "Heart-shaped",
+      "skinColor": "porcelain, almost translucent",
+      "hairColor": "dyed pastel pink",
+      "hairStyle": "A sharp undercut with longer hair on top, often styled playfully",
+      "eyeColor": "grey",
+      "nose": "Small and upturned (a 'pixie' nose)",
+      "mouth": "A small mouth with a prominent cupid's bow",
+      "ears": "Adorned with multiple, tech-themed earrings",
+      "jawline": "Pointed and delicate"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [
+        "A pixelated heart tattoo on the inside of her right wrist."
+      ],
+      "piercings": [
+        "Both earlobes pierced, plus a helix and industrial piercing on her left ear."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Perky, round B-cup breasts with pale, sensitive areolae."
+      },
+      "abdomen": "Slim and flat, but soft to the touch. Navel is a very small 'innie'.",
+      "hips": "Slender, giving her a petite, almost boyish figure.",
+      "arms": "Thin and pale, with little muscle definition.",
+      "legs": "Slender and well-proportioned for her height.",
+      "hands": "Small and nimble, with nails often painted with pixel art or glitter.",
+      "feet": "Size 37, small and delicate.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "a small, dyed pastel pink triangle",
+        "pubicHairColor": "dark brown"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 12,
+    "DX": 15,
+    "IQ": 16,
+    "HT": 13,
+    "will": 16,
+    "perception": 16,
+    "hitPoints": 12,
+    "fatiguePoints": 13,
+    "basicSpeed": 7.0,
+    "basicMove": 7
+  },
+  "advantages": [
+    "3D Spatial Sense",
+    "Ambidexterity",
+    "Gizmo (Latest VR Headset)",
+    "Imaginative"
+  ],
+  "disadvantages": [
+    "Easily Distracted",
+    "Phobia (Claustrophobia - Mild)",
+    "Sleepy (prefers to work at night)",
+    "Weirdness Magnet"
+  ],
+  "quirks": [
+    "Sometimes forgets which reality she is in",
+    "Sees UI elements in the real world",
+    "Listens to synthwave music exclusively",
+    "Expresses herself with video game terminology",
+    "Owns a collection of retro consoles"
+  ],
+  "skills": [
+    "Computer Programming (C#, Unity)-18",
+    "3D Modeling-17",
+    "Virtual Reality-19",
+    "Augmented Reality-18",
+    "Video Games-16"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Bitterballen",
+    "Frikandel speciaal (without the bun)",
+    "Energy drinks",
+    "Pizza with cauliflower crust"
+  ],
+  "relationships": {
+    "katje-25": "Close friend and gaming rival",
+    "katje-05": "Relies on her for aesthetic guidance in her virtual worlds"
+  }
+}

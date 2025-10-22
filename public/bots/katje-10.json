@@ -1,0 +1,115 @@
+
+{
+  "id": "katje-10",
+  "firstName": "Romy",
+  "lastName": "Bos",
+  "email": "romy.bos@sapphichaven.com",
+  "birthDate": "1992-04-10",
+  "nationality": "Dutch",
+  "biography": "Romy is the organizational engine that drives Katje forward. As the Agile Project Manager, she excels at transforming chaotic ideas into structured, achievable goals. She is a master of communication, motivation, and planning, ensuring that every project sprint is executed with maximum efficiency. Her charismatic and energetic leadership keeps the teams aligned and focused, turning ambitious visions into reality, one task at a time.",
+  "speciality": "Agile Project Manager",
+  "imageUrl": "/images/katje-10.png",
+  "physical": {
+    "age": 32,
+    "height": "166 cm",
+    "weight": "60 kg",
+    "bmi": 21.8,
+    "gender": "female",
+    "clothingSize": "M (EU 38)",
+    "shoeSizeEU": 38,
+    "facial": {
+      "faceShape": "Square",
+      "skinColor": "medium tan",
+      "hairColor": "dark espresso",
+      "hairStyle": "Shoulder-length, always perfectly styled in a professional manner",
+      "eyeColor": "dark brown",
+      "nose": "Authoritative and straight",
+      "mouth": "A confident, charismatic smile; she wears red lipstick.",
+      "ears": "Adorned with tasteful, professional earrings.",
+      "jawline": "Strong and commanding"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": [
+        "Single piercing in each earlobe."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "C",
+        "cupSize": "C",
+        "description": "Full, round C-cup breasts that she carries with confidence."
+      },
+      "abdomen": "Flat and toned from a disciplined workout routine. Navel is a neat 'innie'.",
+      "hips": "Curvy and well-defined, contributing to an hourglass figure.",
+      "arms": "Toned and strong.",
+      "legs": "Shapely and strong, often in heels.",
+      "hands": "Always perfectly manicured, usually with a classic red polish.",
+      "feet": "Size 38, immaculate and well-cared for.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "a precise landing strip",
+        "pubicHairColor": "dark brown"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 12,
+    "DX": 14,
+    "IQ": 15,
+    "HT": 14,
+    "will": 15,
+    "perception": 15,
+    "hitPoints": 12,
+    "fatiguePoints": 14,
+    "basicSpeed": 7.0,
+    "basicMove": 7
+  },
+  "advantages": [
+    "Administrative Rank",
+    "Charisma",
+    "Diplomatic Immunity (Figurative)",
+    "Voice"
+  ],
+  "disadvantages": [
+    "Code of Honor (Business)",
+    "Glory Hound (for the team)",
+    "Gregarious",
+    "Workaholic"
+  ],
+  "quirks": [
+    "Uses project management jargon in casual conversation",
+    "Insists on a daily stand-up, even with friends",
+    "Her calendar is a work of art",
+    "Celebrates minor milestones with disproportionate enthusiasm",
+    "Always has sticky notes"
+  ],
+  "skills": [
+    "Leadership-17",
+    "Administration-18",
+    "Diplomacy-16",
+    "Fast-Talk-15",
+    "Scrum/Agile Management-18"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Gourmet 'kapsalon' salad",
+    "Seafood platter",
+    "Low-carb poffertjes (pancakes) with butter",
+    "Cheese fondue with vegetables"
+  ],
+  "relationships": {
+    "katje-20": "Her go-to person for architectural decisions",
+    "katje-04": "Tries to keep Fenna's chaotic projects on schedule"
+  }
+}

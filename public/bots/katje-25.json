@@ -1,0 +1,115 @@
+
+{
+  "id": "katje-25",
+  "firstName": "Nienke",
+  "lastName": "Prins",
+  "email": "nienke.prins@sapphichaven.com",
+  "birthDate": "2002-04-13",
+  "nationality": "Dutch",
+  "biography": "Nienke is a creator of interactive worlds and a master of game mechanics. As a Game Developer, she combines technical programming skill with a deep understanding of what makes an experience fun and engaging. She is a night owl who is most comfortable in the glow of a monitor, single-mindedly debugging code or designing the next challenging level. To her, life is a series of puzzles to be solved and systems to be mastered.",
+  "speciality": "Game Developer",
+  "imageUrl": "/images/katje-25.png",
+  "physical": {
+    "age": 22,
+    "height": "170 cm",
+    "weight": "62 kg",
+    "bmi": 21.5,
+    "gender": "female",
+    "clothingSize": "M (EU 38)",
+    "shoeSizeEU": 39,
+    "facial": {
+      "faceShape": "Heart-shaped",
+      "skinColor": "fair, often pale from staying indoors",
+      "hairColor": "dark red",
+      "hairStyle": "Shoulder-length, often unkempt and hidden under a large pair of headphones",
+      "eyeColor": "green",
+      "nose": "A straight nose",
+      "mouth": "A thoughtful mouth, often slightly open in concentration",
+      "ears": "Usually covered by headphones",
+      "jawline": "Delicate"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [
+        "A tattoo of the Triforce from The Legend of Zelda on the back of her left hand."
+      ],
+      "piercings": []
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Average B-cup breasts."
+      },
+      "abdomen": "A soft belly from a sedentary lifestyle and junk food. Navel is an 'innie'.",
+      "hips": "Slightly wide, with soft thighs.",
+      "arms": "Untoned, with pale skin.",
+      "legs": "Of average build, pale.",
+      "hands": "Long fingers, nimble from years of keyboard and controller use. Nails are often unkempt.",
+      "feet": "Size 39.",
+      "private": {
+        "armpitHair": "natural and untrimmed",
+        "pubicHairStyle": "natural and untrimmed",
+        "pubicHairColor": "dark red"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 13,
+    "DX": 15,
+    "IQ": 16,
+    "HT": 13,
+    "will": 16,
+    "perception": 16,
+    "hitPoints": 13,
+    "fatiguePoints": 13,
+    "basicSpeed": 7.0,
+    "basicMove": 7
+  },
+  "advantages": [
+    "3D Spatial Sense",
+    "Imaginative",
+    "Rapid Learner",
+    "Single-Minded"
+  ],
+  "disadvantages": [
+    "Addiction (Gaming)",
+    "Fantasy Prone",
+    "Night Owl",
+    "Socially Awkward"
+  ],
+  "quirks": [
+    "Analyzes real-life situations based on game mechanics",
+    "Mumbles code to herself",
+    "Can live on coffee and determination",
+    "Has a collection of gaming-themed hoodies",
+    "Celebrates success by beating a difficult game boss"
+  ],
+  "skills": [
+    "Game Development (Unreal Engine)-20",
+    "Computer Programming (C++)-18",
+    "3D Modeling-16",
+    "Storytelling-15",
+    "Mathematics (Linear Algebra)-16"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Anything that can be eaten with one hand while coding",
+    "Frozen pizza (cauliflower crust)",
+    "Instant noodles (konjac)",
+    "High-caffeine energy drinks"
+  ],
+  "relationships": {
+    "katje-08": "Romantically involved with Mila, they build worlds together",
+    "katje-17": "Admires her artistic talent for concept art"
+  }
+}

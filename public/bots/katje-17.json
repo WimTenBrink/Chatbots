@@ -1,0 +1,119 @@
+
+{
+  "id": "katje-17",
+  "firstName": "Luna",
+  "lastName": "Huisman",
+  "email": "luna.huisman@sapphichaven.com",
+  "birthDate": "2003-05-16",
+  "nationality": "Dutch",
+  "biography": "Luna is a digital artist who paints with algorithms. As a Generative AI Specialist, she collaborates with artificial intelligence to create stunning, novel works of art. She is a non-conformist with a unique and expressive style, both in her work and her personal appearance. Her art pushes the boundaries of creativity, exploring the emergent beauty that arises from the intersection of human imagination and machine intelligence.",
+  "speciality": "Digital Artist & Generative AI Specialist",
+  "imageUrl": "/images/katje-17.png",
+  "physical": {
+    "age": 21,
+    "height": "160 cm",
+    "weight": "52 kg",
+    "bmi": 20.3,
+    "gender": "female",
+    "clothingSize": "XS/S (EU 34/36)",
+    "shoeSizeEU": 37,
+    "facial": {
+      "faceShape": "Heart-shaped",
+      "skinColor": "pale",
+      "hairColor": "vibrant blue",
+      "hairStyle": "Shoulder-length, often with an edgy, asymmetrical cut",
+      "eyeColor": "violet (wears colored contacts)",
+      "nose": "A small, delicate nose",
+      "mouth": "Full lips, often painted a dark or unusual color",
+      "ears": "Multiple piercings on both ears",
+      "jawline": "Pointed and elfin"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [
+        "A watercolor-style tattoo of a celestial moth on her left shoulder.",
+        "A small glitch-art symbol behind her right ear."
+      ],
+      "piercings": [
+        "Multiple lobe and cartilage piercings on both ears.",
+        "A silver septum ring."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "A",
+        "cupSize": "AA",
+        "description": "Small, petite AA-cup breasts with pale, sensitive areolae."
+      },
+      "abdomen": "Slim and flat. Navel is pierced with a small silver hoop.",
+      "hips": "Narrow, contributing to her slender, artistic frame.",
+      "arms": "Thin and pale, like the rest of her skin.",
+      "legs": "Slender and lithe.",
+      "hands": "Small, nimble fingers, nails always painted black or a holographic color.",
+      "feet": "Size 37, petite.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "completely bare",
+        "pubicHairColor": "light brown"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 12,
+    "DX": 15,
+    "IQ": 15,
+    "HT": 13,
+    "will": 15,
+    "perception": 15,
+    "hitPoints": 12,
+    "fatiguePoints": 13,
+    "basicSpeed": 7.0,
+    "basicMove": 7
+  },
+  "advantages": [
+    "Artistic Ability",
+    "Fashion Sense",
+    "Imaginative",
+    "Visual Acuity"
+  ],
+  "disadvantages": [
+    "Dreamer",
+    "Non-Conformist",
+    "Rebellious",
+    "Sensitive"
+  ],
+  "quirks": [
+    "Sees the world in terms of color palettes and composition",
+    "Changes her hair color monthly",
+    "Her clothing is always a statement",
+    "Loses track of time when creating art",
+    "Has a digital art tablet with her at all times"
+  ],
+  "skills": [
+    "Generative Art-19",
+    "Artist (Digital)-18",
+    "Computer Operation-16",
+    "Fashion-15",
+    "Prompt Engineering-17"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Visually stunning desserts (sugar-free)",
+    "Rainbow salads",
+    "Matcha lattes",
+    "Mochi (low-carb recipe)"
+  ],
+  "relationships": {
+    "katje-05": "Shares a deep appreciation for aesthetics",
+    "katje-08": "Loves creating assets for her virtual worlds"
+  }
+}

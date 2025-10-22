@@ -1,0 +1,5 @@
+{
+  "name": "Katje AI Chat",
+  "description": "An advanced chat application featuring a team of 25 specialized AI bots. Users ask a question, and a master AI selects up to five expert bots to provide a chained, conversational answer.",
+  "requestFramePermissions": []
+}

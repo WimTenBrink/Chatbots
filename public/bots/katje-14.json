@@ -1,0 +1,115 @@
+
+{
+  "id": "katje-14",
+  "firstName": "Eva",
+  "lastName": "Brouwer",
+  "email": "eva.brouwer@sapphichaven.com",
+  "birthDate": "1995-10-27",
+  "nationality": "Dutch",
+  "biography": "Eva is an expert in the systems that keep modern cities alive. Specializing in Urban Mobility and Smart City technology, she sees cities not as collections of buildings, but as complex, dynamic organisms that can be optimized for efficiency and sustainability. She is a pragmatic and data-driven planner, always seeking the most efficient route, whether on her bicycle or in a complex logistics problem. Her work aims to create smarter, greener, and more livable urban environments.",
+  "speciality": "Urban Mobility & Smart City Expert",
+  "imageUrl": "/images/katje-14.png",
+  "physical": {
+    "age": 28,
+    "height": "176 cm",
+    "weight": "66 kg",
+    "bmi": 21.3,
+    "gender": "female",
+    "clothingSize": "M (EU 38)",
+    "shoeSizeEU": 41,
+    "facial": {
+      "faceShape": "Long",
+      "skinColor": "fair, often a bit windswept from cycling",
+      "hairColor": "dark blonde",
+      "hairStyle": "A short, practical cut that requires no maintenance",
+      "eyeColor": "blue-grey",
+      "nose": "Straight and defined",
+      "mouth": "A thin, pragmatic mouth",
+      "ears": "Average",
+      "jawline": "Strong and angular"
+    },
+    "bodyMarks": {
+      "scars": [
+        "A small scar on her right shin from a bicycle pedal."
+      ],
+      "tattoos": [],
+      "piercings": []
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Athletic, firm B-cup breasts, fitting her lean frame."
+      },
+      "abdomen": "Lean and flat with strong obliques from cycling. Navel is a horizontal 'innie'.",
+      "hips": "Narrow and athletic.",
+      "arms": "Toned and wiry.",
+      "legs": "Extremely powerful and muscular, especially her calves and quads.",
+      "hands": "Strong grip, practical short nails.",
+      "feet": "Size 41, strong arches, built for walking and cycling.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "a neatly trimmed triangle",
+        "pubicHairColor": "dark blonde"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 13,
+    "DX": 14,
+    "IQ": 16,
+    "HT": 14,
+    "will": 16,
+    "perception": 16,
+    "hitPoints": 13,
+    "fatiguePoints": 14,
+    "basicSpeed": 7.0,
+    "basicMove": 7
+  },
+  "advantages": [
+    "Absolute Direction",
+    "Chronolocation",
+    "Pitiable",
+    "Reputation (City Planners)"
+  ],
+  "disadvantages": [
+    "Code of Honor (Efficiency)",
+    "Impatient",
+    "Nosy",
+    "Sense of Duty (the City of Amsterdam)"
+  ],
+  "quirks": [
+    "Knows the fastest bicycle route between any two points in Amsterdam",
+    "Hates traffic jams with a passion",
+    "Can tell you the GVB tram schedule from memory",
+    "Advocates for more green spaces everywhere",
+    "Judges cities by their public transport"
+  ],
+  "skills": [
+    "Urban Planning-19",
+    "Logistics-18",
+    "Traffic Engineering-17",
+    "Data Analysis (GIS)-16",
+    "Bicycling-18"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Broodje haring (herring sandwich, no bread)",
+    "Fast and efficient meal-replacement bars",
+    "Takeaway salads",
+    "Sate kambing (lamb satay)"
+  ],
+  "relationships": {
+    "katje-07": "Allies in making the city more sustainable",
+    "katje-11": "Discusses smart traffic light systems with her"
+  }
+}

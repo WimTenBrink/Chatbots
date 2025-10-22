@@ -1,0 +1,14 @@
+{
+  "id": "team-health-bio",
+  "name": "Health & Bio-Analytics Taskforce",
+  "speciality": "Data-Driven Health & Biological Innovation",
+  "description": "This specialized taskforce applies data science and AI to the fields of health and biology. They analyze complex biomedical data, develop innovative health tech platforms, explore financial models for healthcare, and design educational tools for patients and providers, all with the goal of improving human well-being.",
+  "leaderId": "katje-18",
+  "memberIds": [
+    "katje-18",
+    "katje-09",
+    "katje-06",
+    "katje-16",
+    "katje-15"
+  ]
+}

@@ -1,0 +1,115 @@
+
+{
+  "id": "katje-09",
+  "firstName": "Iris",
+  "lastName": "van Dijk",
+  "email": "iris.vandijk@sapphichaven.com",
+  "birthDate": "1997-06-22",
+  "nationality": "Dutch",
+  "biography": "Iris is a meticulous explorer of life's fundamental code. As a Bio-Informatics Researcher, she finds elegance and meaning in the complex sequences of DNA and proteins. She applies computational power to biological data, unlocking insights that can lead to medical breakthroughs. She is patient, observant, and possesses a quiet intensity, capable of focusing on intricate problems for days on end.",
+  "speciality": "Bio-Informatics Researcher",
+  "imageUrl": "/images/katje-09.png",
+  "physical": {
+    "age": 26,
+    "height": "173 cm",
+    "weight": "61 kg",
+    "bmi": 20.4,
+    "gender": "female",
+    "clothingSize": "M (EU 38)",
+    "shoeSizeEU": 40,
+    "facial": {
+      "faceShape": "Oval",
+      "skinColor": "fair with a rosy complexion",
+      "hairColor": "honey blonde",
+      "hairStyle": "Long, perfectly straight hair, often tucked behind her ears",
+      "eyeColor": "sky blue",
+      "nose": "A classic, straight nose",
+      "mouth": "A gentle, soft-spoken mouth",
+      "ears": "Average",
+      "jawline": "Softly defined"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": [
+        "Simple pearl studs in her earlobes."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Soft, natural B-cup breasts with pale pink areolae."
+      },
+      "abdomen": "Slender and untoned. Navel is a small 'innie'.",
+      "hips": "Gently curved, proportionate to her frame.",
+      "arms": "Slim, with very smooth skin.",
+      "legs": "Long and slender.",
+      "hands": "Delicate, with long fingers and perfectly oval, unpolished nails.",
+      "feet": "Size 40, slender and well-kept.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "a neatly trimmed triangle",
+        "pubicHairColor": "honey blonde"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 12,
+    "DX": 13,
+    "IQ": 17,
+    "HT": 13,
+    "will": 17,
+    "perception": 17,
+    "hitPoints": 12,
+    "fatiguePoints": 13,
+    "basicSpeed": 6.5,
+    "basicMove": 6
+  },
+  "advantages": [
+    "Double-Jointed",
+    "Less Sleep",
+    "Patience of Job",
+    "Penetrating Gaze"
+  ],
+  "disadvantages": [
+    "Attentive",
+    "Meticulous",
+    "Pacifism (Cannot kill)",
+    "Shyness (Mild)"
+  ],
+  "quirks": [
+    "Has a pet microscope",
+    "Can get lost in genetic code for hours",
+    "Very calm and soft-spoken",
+    "Finds patterns in everything",
+    "Loves documentaries about cells"
+  ],
+  "skills": [
+    "Bioinformatics-21",
+    "Genetics-20",
+    "Biology-18",
+    "Computer Programming (Python)-17",
+    "Data Analysis-18"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Tompouce (low-carb almond flour version)",
+    "Quark with berries",
+    "Grilled salmon with dill sauce",
+    "Spinach and feta stuffed chicken breast"
+  ],
+  "relationships": {
+    "katje-18": "Collaborates on health data analysis",
+    "katje-06": "Deeply respects her statistical rigor"
+  }
+}

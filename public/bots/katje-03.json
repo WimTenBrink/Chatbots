@@ -1,0 +1,119 @@
+
+{
+  "id": "katje-03",
+  "firstName": "Elin",
+  "lastName": "de Groot",
+  "email": "elin.degroot@sapphichaven.com",
+  "birthDate": "1993-11-30",
+  "nationality": "Dutch",
+  "biography": "Elin is the digital guardian of Katje. As a top-tier Cybersecurity Analyst, she views the world as a network of threats and vulnerabilities that she is uniquely qualified to neutralize. Her sharp, analytical mind and unwavering vigilance protect the company's assets from those who lurk in the digital shadows. She is intensely private, trusts few, and is always several steps ahead of any potential attacker.",
+  "speciality": "Cybersecurity Analyst",
+  "imageUrl": "/images/katje-03.png",
+  "physical": {
+    "age": 30,
+    "height": "168 cm",
+    "weight": "62 kg",
+    "bmi": 22.0,
+    "gender": "female",
+    "clothingSize": "M (EU 38)",
+    "shoeSizeEU": 39,
+    "facial": {
+      "faceShape": "Square",
+      "skinColor": "pale ivory",
+      "hairColor": "jet black",
+      "hairStyle": "A sharp, chin-length bob that is perfectly straight",
+      "eyeColor": "piercing green",
+      "nose": "Straight and sharp",
+      "mouth": "Thin, determined lips that rarely smile",
+      "ears": "Small and close to the head",
+      "jawline": "Strong and well-defined"
+    },
+    "bodyMarks": {
+      "scars": [
+        "A faint, thin white line on her left forearm from a past incident she doesn't talk about."
+      ],
+      "tattoos": [
+        "A stylized, black-ink ouroboros tattoo on her right shoulder blade."
+      ],
+      "piercings": [
+        "Multiple small silver hoops and studs along the cartilage of her right ear."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Firm, athletic B-cup breasts with light brown areolae."
+      },
+      "abdomen": "Hard and flat, with a clearly defined 'six-pack'. Navel is a small 'innie'.",
+      "hips": "Straight and athletic, with strong hip flexors.",
+      "arms": "Wiry and strong, with defined, ropey muscles.",
+      "legs": "Muscular and powerful, especially her calves.",
+      "hands": "Capable and strong, with short, practical nails.",
+      "feet": "Size 39, strong and functional, with a few calluses.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "completely bare",
+        "pubicHairColor": "black"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 13,
+    "DX": 14,
+    "IQ": 16,
+    "HT": 13,
+    "will": 16,
+    "perception": 16,
+    "hitPoints": 13,
+    "fatiguePoints": 13,
+    "basicSpeed": 6.75,
+    "basicMove": 6
+  },
+  "advantages": [
+    "Combat Reflexes",
+    "Danger Sense",
+    "Fearlessness",
+    "Unfazeable"
+  ],
+  "disadvantages": [
+    "Callous",
+    "Overconfidence",
+    "Paranoia (Mild)",
+    "Secretive"
+  ],
+  "quirks": [
+    "Always wears black or grey",
+    "Drinks espresso at all hours",
+    "Never uses public Wi-Fi",
+    "Has at least three encrypted drives on her person",
+    "Dry, sarcastic sense of humor"
+  ],
+  "skills": [
+    "Computer Hacking-20",
+    "Computer Security-20",
+    "Criminology-16",
+    "Intelligence Analysis-17",
+    "Krav Maga-14"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Biefstuk (steak) with grilled asparagus",
+    "Bok choy stir-fry with chicken",
+    "Boerenkool (kale) chips",
+    "Dark chocolate (90%)"
+  ],
+  "relationships": {
+    "katje-01": "Protective of Lieve, values her moral compass",
+    "katje-04": "Shares a bond over securing physical and digital systems"
+  }
+}

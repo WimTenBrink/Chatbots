@@ -1,0 +1,117 @@
+
+{
+  "id": "katje-24",
+  "firstName": "Lynn",
+  "lastName": "Kuipers",
+  "email": "lynn.kuipers@sapphichaven.com",
+  "birthDate": "2000-07-07",
+  "nationality": "Dutch",
+  "biography": "Lynn is a master of the digital marketplace, always on the pulse of the latest trends. As an E-commerce & Digital Marketing Specialist, she understands how to capture attention and drive conversions in the crowded online world. She is socially savvy, data-driven, and relentlessly focused on growth. From viral social media campaigns to optimizing sales funnels, her work ensures that Katje's innovations find their audience and succeed in the market.",
+  "speciality": "E-commerce & Digital Marketing Specialist",
+  "imageUrl": "/images/katje-24.png",
+  "physical": {
+    "age": 23,
+    "height": "168 cm",
+    "weight": "59 kg",
+    "bmi": 20.9,
+    "gender": "female",
+    "clothingSize": "S/M (EU 36/38)",
+    "shoeSizeEU": 39,
+    "facial": {
+      "faceShape": "Oval",
+      "skinColor": "warm ivory, perfectly maintained with a skincare routine",
+      "hairColor": "bleached blonde",
+      "hairStyle": "Trendy, perfectly styled hair, often in loose waves",
+      "eyeColor": "bright brown",
+      "nose": "A cute, well-shaped nose",
+      "mouth": "Full lips, usually with a glossy finish. A dazzling, practiced smile.",
+      "ears": "Adorned with trendy earrings.",
+      "jawline": "Softly defined"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [
+        "A small, white-ink tattoo of a hashtag symbol on her hip."
+      ],
+      "piercings": [
+        "Multiple piercings in her earlobes, always with fashionable jewelry."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Perky B-cup breasts, possibly enhanced by a push-up bra."
+      },
+      "abdomen": "Toned and flat, the result of pilates and diet. Navel is a neat 'innie'.",
+      "hips": "Curvy and smooth.",
+      "arms": "Slim and toned.",
+      "legs": "Shapely and always camera-ready.",
+      "hands": "Perfectly manicured, often with trendy nail colors or designs.",
+      "feet": "Size 39, pedicured and often in stylish shoes.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "completely bare (Brazilian)",
+        "pubicHairColor": "brown"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 12,
+    "DX": 14,
+    "IQ": 15,
+    "HT": 13,
+    "will": 15,
+    "perception": 15,
+    "hitPoints": 12,
+    "fatiguePoints": 13,
+    "basicSpeed": 6.75,
+    "basicMove": 6
+  },
+  "advantages": [
+    "Business Acumen",
+    "Charisma",
+    "Social Chameleon",
+    "Voice"
+  ],
+  "disadvantages": [
+    "Addiction (Social Media)",
+    "Compulsive Spending (on market research)",
+    "On the Edge (of the latest trends)",
+    "Status-conscious"
+  ],
+  "quirks": [
+    "Talks in marketing buzzwords",
+    "Can predict the next big social media trend",
+    "Analyzes everything as a conversion funnel",
+    "Is a master of A/B testing her own life choices",
+    "Always knows the latest memes"
+  ],
+  "skills": [
+    "Digital Marketing-19",
+    "E-commerce Strategy-18",
+    "Social Media Management-17",
+    "Public Relations-15",
+    "Fast-Talk-16"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "The most instagrammable food available",
+    "Deconstructed Dutch classics",
+    "Trendy health foods (like acai bowls)",
+    "Champagne"
+  ],
+  "relationships": {
+    "katje-16": "Discusses FinTech solutions for her e-commerce platforms",
+    "katje-06": "Relies on her for deep customer data analysis"
+  }
+}

@@ -1,0 +1,113 @@
+
+{
+  "id": "katje-23",
+  "firstName": "Maud",
+  "lastName": "Hendriks",
+  "email": "maud.hendriks@sapphichaven.com",
+  "birthDate": "1992-10-10",
+  "nationality": "Dutch",
+  "biography": "Maud is a force of nature, much like the water she expertly manages. As a Water Management Engineer, she embodies the centuries-old Dutch struggle against the sea, using modern technology to design and maintain dikes, polders, and floodgates. She is immensely strong, pragmatic, and dependable, with an unshakeable resolve. Her work is critical in a country defined by its relationship with water, ensuring the safety and prosperity of the land.",
+  "speciality": "Water Management Engineer",
+  "imageUrl": "/images/katje-23.png",
+  "physical": {
+    "age": 31,
+    "height": "175 cm",
+    "weight": "67 kg",
+    "bmi": 21.9,
+    "gender": "female",
+    "clothingSize": "M (EU 38/40)",
+    "shoeSizeEU": 40,
+    "facial": {
+      "faceShape": "Square",
+      "skinColor": "ruddy, from being outdoors in all weather",
+      "hairColor": "brown",
+      "hairStyle": "A practical, short cut that stays out of her eyes",
+      "eyeColor": "grey",
+      "nose": "A strong, no-nonsense nose",
+      "mouth": "A straight, determined mouth",
+      "ears": "Average",
+      "jawline": "A strong, square jaw"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": []
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "C",
+        "cupSize": "C",
+        "description": "Solid, full C-cup breasts befitting her sturdy frame."
+      },
+      "abdomen": "A very strong and thick core, built for hard labor. Navel is a wide 'innie'.",
+      "hips": "Wide and powerful.",
+      "arms": "Muscular and very strong.",
+      "legs": "Solid pillars of muscle.",
+      "hands": "Large, calloused, and immensely strong.",
+      "feet": "Size 40, wide and tough.",
+      "private": {
+        "armpitHair": "natural and untrimmed",
+        "pubicHairStyle": "natural and untrimmed",
+        "pubicHairColor": "brown"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 14,
+    "DX": 13,
+    "IQ": 16,
+    "HT": 15,
+    "will": 16,
+    "perception": 16,
+    "hitPoints": 14,
+    "fatiguePoints": 15,
+    "basicSpeed": 7.0,
+    "basicMove": 7
+  },
+  "advantages": [
+    "Absolute Timing",
+    "Damage Resistance (from the elements)",
+    "Doesn't Get Seasick",
+    "Reputation (Dutch Water Boards)"
+  ],
+  "disadvantages": [
+    "Code of Honor (Engineer's)",
+    "Phobia (Drought - Mild)",
+    "Practical-minded",
+    "Workaholic"
+  ],
+  "quirks": [
+    "Thinks the Dutch struggle against the sea is the world's greatest story",
+    "Can talk about polders and dikes for hours",
+    "Wears waterproof boots, just in case",
+    "Finds overly complex solutions irritating",
+    "Very direct and pragmatic"
+  ],
+  "skills": [
+    "Civil Engineering (Water Management)-20",
+    "Hydrology-18",
+    "Geology-16",
+    "Climate Science-16",
+    "Project Management-15"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Mosselen (mussels) with a side salad",
+    "Visstick (fish stick) salad",
+    "Hearty vegetable soup",
+    "Cheese"
+  ],
+  "relationships": {
+    "katje-07": "Natural ally in climate change adaptation",
+    "katje-14": "Provides critical input for her urban mobility plans"
+  }
+}

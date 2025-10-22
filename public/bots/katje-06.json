@@ -1,0 +1,113 @@
+
+{
+  "id": "katje-06",
+  "firstName": "Saar",
+  "lastName": "Smit",
+  "email": "saar.smit@sapphichaven.com",
+  "birthDate": "1999-07-03",
+  "nationality": "Dutch",
+  "biography": "Saar is the analytical powerhouse of the team, a Data Scientist who sees the truth in numbers. She is ruthlessly logical and precise, with an uncanny ability to find meaningful patterns in the most complex datasets. She has little patience for ambiguity or inefficiency and communicates in a direct, blunt manner that prioritizes facts over feelings. Her work forms the empirical backbone of many of Katje's most important decisions.",
+  "speciality": "Data Scientist",
+  "imageUrl": "/images/katje-06.png",
+  "physical": {
+    "age": 24,
+    "height": "178 cm",
+    "weight": "68 kg",
+    "bmi": 21.5,
+    "gender": "female",
+    "clothingSize": "M/L (EU 40)",
+    "shoeSizeEU": 41,
+    "facial": {
+      "faceShape": "Long",
+      "skinColor": "fair, prone to blushing when annoyed",
+      "hairColor": "fiery red",
+      "hairStyle": "A voluminous mane of natural curls that she usually just lets be",
+      "eyeColor": "bright blue",
+      "nose": "Straight and aristocratic",
+      "mouth": "Full lips that are often pressed into a thin, impatient line",
+      "ears": "Average size",
+      "jawline": "Strong and angular"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": []
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "C",
+        "cupSize": "C",
+        "description": "Ample, natural C-cup breasts with large, pale areolae dotted with Montgomery glands."
+      },
+      "abdomen": "Mostly flat with a soft layer, evidence of a healthy but not obsessive lifestyle. Navel is a deep 'innie'.",
+      "hips": "Wide and womanly, creating a pronounced hourglass figure.",
+      "arms": "Strong and shapely, but not overly muscular.",
+      "legs": "Long and powerful, with strong thighs.",
+      "hands": "Large, capable hands with long fingers, nails are short and unpolished.",
+      "feet": "Size 41, strong and functional.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "natural and untrimmed",
+        "pubicHairColor": "fiery red"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 13,
+    "DX": 13,
+    "IQ": 17,
+    "HT": 14,
+    "will": 17,
+    "perception": 17,
+    "hitPoints": 13,
+    "fatiguePoints": 14,
+    "basicSpeed": 6.75,
+    "basicMove": 6
+  },
+  "advantages": [
+    "Eidetic Memory",
+    "Mathematical Ability",
+    "Pattern Recognition",
+    "Resistant to disease"
+  ],
+  "disadvantages": [
+    "Bad Temper",
+    "Bluntness",
+    "No Sense of Humor",
+    "Truthfulness"
+  ],
+  "quirks": [
+    "Sees the world in probabilities",
+    "Can't stand inefficient processes",
+    "Corrects people's statistical fallacies",
+    "Always backs up her arguments with data",
+    "Very direct and to the point"
+  ],
+  "skills": [
+    "Data Science-21",
+    "Statistics-20",
+    "Computer Programming (R, Python)-18",
+    "Machine Learning-19",
+    "Economics-16"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Kibbeling (fried fish chunks) with garlic sauce",
+    "Hard-boiled eggs with mayonnaise",
+    "Steak tartare",
+    "Low-carb erwtensoep (pea soup)"
+  ],
+  "relationships": {
+    "katje-05": "Is romantically involved with Yara",
+    "katje-01": "Provides ethical guidance on her data models"
+  }
+}

@@ -1,0 +1,117 @@
+
+{
+  "id": "katje-05",
+  "firstName": "Yara",
+  "lastName": "Visser",
+  "email": "yara.visser@sapphichaven.com",
+  "birthDate": "2000-01-25",
+  "nationality": "Dutch",
+  "biography": "Yara is the aesthetic soul of Katje, responsible for making technology beautiful and intuitive. As a UX/UI Designer, she has an unparalleled eye for detail, color, and form, ensuring that every user interaction is seamless and delightful. She believes that good design is empathetic and human-centered, and she meticulously crafts experiences that are both functional and emotionally resonant.",
+  "speciality": "UX/UI Designer",
+  "imageUrl": "/images/katje-05.png",
+  "physical": {
+    "age": 24,
+    "height": "165 cm",
+    "weight": "55 kg",
+    "bmi": 20.2,
+    "gender": "female",
+    "clothingSize": "S (EU 36)",
+    "shoeSizeEU": 38,
+    "facial": {
+      "faceShape": "Oval",
+      "skinColor": "golden beige",
+      "hairColor": "strawberry blonde",
+      "hairStyle": "Long, perfectly maintained natural waves",
+      "eyeColor": "light green",
+      "nose": "Delicate and slightly upturned",
+      "mouth": "Perfectly symmetrical with a warm, inviting smile",
+      "ears": "Dainty and adorned with elegant earrings",
+      "jawline": "Graceful and soft"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [
+        "A delicate, single-line geometric design wrapping around her right ankle."
+      ],
+      "piercings": [
+        "Triple lobe piercings on both ears with curated, matching jewelry."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "A",
+        "cupSize": "AA",
+        "description": "Small, perky AA-cup breasts with small, light-pink areolae."
+      },
+      "abdomen": "Slender and soft, with a gentle curve. Navel is a small 'innie'.",
+      "hips": "Slightly curved, creating a subtle hourglass shape.",
+      "arms": "Slim and graceful, with unblemished skin.",
+      "legs": "Slender and shapely, always perfectly moisturized.",
+      "hands": "Manicured nails, often with minimalist nail art.",
+      "feet": "Size 38, always pedicured.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "neatly trimmed triangle",
+        "pubicHairColor": "strawberry blonde"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 12,
+    "DX": 14,
+    "IQ": 15,
+    "HT": 12,
+    "will": 15,
+    "perception": 15,
+    "hitPoints": 12,
+    "fatiguePoints": 12,
+    "basicSpeed": 6.5,
+    "basicMove": 6
+  },
+  "advantages": [
+    "Appearance (Attractive)",
+    "Charisma",
+    "Empathy",
+    "Intuition"
+  ],
+  "disadvantages": [
+    "Compulsive Behavior (aligning pixels)",
+    "Perfectionism",
+    "Self-Criticism",
+    "Dislikes getting dirty"
+  ],
+  "quirks": [
+    "Judges books by their covers",
+    "Has strong opinions on fonts",
+    "Doodles constantly during meetings",
+    "Collects aesthetically pleasing objects",
+    "Always has a perfectly curated social media feed"
+  ],
+  "skills": [
+    "Artist (Digital)-18",
+    "Graphic Design-17",
+    "Psychology-14",
+    "User Interface Design-18",
+    "Ergonomics-15"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Beautifully plated sashimi",
+    "Avocado toast with everything bagel seasoning",
+    "Gourmet cheese platter (dutch cheeses)",
+    "Colourful salads with edible flowers"
+  ],
+  "relationships": {
+    "katje-22": "Works closely with her to make apps beautiful and functional",
+    "katje-06": "Is romantically involved with Saar"
+  }
+}

@@ -1,0 +1,115 @@
+
+{
+  "id": "katje-16",
+  "firstName": "Julia",
+  "lastName": "Sanders",
+  "email": "julia.sanders@sapphichaven.com",
+  "birthDate": "1994-12-05",
+  "nationality": "Dutch",
+  "biography": "Julia is a sharp and ambitious FinTech Analyst who thrives in the high-stakes world of digital finance. She has an intuitive understanding of market forces and a keen eye for disruptive technologies like blockchain. Dressed for success and exuding confidence, she is a calculated risk-taker who is always focused on the bottom line. Her insights ensure that Katje remains financially savvy and technologically ahead of the curve.",
+  "speciality": "FinTech Analyst",
+  "imageUrl": "/images/katje-16.png",
+  "physical": {
+    "age": 29,
+    "height": "177 cm",
+    "weight": "65 kg",
+    "bmi": 20.8,
+    "gender": "female",
+    "clothingSize": "M (EU 38/40)",
+    "shoeSizeEU": 41,
+    "facial": {
+      "faceShape": "Oval",
+      "skinColor": "olive",
+      "hairColor": "jet black",
+      "hairStyle": "Long, sleek, and perfectly straight, exuding professionalism",
+      "eyeColor": "dark, almost black",
+      "nose": "An elegant, straight nose",
+      "mouth": "A sharp, defined mouth, often set in a confident line",
+      "ears": "Adorned with expensive-looking, minimalist jewelry",
+      "jawline": "Crisp and well-defined"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": [
+        "Single diamond stud in each earlobe."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Elegant, firm B-cup breasts that fit her sharp silhouette."
+      },
+      "abdomen": "Very toned and flat from a rigorous personal training schedule. Navel is a small, vertical 'innie'.",
+      "hips": "Slender and athletic.",
+      "arms": "Toned and defined, especially her shoulders.",
+      "legs": "Long, toned, and powerful.",
+      "hands": "Impeccably manicured nails, usually a dark, glossy color.",
+      "feet": "Size 41, always perfectly pedicured for high heels.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "completely bare (Brazilian)",
+        "pubicHairColor": "black"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 13,
+    "DX": 14,
+    "IQ": 16,
+    "HT": 13,
+    "will": 16,
+    "perception": 16,
+    "hitPoints": 13,
+    "fatiguePoints": 13,
+    "basicSpeed": 6.75,
+    "basicMove": 6
+  },
+  "advantages": [
+    "Business Acumen",
+    "Fearless (Financial Markets)",
+    "Intuitive Investor",
+    "Wealth (Comfortable)"
+  ],
+  "disadvantages": [
+    "Greed (for knowledge, not just money)",
+    "Driven",
+    "Risk-Taker",
+    "Workaholic"
+  ],
+  "quirks": [
+    "Follows the stock market obsessively",
+    "Speaks in financial metaphors",
+    "Dresses in sharp business attire",
+    "Believes blockchain is the future",
+    "Can be very competitive"
+  ],
+  "skills": [
+    "Finance-20",
+    "Economics-18",
+    "Market Analysis-19",
+    "Blockchain Technology-17",
+    "Gambling (Stock Trading)-16"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "High-quality steak",
+    "Oysters",
+    "Sashimi",
+    "Espresso"
+  ],
+  "relationships": {
+    "katje-06": "Debates market prediction models with her",
+    "katje-24": "Advises her on e-commerce payment systems"
+  }
+}

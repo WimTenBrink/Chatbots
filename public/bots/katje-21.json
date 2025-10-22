@@ -1,0 +1,115 @@
+
+{
+  "id": "katje-21",
+  "firstName": "Fleur",
+  "lastName": "Kramer",
+  "email": "fleur.kramer@sapphichaven.com",
+  "birthDate": "1998-11-11",
+  "nationality": "Dutch",
+  "biography": "Fleur is an inventor at the atomic level. As a Materials Scientist, she is endlessly curious about the fundamental properties of matter, and she uses that knowledge to design and create novel materials with extraordinary capabilities. From self-healing polymers to hyper-efficient semiconductors, her work is all about building a better future from the ground up. She is a hands-on experimenter who is always excited by the potential of the next discovery.",
+  "speciality": "Materials Scientist",
+  "imageUrl": "/images/katje-21.png",
+  "physical": {
+    "age": 25,
+    "height": "172 cm",
+    "weight": "60 kg",
+    "bmi": 20.3,
+    "gender": "female",
+    "clothingSize": "M (EU 38)",
+    "shoeSizeEU": 40,
+    "facial": {
+      "faceShape": "Oval",
+      "skinColor": "light tan",
+      "hairColor": "chestnut brown",
+      "hairStyle": "A thick, curly mane that she often struggles to tame",
+      "eyeColor": "dark green",
+      "nose": "A friendly, slightly wide nose",
+      "mouth": "A full, curious mouth",
+      "ears": "Average",
+      "jawline": "Softly rounded"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": [
+        "A single, small silver nose stud on her left nostril."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Average-sized B-cup breasts."
+      },
+      "abdomen": "Soft and untoned. Navel is an 'innie'.",
+      "hips": "Curvy and well-proportioned.",
+      "arms": "Average build, with smooth skin.",
+      "legs": "Shapely and strong.",
+      "hands": "Constantly in motion, touching and feeling different textures. Nails are short.",
+      "feet": "Size 40.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "natural and untrimmed",
+        "pubicHairColor": "chestnut brown"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 13,
+    "DX": 14,
+    "IQ": 16,
+    "HT": 14,
+    "will": 16,
+    "perception": 16,
+    "hitPoints": 13,
+    "fatiguePoints": 14,
+    "basicSpeed": 7.0,
+    "basicMove": 7
+  },
+  "advantages": [
+    "Artificer",
+    "Intuition",
+    "Sensitive Touch",
+    "Versatile"
+  ],
+  "disadvantages": [
+    "Curious",
+    "Experimental",
+    "Obsession (finding the 'perfect' material)",
+    "Sense of Duty (Sustainability)"
+  ],
+  "quirks": [
+    "Can identify plastics by touch and smell",
+    "Fascinated by the texture of things",
+    "Carries a small toolkit with her",
+    "Tries to invent biodegradable versions of everything",
+    "Lab coat is her favorite piece of clothing"
+  ],
+  "skills": [
+    "Materials Science-20",
+    "Chemistry-18",
+    "Nanotechnology-17",
+    "3D Printing-16",
+    "Research-17"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Molecular gastronomy experiments",
+    "Anything with an interesting texture",
+    "Kroepoek (shrimp crackers)",
+    "Tofu in various forms"
+  ],
+  "relationships": {
+    "katje-19": "Helps her develop better materials for vertical farms",
+    "katje-04": "Provides advanced alloys and polymers for her robots"
+  }
+}

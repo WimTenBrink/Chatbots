@@ -1,0 +1,115 @@
+
+{
+  "id": "katje-18",
+  "firstName": "Roos",
+  "lastName": "Hoekstra",
+  "email": "roos.hoekstra@sapphichaven.com",
+  "birthDate": "1994-01-07",
+  "nationality": "Dutch",
+  "biography": "Roos is dedicated to improving human well-being through technology. As a Health Tech Specialist, she works on developing tools and platforms that empower individuals to take control of their health. Combining her deep empathy with a rigorous, data-driven approach, she is passionate about everything from wearable biometric sensors to AI-powered diagnostic tools. She has a calming presence and a genuine desire to help others live healthier, better lives.",
+  "speciality": "Health Tech Specialist",
+  "imageUrl": "/images/katje-18.png",
+  "physical": {
+    "age": 30,
+    "height": "171 cm",
+    "weight": "63 kg",
+    "bmi": 21.5,
+    "gender": "female",
+    "clothingSize": "M (EU 38)",
+    "shoeSizeEU": 39,
+    "facial": {
+      "faceShape": "Heart-shaped",
+      "skinColor": "rosy fair, with a healthy glow",
+      "hairColor": "blonde",
+      "hairStyle": "Shoulder-length, usually pulled back into a practical, neat bun",
+      "eyeColor": "warm green",
+      "nose": "A kind, slightly rounded nose",
+      "mouth": "A reassuring smile, with full lips",
+      "ears": "Average",
+      "jawline": "Gentle and soft"
+    },
+    "bodyMarks": {
+      "scars": [],
+      "tattoos": [],
+      "piercings": [
+        "Simple, small gold studs in her earlobes."
+      ]
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Healthy, natural B-cup breasts."
+      },
+      "abdomen": "Fit and toned, but with a soft surface. Navel is a standard 'innie'.",
+      "hips": "Moderately curvy, with a healthy amount of body fat.",
+      "arms": "Toned and capable.",
+      "legs": "Strong and shapely from an active lifestyle.",
+      "hands": "Caring, gentle hands with clean, short nails.",
+      "feet": "Size 39, well-supported and practical.",
+      "private": {
+        "armpitHair": "cleanly shaven",
+        "pubicHairStyle": "a neatly trimmed triangle",
+        "pubicHairColor": "blonde"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 13,
+    "DX": 14,
+    "IQ": 16,
+    "HT": 14,
+    "will": 16,
+    "perception": 16,
+    "hitPoints": 13,
+    "fatiguePoints": 14,
+    "basicSpeed": 7.0,
+    "basicMove": 7
+  },
+  "advantages": [
+    "Empathy",
+    "High Pain Threshold",
+    "Rapid Healing",
+    "Strong Will"
+  ],
+  "disadvantages": [
+    "Guilt Complex",
+    "Selfless",
+    "Sense of Duty (Patients)",
+    "Workaholic"
+  ],
+  "quirks": [
+    "Owns every health gadget imaginable",
+    "Can diagnose minor ailments with surprising accuracy",
+    "Constantly tracking her biometrics",
+    "Encourages her friends to be healthier",
+    "Very reassuring and calm demeanor"
+  ],
+  "skills": [
+    "Health Technology-20",
+    "Physiology-17",
+    "First Aid-18",
+    "Data Analysis (Health Metrics)-17",
+    "Diagnosis-15"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Bone broth",
+    "Avocado and salmon salad",
+    "Lean chicken and steamed broccoli",
+    "Kefir and fermented vegetables"
+  ],
+  "relationships": {
+    "katje-09": "Romantically involved with Iris",
+    "katje-07": "Agrees on the importance of a healthy environment for healthy people"
+  }
+}

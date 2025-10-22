@@ -1,0 +1,18 @@
+
+{
+  "id": "team-data-infra",
+  "name": "Data & Infrastructure",
+  "speciality": "Data Science, Cloud, and Specialized Platforms",
+  "description": "The Data & Infrastructure team is the backbone of Katje's operations. They manage the massive datasets, build and maintain the scalable cloud infrastructure, and develop specialized platforms for sectors like finance and health. Their work ensures that all of Katje's systems are reliable, scalable, and built on a foundation of solid data.",
+  "leaderId": "katje-06",
+  "memberIds": [
+    "katje-06",
+    "katje-12",
+    "katje-16",
+    "katje-18",
+    "katje-07",
+    "katje-14",
+    "katje-15",
+    "katje-19"
+  ]
+}

@@ -1,0 +1,16 @@
+
+{
+  "id": "team-creative",
+  "name": "Creative & Engagement",
+  "speciality": "User Experience, Marketing, and Digital Arts",
+  "description": "This team is the voice and face of Katje. They are responsible for designing beautiful user interfaces, developing engaging applications and games, creating stunning generative art, and marketing Katje's products to the world. They bridge the gap between powerful technology and human experience.",
+  "leaderId": "katje-05",
+  "memberIds": [
+    "katje-05",
+    "katje-22",
+    "katje-08",
+    "katje-17",
+    "katje-24",
+    "katje-25"
+  ]
+}

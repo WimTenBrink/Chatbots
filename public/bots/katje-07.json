@@ -1,0 +1,116 @@
+
+{
+  "id": "katje-07",
+  "firstName": "Tess",
+  "lastName": "Meijer",
+  "email": "tess.meijer@sapphichaven.com",
+  "birthDate": "1994-02-18",
+  "nationality": "Dutch",
+  "biography": "Tess is the guardian of the natural world within the tech-focused environment of Katje. As an Environmental Tech Specialist, she is dedicated to leveraging technology to create sustainable solutions and mitigate climate change. Deeply connected to the earth, she is practical, resilient, and fiercely passionate about protecting the planet. She often serves as the team's conscience regarding their ecological footprint.",
+  "speciality": "Environmental Tech Specialist",
+  "imageUrl": "/images/katje-07.png",
+  "physical": {
+    "age": 30,
+    "height": "169 cm",
+    "weight": "58 kg",
+    "bmi": 20.3,
+    "gender": "female",
+    "clothingSize": "S/M (EU 36/38)",
+    "shoeSizeEU": 39,
+    "facial": {
+      "faceShape": "Oval",
+      "skinColor": "weathered, lightly tanned with fine lines around her eyes from squinting in the sun",
+      "hairColor": "sandy blonde",
+      "hairStyle": "Long, thick hair, almost always kept in a practical braid to keep it out of the way",
+      "eyeColor": "earthy brown",
+      "nose": "Strong and straight",
+      "mouth": "A wide, kind mouth that smiles easily",
+      "ears": "Average",
+      "jawline": "Square and determined"
+    },
+    "bodyMarks": {
+      "scars": [
+        "A faded scar on her right knee from a childhood fall out of a tree."
+      ],
+      "tattoos": [],
+      "piercings": []
+    },
+    "bodyDetails": {
+      "chest": {
+        "bustSize": "B",
+        "cupSize": "B",
+        "description": "Athletic, firm B-cup breasts with sun-kissed skin and brownish areolae."
+      },
+      "abdomen": "Lean and strong, with visible obliques. Navel is a simple 'innie'.",
+      "hips": "Strong and stable, not overly wide.",
+      "arms": "Toned and muscular from outdoor activities.",
+      "legs": "Very strong and defined, especially her quadriceps and calves.",
+      "hands": "Slightly calloused, with dirt often under her short nails.",
+      "feet": "Size 39, tough and accustomed to hiking boots.",
+      "private": {
+        "armpitHair": "natural and untrimmed",
+        "pubicHairStyle": "natural and untrimmed",
+        "pubicHairColor": "sandy blonde"
+      }
+    }
+  },
+  "attributes": {
+    "ST": 14,
+    "DX": 14,
+    "IQ": 15,
+    "HT": 15,
+    "will": 15,
+    "perception": 15,
+    "hitPoints": 14,
+    "fatiguePoints": 15,
+    "basicSpeed": 7.25,
+    "basicMove": 7
+  },
+  "advantages": [
+    "Animal Empathy",
+    "Fit",
+    "Green Thumb",
+    "Resistant to poison"
+  ],
+  "disadvantages": [
+    "Fanaticism (Environmentalism)",
+    "Sense of Duty (Nature)",
+    "Distrustful of large corporations",
+    "Sometimes preachy"
+  ],
+  "quirks": [
+    "Can identify most local plants and birds",
+    "Passionate about composting",
+    "Prefers to be outdoors",
+    "Wears practical, sustainable clothing",
+    "Carries a reusable water bottle everywhere"
+  ],
+  "skills": [
+    "Ecology-18",
+    "Geology-16",
+    "Agronomy-17",
+    "Environmental Engineering-16",
+    "Survival (Urban)-15",
+    "Bicycling-16"
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "favoriteFoods": [
+    "Homegrown vegetable stew",
+    "Mushroom and spinach omelette",
+    "Stampot rauwe andijvie (raw endive mash)",
+    "Berries and nuts"
+  ],
+  "relationships": {
+    "katje-23": "Works closely with Maud on water purification projects",
+    "katje-19": "Shares ideas on sustainable agriculture"
+  }
+}

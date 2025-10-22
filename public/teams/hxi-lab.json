@@ -1,0 +1,14 @@
+{
+  "id": "team-hxi",
+  "name": "Human-AI Interaction Lab (HXI)",
+  "speciality": "Ethical & Immersive User Experience Research",
+  "description": "The HXI Lab focuses on the intersection of humanity and artificial intelligence. This team researches and develops novel ways for people to interact with AI, focusing on ethical considerations, natural language, immersive AR/VR experiences, and beautiful, intuitive interfaces. Their goal is to make AI feel less artificial and more like a natural extension of human capability.",
+  "leaderId": "katje-13",
+  "memberIds": [
+    "katje-13",
+    "katje-01",
+    "katje-08",
+    "katje-17",
+    "katje-05"
+  ]
+}

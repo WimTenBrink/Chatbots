@@ -1,0 +1,14 @@
+{
+  "id": "team-skunkworks",
+  "name": "Skunkworks Division",
+  "speciality": "Advanced & Experimental R&D",
+  "description": "The Skunkworks Division is where Katje's most ambitious and futuristic ideas take shape. This secretive, agile team works on high-risk, high-reward projects that operate outside the company's normal R&D pipeline. Their focus includes quantum computing applications, advanced robotics, next-generation IoT, and securing these experimental systems.",
+  "leaderId": "katje-03",
+  "memberIds": [
+    "katje-03",
+    "katje-02",
+    "katje-04",
+    "katje-11",
+    "katje-25"
+  ]
+}
