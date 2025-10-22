@@ -7,7 +7,7 @@ import { CharactersDialog } from './components/CharactersDialog';
 import { TeamsDialog } from './components/TeamsDialog';
 import { ChatMessage } from './components/ChatMessage';
 import { orchestrateGroupChat } from './services/geminiService';
-import { SettingsIcon, TerminalIcon, UsersIcon, SendIcon, TeamIcon } from './components/icons';
+import { SettingsIcon, TerminalIcon, UsersIcon, SendIcon, TeamIcon, DocumentDownloadIcon } from './components/icons';
 
 const App: React.FC = () => {
   const [settings, setSettings] = useState<AppSettings>(DEFAULT_SETTINGS);
@@ -144,6 +144,36 @@ const App: React.FC = () => {
     }])
   }, [])
 
+  const handleDownloadChat = useCallback(() => {
+    const markdownContent = messages.map(msg => {
+        switch (msg.author) {
+            case MessageAuthor.USER:
+                return `## 👤 You\n\n${msg.text}\n\n---\n`;
+            case MessageAuthor.BOT:
+                const botName = msg.botProfile ? `${msg.botProfile.firstName} ${msg.botProfile.lastName}` : 'Katje AI';
+                let botContent = `## 🤖 ${botName} (${msg.botProfile?.speciality || 'AI'})\n\n${msg.text}\n`;
+                if (msg.imageUrl) {
+                    botContent += `\n![Generated Image by ${botName}](${msg.imageUrl})\n`;
+                }
+                return botContent + `\n---\n`;
+            case MessageAuthor.SYSTEM:
+                return `> *System: ${msg.text}*\n\n---\n`;
+            default:
+                return '';
+        }
+    }).join('');
+
+    const blob = new Blob([markdownContent], { type: 'text/markdown;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `katje-ai-chat-${new Date().toISOString().slice(0, 10)}.md`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }, [messages]);
+
   const handleSendMessage = async () => {
     if (!userInput.trim() || isLoading || !hasApiKey) return;
 
@@ -241,6 +271,9 @@ const App: React.FC = () => {
             </button>
             <button onClick={() => setIsTeamsOpen(true)} className="p-2 rounded-full hover:bg-slate-700 transition-colors" aria-label="View Teams">
                 <TeamIcon className="w-6 h-6 text-slate-400" />
+            </button>
+            <button onClick={handleDownloadChat} className="p-2 rounded-full hover:bg-slate-700 transition-colors" aria-label="Download Chat History">
+                <DocumentDownloadIcon className="w-6 h-6 text-slate-400" />
             </button>
             <button onClick={() => setIsConsoleOpen(true)} className="p-2 rounded-full hover:bg-slate-700 transition-colors" aria-label="Open Console">
                 <TerminalIcon className="w-6 h-6 text-slate-400" />

@@ -1,15 +1,15 @@
+
 {
   "id": "team-phoenix",
   "name": "Project Phoenix",
   "speciality": "Product Launch & Go-to-Market Strategy",
-  "description": "Project Phoenix is a cross-functional strike team responsible for taking new products from final development to a successful market launch. They coordinate everything from cloud deployment and mobile app releases to marketing campaigns and user experience refinement, ensuring a seamless and impactful debut.",
+  "description": "Project Phoenix operates as Katje's internal 'launch agency', a cross-functional strike team responsible for taking new products from final development to a successful market launch. Utilizing Agile methodologies, they coordinate everything from final A/B testing and marketing campaigns to user onboarding and press releases, ensuring a powerful and coherent go-to-market strategy.",
   "leaderId": "katje-10",
   "memberIds": [
     "katje-10",
-    "katje-24",
     "katje-05",
-    "katje-22",
     "katje-12",
-    "katje-20"
+    "katje-22",
+    "katje-24"
   ]
 }

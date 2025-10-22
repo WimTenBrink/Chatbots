@@ -201,7 +201,7 @@ const generateImage = async (settings: AppSettings, prompt: string, log: LogCall
         prompt: prompt,
         config: { 
             numberOfImages: 1, 
-            outputMimeType: 'image/jpeg', 
+            outputMimeType: 'image/png' as const, 
             aspectRatio: '1:1' as const,
         },
     };
@@ -213,7 +213,7 @@ const generateImage = async (settings: AppSettings, prompt: string, log: LogCall
         log({ level: LogLevel.IMAGEN_RESPONSE, title: "Imagen Response", details: { success: true } });
 
         if (response.generatedImages && response.generatedImages.length > 0) {
-            return `data:image/jpeg;base64,${response.generatedImages[0].image.imageBytes}`;
+            return `data:image/png;base64,${response.generatedImages[0].image.imageBytes}`;
         } else {
             throw new Error("No image generated");
         }

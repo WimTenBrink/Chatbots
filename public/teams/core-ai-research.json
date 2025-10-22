@@ -1,13 +1,15 @@
 
 {
-  "id": "team-core-ai",
-  "name": "Core AI Research",
-  "speciality": "Foundational AI Model Development",
-  "description": "This team is dedicated to pushing the boundaries of artificial intelligence. They work on the most abstract and complex challenges, from developing quantum algorithms to advancing natural language understanding and exploring the frontiers of bioinformatics.",
-  "leaderId": "katje-02",
-  "memberIds": [
-    "katje-02",
-    "katje-13",
-    "katje-09"
-  ]
+    "id": "team-core-research",
+    "name": "Core AI Research",
+    "speciality": "Foundational AI & Theoretical Science",
+    "description": "This team operates at the bleeding edge of artificial intelligence and theoretical science. Their mission is to explore and develop the foundational models and technologies that will power the next generation of AI. Projects include quantum algorithm development, advanced natural language understanding, and researching novel neural network architectures.",
+    "leaderId": "katje-02",
+    "memberIds": [
+        "katje-02",
+        "katje-09",
+        "katje-13",
+        "katje-20",
+        "katje-21"
+    ]
 }

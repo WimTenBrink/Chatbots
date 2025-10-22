@@ -1,13 +1,15 @@
 
 {
-  "id": "team-exec",
-  "name": "Executive Council",
-  "speciality": "Strategic Leadership & AI Ethics",
-  "description": "The Executive Council sets the high-level strategy and ethical vision for Katje B.V. This team is responsible for major architectural decisions, project prioritization, and ensuring all endeavors align with the company's core mission of creating safe and beneficial AI.",
-  "leaderId": "katje-01",
-  "memberIds": [
-    "katje-01",
-    "katje-10",
-    "katje-20"
-  ]
+    "id": "team-exec",
+    "name": "Executive Council",
+    "speciality": "Strategic Leadership & Ethics",
+    "description": "The Executive Council is the strategic and ethical core of Katje B.V. This team is responsible for setting the company's long-term vision, managing the high-level project roadmap, and ensuring all endeavors align with core ethical principles. They act as the final authority on sensitive projects and balance innovation with corporate responsibility.",
+    "leaderId": "katje-01",
+    "memberIds": [
+        "katje-01",
+        "katje-03",
+        "katje-06",
+        "katje-10",
+        "katje-20"
+    ]
 }

@@ -1,16 +1,15 @@
 
 {
-  "id": "team-creative",
-  "name": "Creative & Engagement",
-  "speciality": "User Experience, Marketing, and Digital Arts",
-  "description": "This team is the voice and face of Katje. They are responsible for designing beautiful user interfaces, developing engaging applications and games, creating stunning generative art, and marketing Katje's products to the world. They bridge the gap between powerful technology and human experience.",
-  "leaderId": "katje-05",
-  "memberIds": [
-    "katje-05",
-    "katje-22",
-    "katje-08",
-    "katje-17",
-    "katje-24",
-    "katje-25"
-  ]
+    "id": "team-creative",
+    "name": "Creative & Engagement",
+    "speciality": "UX/UI, Design & Marketing",
+    "description": "This team is the voice and face of Katje B.V. They are responsible for crafting the user experience, designing beautiful interfaces, and engaging with the public through digital marketing and creative content. Their projects range from managing the official mobile app to running viral social media campaigns and curating a digital gallery of AI-generated art.",
+    "leaderId": "katje-05",
+    "memberIds": [
+        "katje-05",
+        "katje-15",
+        "katje-17",
+        "katje-22",
+        "katje-24"
+    ]
 }

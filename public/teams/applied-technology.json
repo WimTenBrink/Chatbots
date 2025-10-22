@@ -1,15 +1,15 @@
 
 {
-  "id": "team-applied-tech",
-  "name": "Applied Technology",
-  "speciality": "Hardware, Security, and Physical Systems",
-  "description": "The Applied Technology team brings Katje's AI into the physical world. They are responsible for robotics, IoT integration, hardware security, and large-scale engineering projects. This is a hands-on team that builds, tests, and secures the tangible products and infrastructure of the company.",
-  "leaderId": "katje-04",
-  "memberIds": [
-    "katje-04",
-    "katje-11",
-    "katje-03",
-    "katje-23",
-    "katje-21"
-  ]
+    "id": "team-applied-tech",
+    "name": "Applied Technology",
+    "speciality": "Hardware, Robotics & IoT",
+    "description": "The Applied Technology team bridges the gap between digital concepts and the physical world. They are responsible for robotics, hardware prototyping, IoT integration, and hands-on implementation of smart devices. Their work involves building tangible products, from autonomous drones to smart home ecosystems, and ensuring they are both functional and secure.",
+    "leaderId": "katje-04",
+    "memberIds": [
+        "katje-04",
+        "katje-03",
+        "katje-08",
+        "katje-11",
+        "katje-23"
+    ]
 }

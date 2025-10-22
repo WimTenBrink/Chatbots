@@ -1,9 +1,8 @@
-
 import React, { useState, useCallback } from 'react';
 import { Modal } from './Modal';
 import { BotProfile, AppSettings, LogEntry, LogLevel } from '../types';
 import { generateProfileImageBase64, generateBikiniImageBase64 } from '../services/geminiService';
-import { ImageIcon, SpinnerIcon, DocumentDownloadIcon, SunIcon, ErrorIcon, CloseIcon } from './icons';
+import { ImageIcon, SpinnerIcon, DocumentDownloadIcon, SunIcon, ErrorIcon, CloseIcon, ArchiveBoxArrowDownIcon } from './icons';
 
 interface CharactersDialogProps {
   isOpen: boolean;
@@ -167,9 +166,16 @@ export const CharactersDialog: React.FC<CharactersDialogProps> = ({ isOpen, onCl
 
     const handleDownloadAllMarkdown = () => {
         const allMarkdown = bots.map(bot => botToMarkdown(bot)).join('\n\n---\n\n');
-        downloadFile(allMarkdown, 'characters.md', 'text/markdown');
+        downloadFile(allMarkdown, 'all-katje-profiles.md', 'text/markdown');
     };
     
+    const handleDownloadAllIndividualMarkdown = () => {
+        bots.forEach(bot => {
+            const markdown = botToMarkdown(bot);
+            downloadFile(markdown, `${bot.id}.md`, 'text/markdown');
+        });
+    };
+
     const handleDownloadMarkdown = (bot: BotProfile) => {
         const markdown = botToMarkdown(bot);
         downloadFile(markdown, `${bot.firstName} ${bot.lastName}.md`, 'text/markdown');
@@ -212,7 +218,8 @@ export const CharactersDialog: React.FC<CharactersDialogProps> = ({ isOpen, onCl
                          <div className="flex gap-2">
                             <button onClick={() => handleBulkGenerate('Avatar')} title="Generate All Avatars" className="p-1 text-slate-400 hover:text-white"><ImageIcon className="w-5 h-5"/></button>
                             <button onClick={() => handleBulkGenerate('Bikini')} title="Generate All Bikini Images" className="p-1 text-slate-400 hover:text-white"><SunIcon className="w-5 h-5"/></button>
-                            <button onClick={handleDownloadAllMarkdown} title="Download All as Markdown" className="p-1 text-slate-400 hover:text-white"><DocumentDownloadIcon className="w-5 h-5"/></button>
+                            <button onClick={handleDownloadAllIndividualMarkdown} title="Download All as Individual Markdown Files" className="p-1 text-slate-400 hover:text-white"><ArchiveBoxArrowDownIcon className="w-5 h-5"/></button>
+                            <button onClick={handleDownloadAllMarkdown} title="Download All as Merged Markdown File" className="p-1 text-slate-400 hover:text-white"><DocumentDownloadIcon className="w-5 h-5"/></button>
                          </div>
                     </div>
                     <ul className="overflow-y-auto h-[calc(100%-4rem)] pr-2">
